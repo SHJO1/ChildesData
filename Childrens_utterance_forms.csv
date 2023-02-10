@@ -1,0 +1,3587 @@
+Order,ID,Utterance,Feature
+1,7,"CHI:        oh it's orange and, uh, a thing on the, top.",P
+1,7,CHI:        a pumpkin.,L
+1,7,CHI:        a orange well it's a like a on the ground.,P+F
+1,7,CHI:        grows out.,F
+1,7,CHI:        hm &=shrugs.,NA
+1,7,CHI:        that's a dancing.,L
+1,7,"CHI:        maybe it's yellow and black and, and maybe it's pink, and right about it's, black ? um?.",P
+1,7,CHI:        and pink and red.,P
+1,7,CHI:        xxx this &=tries:turn_page.,NA
+1,7,CHI:        red &=points:picture.,P
+1,7,CHI:        butterfly.,L
+1,7,"CHI:        a orange and black and, and white.",P
+1,7,CHI:        it's flies.,F
+1,7,"CHI:        and it's, flies in a flower.",F
+1,7,CHI:        white and black.,P
+1,7,CHI:        I know.,I
+1,7,CHI:        that is a skunk.,L
+1,7,CHI:        white and black.,P
+1,7,CHI:        that is white and black &=points:picture.,NA
+1,7,CHI:        a ice cream.,L
+1,7,"CHI:        and a black um little bit orange there, and pink.",P
+1,7,"CHI:        uh it's a have a thing on this, there.",P
+1,7,"CHI:        this is, a Zorg this is orange and pink.",P
+1,7,CHI:        oh.,NA
+1,7,CHI:        a dolphin.,L
+1,7,CHI:        wi and a white and a and blue.,P
+1,7,CHI:        it's a blue and it splashes all around.,P+F
+1,7,"CHI:        zorg this is blue and white and, and black.",P
+1,7,CHI:        that's orange and black and green.,P
+1,7,CHI:        a pinecone.,L
+1,7,CHI:        it's orange and a green.,P
+1,7,CHI:        zorg this is orange and green.,P
+1,7,CHI:        see &=turns:page?,NA
+1,7,CHI:        a firefire.,L
+1,7,"CHI:        it's black and green, and colors.",P
+1,7,CHI:        it's have white.,P
+1,7,CHI:        zorg this is white and black and colors.,P
+1,7,CHI:        pie.,L
+1,7,CHI:        orange and.,P
+1,7,CHI:        hm.,NA
+1,7,"CHI:        and uh hm when can that, be on the bottom &=points:picture.",P
+1,7,"CHI:        it's orange and, and orange.",P
+1,7,"CHI:        a orange and a, nother orange.",NA
+1,7,"CHI:        and a birdie with blue and green, and blue and yellow.",L+P
+1,7,CHI:        its flies has wings.,F+P
+1,7,CHI:        it's a it flies.,F
+1,7,CHI:        it does xxx and it and it goes in a cave.,F
+1,7,CHI:        a blue and green and yellow.,P
+1,7,CHI:        a cracker.,L
+1,7,"CHI:        a cracker that's that's blue and a I mean a, orange and white.",L+P
+1,7,CHI:        it's a colors.,P
+1,7,CHI:        it can eat.,F
+1,7,CHI:        it eats.,NA
+1,7,CHI:        zorg this is orange and white.,P
+1,7,CHI:        so.,NA
+1,7,"CHI:        it's a blue, and green I mean, I mean what is this?",P
+1,7,CHI:        I think this is blue and green and yellow and black and and grey and yellow blue.,P
+1,7,CHI:        it's walks.,F
+1,7,CHI:        so.,NA
+1,7,CHI:        a cat.,L
+1,7,CHI:        a a let's see.,NA
+1,7,CHI:        yellow and black.,P
+1,7,CHI:        it has paws and it have a long tail.,P
+1,7,CHI:        zorg Zorg this is white and ?black?.,P
+1,7,CHI:        a black and a white.,P
+1,7,CHI:        it it walks.,F
+1,7,CHI:        zorg this is black and white.,P
+2,8,CHI:        a pineapple.,L
+2,8,"CHI:        it has thorns, like stick +...",P+T
+2,8,"CHI:        and, it has green [?] stuff on right here.",P
+2,8,CHI:        a kitty.,L
+2,8,CHI:        it has stripes.,P
+2,8,CHI:        and it has a stripe- it has stripes on the foot.,P
+2,8,"CHI:        it has, one two three four legs.",P
+2,8,"CHI:        and, yeah.",NA
+2,8,CHI:                ?a skunk?.,L
+2,8,"CHI:        um, I have a beanie baby skunk.",I+T
+2,8,CHI:        <a beanie baby one> [?].,NA
+2,8,CHI:        what?,NA
+2,8,CHI:        uh-huh [= yes].,NA
+2,8,CHI:        it has white stuff.,P
+2,8,"CHI:        and, it has pointy <stuff on it> [?].",P
+2,8,CHI:        and it stinks.,P
+2,8,CHI:        and it's all black.,P
+2,8,CHI:        a little is white.,P
+2,8,CHI:        a cupcake.,L
+2,8,CHI:        um it has raisins in it or blueberries.,P
+2,8,"CHI:        and, one time I went picking blueberries.",NA
+2,8,CHI:        I had to have the smallest pan (be)cause I was the littlest.,NA
+2,8,CHI:        firstname has had the big one but my mommy and daddy had the biggest.,NA
+2,8,CHI:        my daddy used what I used when he was little.,NA
+2,8,CHI:        uh-huh [= yes].,NA
+2,8,"CHI:        it has nuts in it, too.",P
+2,8,CHI:        a fireman.,L
+2,8,CHI:        um he is wash- he's getting out the fire.,P
+2,8,CHI:        uh-huh [= yes] he's just xxx that he's holding.,P
+2,8,"CHI:        and, he has a point he has a thing.",P
+2,8,CHI:        ah &=turns:page.,NA
+2,8,CHI:        a ballerina.,L
+2,8,"CHI:        mm she, these things are called tutus &=points:tutu.",P
+2,8,CHI:        it's a kind of a funny name.,I
+2,8,"CHI:        and, toe shoes.",P
+2,8,CHI:        another toe shoe.,P
+2,8,"CHI:        and she has, yellow hair.",P
+2,8,CHI:        black tights.,P
+2,8,CHI:        I have a ballerina suit.,I+L
+2,8,CHI:        but it's light pink.,I
+2,8,CHI:        &=laughs and I don't know.,I
+2,8,CHI:        a parrot.,L
+2,8,CHI:        um it has a bunch of blue and green.,P
+2,8,CHI:        green here and green here.,P
+2,8,CHI:        yellow and yellow.,P
+2,8,CHI:        and it's um he's standing on something.,P
+2,8,CHI:        mm-hm [= yes].,NA
+2,8,CHI:        and it has ears [?].,P
+2,8,CHI:        bunch of xxx.,NA
+2,8,CHI:        next one what is I know this one.,I
+2,8,CHI:        um a a dolphin or a whale.,T+L
+2,8,CHI:        um it has a bunch of black and white on the bottom.,P
+2,8,CHI:        I guess it's a whale.,L
+2,8,"CHI:        and it's swimming in, a lake.",P
+2,8,CHI:        I'm finished.,NA
+2,8,"CHI:        um it's a, man that's working in his office.",L
+2,8,CHI:        um he has glasses but he's a little mad.,P+I
+2,8,CHI:        yes.,NA
+2,8,CHI:        and he has a book ?<I mean> [?]?.,P
+2,8,CHI:        &=laughs oh.,NA
+2,8,CHI:        and he has a mean look.,I
+2,8,CHI:        a cracker.,L
+2,8,CHI:        it's a saltine cracker.,T+L
+2,8,CHI:        and it has holes in it.,P
+2,8,CHI:        it has one two three four five six seven eight nine ten eleven twelve thirteen fourteen.,P
+2,8,CHI:        fourteen.,P
+2,8,CHI:        a pumpkin for a pumpkin.,L
+2,8,"CHI:        um, it's, it's for Halloween.",F
+2,8,"CHI:        and, it, and it has stripes on it.",P
+2,8,CHI:        it's orange.,P
+2,8,"CHI:        mm-hm [= yes], and it has a handle.",P
+2,8,"CHI:        and, it, and the handle's blue [?].",P
+2,8,"CHI:        and, and um and that's all.",NA
+2,8,CHI:        a ski girl.,L
+2,8,CHI:        um she's holding a stick and she has glasses on and a necklace.,P
+2,8,CHI:        three necklaces.,P
+2,8,CHI:        three one two.,NA
+2,8,CHI:        one two and three.,NA
+2,8,CHI:        it doesn't go three one two.,NA
+2,8,CHI:        &=laughs.,NA
+2,8,"CHI:        mm-hm [= yes], um and she has blue pants.",P
+2,8,CHI:        and pink shirt.,P
+2,8,"CHI:        and, very very light, shirt [?].",P
+2,8,CHI:        very very very light color shirt.,NA
+2,8,CHI:        that's all I know.,I
+2,8,CHI:        and she has a bow.,P
+2,8,CHI:        um a guy on a race car at a race car is it at a race car.,L
+2,8,CHI:        they're gonna race.,I+P
+2,8,CHI:        &=turns:page &=turns:page_back ah.,NA
+2,8,CHI:        um he has a dog print on his shirt.,P
+2,8,"CHI:        and another, and he has glasses.",P
+2,8,CHI:        a hat.,P
+2,8,CHI:        white tan and black here.,P
+2,8,CHI:        and pink here.,P
+2,8,CHI:        and pink right there.,NA
+2,8,CHI:        and purple on here.,P
+2,8,"CHI:        mm-hm [= yes], and the cars have numbers on them.",P
+2,8,CHI:        and there's everyone.,P
+2,8,CHI:        there's a lot of.,P
+2,8,CHI:        I'm done.,NA
+2,8,CHI:        an ice cream cone.,L
+2,8,"CHI:        um it has pink for the ice cream and dark gold for, um, for the the I mean the cone.",P+L
+2,8,CHI:        you can have ice cream when you're outside like I do xxx.,F+L+I
+2,8,CHI:        &=peeks:next_page oh this one's gonna be a good one [?] next.,NA
+2,8,CHI:        and it has squares on it.,P
+2,8,CHI:        a butterfly.,L
+2,8,CHI:        it has dots on here and orange ?on it?.,P
+2,8,CHI:        a bunch of orange.,P
+2,8,"CHI:        mm-hm [= yes], and, it has little orange dots.",P
+2,8,CHI:        &=turns:page and that's all.,NA
+3,10,CHI:        I know what it is.,NA
+3,10,"CHI:        um let's see, okay.",NA
+3,10,"CHI:        um a, picture of someone playing baseball.",L
+3,10,"CHI:        and um, um, this guy is getting ready to hit the ball.",P
+3,10,CHI:        or try to hit the ?ball?.,P
+3,10,CHI:        what else?,NA
+3,10,"CHI:        hm, you need to like be a, maybe have a you don't really actually have to but some people have like a baseball hat.",I+F
+3,10,CHI:        to wear.,F
+3,10,CHI:        oh.,NA
+3,10,CHI:        now ?bread?.,L
+3,10,CHI:        and um you can slice it or you can eat it when it's whole.,F
+3,10,"CHI:        but if you want, like if somebody wants a half and another person wants a half then you can cut it in half.",F
+3,10,"CHI:        and um, um there are lots of different kinds of bread like wheat bread.",F+T
+3,10,CHI:        let's see whole wheat bread.,T
+3,10,CHI:        plain bread.,T
+3,10,CHI:        white bread.,T
+3,10,"CHI:        and um, there's this bread um, on a movie um +...",L+I
+3,10,CHI:        and it's not really I don't really I don't really know if they have this kind of bread but it's um called pumpernickel.,I+L+T
+3,10,CHI:        &=laughs.,NA
+3,10,CHI:        that's pretty funny.,I
+3,10,"CHI:        let's see, ?hm?.",NA
+3,10,"CHI:        and, only the inside &=points:picture.",P
+3,10,CHI:        well only the outside has crust.,P
+3,10,CHI:        but not the ?inside?.,P
+3,10,CHI:        um a cookie.,L
+3,10,"CHI:        and um, cookies are sometimes crunchy.",L+P
+3,10,"CHI:        they're sometimes um, um ?chewy?.",P
+3,10,"CHI:        um there's lots of different kinds like there's, chocolate chip and molasses.",F+T
+3,10,CHI:        plain.,T
+3,10,CHI:        hm.,NA
+3,10,CHI:        xxx.,NA
+3,10,CHI:        okay.,NA
+3,10,CHI:        a banana.,L
+3,10,"CHI:        they also have you can call it like, a peel.",P
+3,10,"CHI:        and, if you want, you if you don't want to get your hands dirty.",F
+3,10,"CHI:        then, you can pull down the um peel.",F
+3,10,CHI:        and then pull down to the rest of the peel ?and eat the banana?.,F+L
+3,10,"CHI:        or if you want you can just pull the, whole peel off.",F
+3,10,CHI:        let's see &=clicks:tongue.,NA
+3,10,CHI:        a painter.,L
+3,10,CHI:        and let's see.,NA
+3,10,CHI:        she is painting.,P
+3,10,"CHI:        um, right now she's painting a tree.",P
+3,10,CHI:        she's painting on a easel.,P
+3,10,CHI:        and a piece of paper.,P
+3,10,"CHI:        and, she's painting with, paint.",P
+3,10,"CHI:        um, let's see.",NA
+3,10,CHI:        a duck.,L
+3,10,CHI:        let's see.,NA
+3,10,"CHI:        ducks um have, they call it, webbed feet?",L+P
+3,10,CHI:        and a beak.,P
+3,10,CHI:        they all ducks sound different some like just like birds.,L+F+T
+3,10,CHI:        ?yeah?.,NA
+3,10,CHI:        and some birds don't even say anything.,T+F
+3,10,CHI:        what else?,NA
+3,10,CHI:        um ducks have feathers like birds.,L+P+T
+3,10,"CHI:        duck ducks, um, swim.",L+F
+3,10,CHI:        just in like lakes or ponds.,F
+3,10,CHI:        this +...,NA
+3,10,CHI:        is a picture of a baby laying in like a on a blanket or in its crib on a ?blanket?.,L+P
+3,10,CHI:        with three um dolls.,P
+3,10,"CHI:        and, babies like, to kick.",L+F
+3,10,CHI:        um looks like this baby's getting ready to kick.,L+ P
+3,10,"CHI:        um, nope.",NA
+3,10,CHI:        a ladybug.,L
+3,10,CHI:        and it is red.,P
+3,10,CHI:        and it has black spots.,P
+3,10,CHI:        um let's see &=whispers.,NA
+3,10,CHI:        what else &=whispers?,NA
+3,10,"CHI:        huh, I can't think of anything else.",I
+3,10,CHI:        this is a carrot.,L
+3,10,CHI:        and you can either buy carrots or you can grow carrots.,F+L
+3,10,CHI:        in your garden if you have one &=giggles.,F
+3,10,CHI:        and carrots need to be in the (re)frigerator.,L+F
+3,10,CHI:        until you wanna eat ?them?.,F
+3,10,"CHI:        and carrots, are a very good vegetable for you.",L+I+T
+3,10,"CHI:        and, um, let's see.",NA
+3,10,CHI:        let's see &=whispers.,NA
+3,10,"CHI:        hm, or if you want your carrots to be, really cold ?when you take them out you can put them in the freezer?.",L+F
+3,10,CHI:        this is a pig.,L
+3,10,CHI:        pigs are pink.,L+P
+3,10,"CHI:        they they um, they have a curly tail.",P
+3,10,CHI:        and let's see.,NA
+3,10,CHI:        what else?,NA
+3,10,"CHI:        they can, they say oink.",F
+3,10,CHI:        and let's see.,NA
+3,10,"CHI:        hm, huh.",NA
+3,10,CHI:        can't think of anything else.,I
+3,10,CHI:        this is a picture of someone at the hospital or a doctor.,P+L
+3,10,"CHI:        um, the I think she's at the doctor cause it looks like this is the a doctor.",P+L
+3,10,CHI:        and the doctor is I think asking her some questions.,L+P
+3,10,"CHI:        um, looks like right now she's talking.",P
+3,10,"CHI:        um, and she's laying in a bed.",P
+3,10,CHI:        that's ?it? &=whispers.,NA
+3,10,CHI:        this is a pirate.,L
+3,10,"CHI:        um, they, only travel on ships.",F
+3,10,"CHI:        and they wear, patches on only one eye.",P
+3,10,"CHI:        and, um let's see.",NA
+3,10,CHI:        they wear a belt.,P
+3,10,CHI:        they wear boots.,P
+3,10,"CHI:        um, hm, can't think of anything else.",NA
+3,10,CHI:        a chunk of cheese and +...,P+L
+3,10,CHI:        mice like it.,F
+3,10,CHI:        um it's very good food.,I
+3,10,"CHI:        and um, um, any kind of cheese is good food.",T+L+I+F
+3,10,"CHI:        hm, it is yellow.",P
+3,10,"CHI:        and it is shaped, &=whispers let's see, hm like a square.",P
+3,10,CHI:        um a puppy.,L
+3,10,CHI:        and it says woof woof.,F
+3,10,"CHI:        and a puppy, um it take a little while for puppies to be able to walk.",L+F
+3,10,CHI:        um and puppies have paws.,L+P
+3,10,"CHI:        they um, four.",P
+3,10,CHI:        um all of them or [?] feet I know.,P
+3,10,CHI:        um there's two in the front but +...,P
+3,10,CHI:        the two in the front are still feet.,P
+3,10,CHI:        this is a turtle.,L
+3,10,CHI:        turtles have shells.,L+P
+3,10,CHI:        some turtles can't swallow if they're not in water.,L+F
+3,10,"CHI:        and if the turtles are scared they pull their head feet, arms and tail, ?into their shell?.",L+F
+3,10,CHI:        and they also sleep ?in their shell?.,L+F
+3,10,CHI:        um let's see.,NA
+3,10,CHI:        they also go in water.,F
+3,10,"CHI:        huh, can't think of anything else.",I
+4,22,CHI: bread.,L
+4,22,CHI: um bread um you it's chewy.,L+P
+4,22,CHI: I don't know.,NA
+4,22,CHI: zorg this is bread.,L
+4,22,CHI: cookie.,L
+4,22,CHI: um a cookie goes crunch crunch.,L+P
+4,22,CHI: it breaks easily.,F
+4,22,CHI: a bear.,L
+4,22,CHI: um it's a baby.,P
+4,22,CHI: it's just standing there.,P
+4,22,CHI: cheese.,L
+4,22,CHI: it has spots.,P
+4,22,CHI: chedder cheese.,L+T
+4,22,CHI: a pig.,L
+4,22,CHI: they showed this um last night on food ?network?.,I+F
+4,22,CHI: about pigs.,L
+4,22,"CHI: you can make um a ceramic um, cooker.",I
+4,22,CHI: you just have to do two it's um actually a barbeque that's ceramic.,I
+4,22,CHI: you make it have you take it far apart.,I
+4,22,CHI: you put something that makes heat in then you put um the pot in then you put the rack you put another fire pot on and then you put a thermometer.,I
+4,22,CHI: a doctor.,L
+4,22,CHI: um she operates.,F
+4,22,CHI: she helps people.,F
+4,22,CHI: an artist.,L
+4,22,CHI: she paints.,P
+4,22,CHI: and she always looks at what she's doing.,P
+4,22,CHI: a duck.,L
+4,22,CHI: ducks have these feet to help them walk.,L+P+F
+4,22,CHI: and and something in Eqypt there are ducks in this restaurant called xxx and I throw bread to the ?ducks?.,I+L+F
+4,22,CHI: a baby.,L
+4,22,"CHI: he looks just like my ?bother?, when he was tiny xxx.",I+T+P
+4,22,CHI: a ladybug.,L
+4,22,CHI: it has legs to help it crawl.,P+F
+4,22,CHI: this is a ladybug.,L
+4,22,CHI: um this is a bat to hit it when it comes towards him.,F
+4,22,CHI: look at this.,NA
+4,22,CHI: it's a banana.,L
+4,22,CHI: you peel it off of the peel and you eat down down down down till the whole banana is gone.,F+L
+4,22,"CHI: um you, if you want it cut up for your baby you go cut cut cut cut.",F
+4,22,CHI: a pirate with treasure.,L
+4,22,CHI: I don't I don't know why pirates always have these patches on their eyes.,I+L+F
+4,22,CHI: how come?,NA
+4,22,CHI: I'm not sure either.,NA
+4,22,CHI: a carrot.,L
+4,22,CHI: this is my favorite vegetable.,I+T
+4,22,CHI: you eat from here and you go all the way up till this.,F
+4,22,CHI: and you cut that off and you eat the orange.,F
+4,22,CHI: zorg this is a carrot.,L
+4,22,CHI: a turtle.,L
+4,22,CHI: it has claws.,P
+4,22,CHI: there's a big tortoise that walks on land.,L+P+F
+4,22,CHI: it's called Franklin.,I
+4,22,CHI: it's a huge tortoise.,L+P
+4,22,CHI: it's almost as big as that whole couch.,P+T
+4,22,CHI: zorg this is a turtle.,L
+5,24,CHI:        a doctor.,L
+5,24,CHI:        they help people who are sick or hurt.,F
+5,24,CHI:        mm-hm [= yes].,NA
+5,24,"CHI:        zorg you don't, I don't know.",I
+5,24,CHI:        xxx help you.,NA
+5,24,CHI:        a doctor helps people.,L+F
+5,24,CHI:        I'm sick.,I
+5,24,CHI:        a carrot.,L
+5,24,CHI:        you eat it.,F
+5,24,CHI:        it's orange.,P
+5,24,CHI:        and you pick the stem off.,F+P
+5,24,CHI:        eat it &=makes:Zorg_eat_carrot.,F
+5,24,CHI:        it's gonna eat it.,F
+5,24,CHI:        a baseball player.,L
+5,24,CHI:        some have bats and some have gloves.,P
+5,24,CHI:        when the ball comes to you ya hit it.,F
+5,24,CHI:        it's much of a puppy.,L
+5,24,CHI:        first there's a mama puppy and then she has her babies.,I+L+F
+5,24,"CHI:        um, Zorg it's a puppy.",L
+5,24,CHI:        you pet him.,F
+5,24,CHI:        a turtle.,L
+5,24,CHI:        he's really slow.,P
+5,24,CHI:        he has a shell and no animal can eat its shell.,P+T+F
+5,24,CHI:                ?cookie?.,L
+5,24,CHI:        you eat it for dessert.,F+T
+5,24,CHI:        mm-hm [= yes].,NA
+5,24,CHI:        you eat it Zorg.,F
+5,24,CHI:        a painter.,L
+5,24,CHI:        you paint it.,P
+5,24,CHI:        and then you get some paint and then you paint it.,F+P
+5,24,CHI:        yep.,NA
+5,24,CHI:        first they get a paintbrush put it in paint and then paint pictures that you want to paint.,F+P
+5,24,CHI:        banana.,L
+5,24,"CHI:        you eat it and, you, hold the peel.",F+P
+5,24,CHI:        yes.,NA
+5,24,CHI:        you don't eat the peel.,F+P
+5,24,CHI:        look there's a ladybug right here.,L
+5,24,CHI:        a ladybug.,L
+5,24,CHI:        it's a bug.,T
+5,24,CHI:        she's red and has black polka dots.,P+I
+5,24,CHI:        mm-hm [= yes].,NA
+5,24,CHI:        you don't eat bugs.,F+T
+5,24,CHI:        a duck.,L
+5,24,"CHI:        he swims in water and, that's it.",F+I
+5,24,CHI:        he has she has baby ducklings.,F
+5,24,CHI:        mm-hm [= yes].,NA
+5,24,CHI:        it's a duck.,L
+5,24,CHI:        it's a duck.,L
+5,24,CHI:        oh a pirate.,L
+5,24,CHI:        oh the pirate.,L
+5,24,CHI:        he rides on a ship.,F
+5,24,CHI:        he needs gold.,F
+5,24,CHI:        and has a parrot.,P
+5,24,CHI:        yes.,NA
+5,24,CHI:        zorg that's a treasure chest and those are pirates.,L
+5,24,CHI:        baby.,L
+5,24,CHI:        he cannot do anything but lay there and cry &=burps.,F+P
+5,24,CHI:        excuse me.,NA
+5,24,CHI:        zorg it's a baby.,L
+5,24,CHI:        you don't eat it.,F
+5,24,CHI:        it's a person.,T
+5,24,CHI:        yuck people stinks.,T+I
+5,24,CHI:        a pig.,L
+5,24,CHI:        he likes to roll in the mud.,F
+5,24,CHI:        and it's pink.,P
+5,24,"CHI:        um, I don't know.",I
+5,24,CHI:        and he snorts &=makes:snorting_noise.,P
+5,24,CHI:        oink oink.,P
+5,24,CHI:        piggy.,L
+5,24,CHI:        it's an animal.,T
+5,24,CHI:        you don't eat it.,I+F
+5,24,CHI:        he likes to eat hay.,F
+5,24,CHI:        cheese.,L
+5,24,"CHI:        mice eat it, for a treat.",F
+5,24,CHI:        yes.,NA
+5,24,CHI:        you eat it.,F
+5,24,CHI:        bread.,L
+5,24,CHI:        eat it you can put toast on it.,F+T
+5,24,CHI:        it's French toast.,T
+5,24,CHI:        you eat it and you use it for your eggs [= book closed].,F
+5,24,CHI:        &=shakes:head_no.,NA
+6,29,"CHI: um, cereal.",L
+6,29,"CHI: last night um um I went to my school and I, Firstname wanted those (ex)cept I had different ones so.",I
+6,29,"CHI: he wanted uh, look he wanted to have some but instead of having those ones um he wanted uh some the ones my other friend was having.",I
+6,29,"CHI: mm, then um, Firstname like and then I look down and say hey who stealed my cereal xxx.",I+L
+6,29,CHI: hey Firstname did you eat my cereal?,I+L+F
+6,29,CHI: yes.,NA
+6,29,CHI: and he said he ate it.,I+F
+6,29,"CHI: um, a lobster.",L
+6,29,"CHI: um, every time my mommy go out in the big part where um a lot of stuff are um I always like to look at the crabs but then I can't see my mom and I try to find but I didn't see her.",I+T
+6,29,"CHI: but last time um, my teacher um, he um wrote a book and then, and then um, uh, and then uh, and then uh, and then we sawed a lobster and then we saw a swordfish and we saw a shark and <a lot> [?] all the animals we're ever going to see.",I+L+T
+6,29,"CHI: mm, a a plane guy.",L
+6,29,"CHI: and then uh, last night when I was um a baby I went on one to Florida.",I
+6,29,CHI: and then I fell asleep.,I
+6,29,CHI: and then when I woke up we were there and mommy was just carrying me.,I
+6,29,"CHI: mm, and then um, and then we land and it make a big sound and I like woke up and then Mom pick me up and then that's when I woke up.",I
+6,29,CHI: she was holding me.,I
+6,29,CHI: a teacher.,L
+6,29,"CHI: and um, last night I went to my new school I'm going to go to when I get this many &=holds:up_five_fingers (be)cause I'm four and I'm almost that many &=holds:up_five_fingers.",I
+6,29,"CHI: and, and, and last night, I went to but that was a long time ago and then we when we got home I wanted to play my Star_Wars game more.",I
+6,29,"CHI: and then uh, when I was driving um, my schools like really really close but I can still walk there but my friend Firstname he he just got a new house so he can't walk there now.",I
+6,29,CHI: (ex)cept he's all done with school but I'm still done.,I
+6,29,CHI: now I'm done with school.,I
+6,29,CHI: popcorn.,L
+6,29,CHI: last night um I watched Nemo but I don't really like to watch Nemo but I just have to.,I
+6,29,CHI: but last time I turned it off (be)cause I didn't want my dad putting it on but then xxx and uh mommy's bedroom (be)cause I want to watch it.,I
+6,29,"CHI: and then last night um my friend Firstname uh her ate popcorn but uh, mm.",I+L
+6,29,"CHI: mm, then her got like with just one seed in it but I just had like seven, ?seeds in there?.",I+P
+6,29,CHI: and I don't really like that.,I
+6,29,CHI: mm no.,NA
+6,29,CHI: (be)cause I didn't want to.,NA
+6,29,"CHI: um, last night uh, I my dad and mom um I mean my daddy and he went with um his friend to there to a football and (be)cause I didn't go I stayed home with my mom.",I
+6,29,"CHI: and then um, then uh, then um I played my Star_Wars game for a little bit.",I
+6,29,CHI: and then I like paused it and I played a little bit.,I
+6,29,CHI: and then like later [?] I climbed up my furniture but my mom didn't even care (be)cause her didn't know.,I
+6,29,CHI: but just didn't want me to climb on the table furniture.,I
+6,29,CHI: that's all but.,I
+6,29,CHI: that's okay if I climb on the furniture you sit on or a bed.,NA
+6,29,CHI: a witch.,L
+6,29,"CHI: um, last night um, um, last night um we watched a funny show and then was just something [?] with a witch on.",I+L
+6,29,"CHI: and then uh, and then uh, and then um, and then uh, and then, and then a person walked and he walked into the witches house because he didn't even know that was the witch house.",I+L
+6,29,"CHI: and then, I watched one and then her opened up the door and then her went in the kitchen and then um uh, and then uh, and then uh, and then and then the the guys no hair [?] came and he and then the polar bear like scared the guys [?] and hit him.",I
+6,29,CHI: and then we watched another part and the other part's when those ones.,I
+6,29,CHI: cake.,L
+6,29,"CHI: last time my momma had a birthday um but I was like, um I was like the other day but and then like my mommy um her um, uh, her um.",I+F
+6,29,CHI: her had stuff in it but I didn't like.,I+F
+6,29,CHI: I just ate the frosting of it and then I got another that had frosting on and I just ate the frosting off of it.,I+P+F
+6,29,CHI: (be)cause I just wanted to.,I
+6,29,"CHI: and then um, and then um we saved some for my daddy.",I
+6,29,CHI: a horsie.,L
+6,29,"CHI: last night um, my animal went around looking for a horsie but it didn't, see it.",I+L
+6,29,"CHI: and then um, and then, and then, then last night um, I um I rode a pony when I was three when I was two I mean and then um.",I+L
+6,29,CHI: I don't remember that now but.,I+L
+6,29,CHI: that was a long time ago and I don't remember it.,I+L
+6,29,"CHI: mm, a orange.",L
+6,29,CHI: last night I had a orange when I was standing on my chair but I didn't break it.,I+L
+6,29,"CHI: um, then I when I bited xxx but then I took it out.",I+F
+6,29,CHI: mm-hm [= yes].,NA
+6,29,CHI: yeah.,NA
+6,29,CHI: a crocodile.,L
+6,29,CHI: last night my grandpa shot a crocodile.,I+L
+6,29,CHI: and then my and then Grandpa had crocodile meat but I don't really eat cuz I don't really like to eat crocodile.,I+L+F
+6,29,"CHI: and then um, last time, we went to um and then my mom when her was um three um, um her was fishing and then her caught something and said I think I caught a big fish.",I
+6,29,"CHI: and then what it was was just a, boot but then a was [?] crocodile came out and then her xxx pull right in the water but then her grandpa got it.",I+L+F
+6,29,CHI: out of the water.,I+F
+6,29,CHI: fishing pole [?] xxx.,NA
+6,29,CHI: broccoli.,L
+6,29,CHI: last time I ate broccoli (ex)cept I didn't really feel good so I just went to bed.,I+L+F
+6,29,"CHI: and, then, um uh, and then uh, and then um uh, last night I ate some but then I got full.",I+F
+6,29,CHI: um a elephant.,L
+6,29,"CHI: last night um when I went to the zoo I saw an elephant but then um, then last night um, we went to the zoo but there was no elephants there.",I+L+F
+6,29,"CHI: but last time um, we um, went to one and um, and then um, then um we saw it but I was but and then there was one where baby xxx [= animal name] is.",I
+6,29,"CHI: mm, and then uh, and then, again last night um I saw a zookeeper riding on it.",I+F
+6,29,CHI: and last time baby xxx [= animal name] s being funny (be)cause then her got her trunk like on on a pole and then hers like was kinda like hers like pulling the pole right off.,I+P+F
+6,29,CHI: a penguin.,L
+6,29,CHI: last night um I went down in the penguin but it was really dark in there but that's where you can look in windows where the penguins were swimming [?] in the water.,I+L+F
+6,29,"CHI: and then uh, and then uh, last night, um, I um, saw one and last night one almost flied right out of it.",I
+6,29,CHI: they didn't know it was glass and banged his head.,I+F
+6,29,CHI: a clown.,L
+6,29,CHI: last night um when we went to a play (be)cause Firstname um there was a clown and I was a little scared of it.,I+L
+6,29,CHI: I just ran and hide.,I
+6,29,CHI: I wasn't really scared of all of them just some of (th)em.,I
+6,29,"CHI: and then um, and then uh, then last time uh, um, I saw one but he had candy and he gave some to me and I was even scared of that one.",I
+7,34,CHI: bread.,L
+7,34,CHI: um it's used for eating.,F
+7,34,CHI: my mom use a lot of like these xxx bread at home.,I+L+F
+7,34,CHI: because the doctor told em [?] to eat um those.,F+I
+7,34,CHI: no.,NA
+7,34,CHI: a cheese.,L
+7,34,CHI: kind of I like cheese plain.,I+L
+7,34,CHI: but some times I eat them with bread.,I+F
+7,34,CHI: they taste <really ?good> [?]?.,I
+7,34,CHI: sometimes you eat them regular.,F
+7,34,CHI: don't [?].,NA
+7,34,CHI: what?,NA
+7,34,CHI: what?,NA
+7,34,CHI: &=shakes:head_no.,NA
+7,34,CHI: I think I know a lot about pigs.,I+L
+7,34,CHI: I think that I know a [?] lot lot about the other things.,I
+7,34,CHI: &=nods:head_yes.,NA
+7,34,CHI: um a basket um baseball man.,L
+7,34,CHI: a carrot.,L
+7,34,CHI: mm-hm [= yes].,NA
+7,34,CHI: they play basketball a lot.,F
+7,34,CHI: all the people came to watch them.,F
+7,34,CHI: mm-hm [= yes].,NA
+7,34,CHI: I think that's it I say about them.,I
+7,34,CHI: a carrot.,L
+7,34,CHI: they're um they have orange lines.,P
+7,34,CHI: that's where you bite in them.,F
+7,34,CHI: I think.,I
+7,34,CHI: and they're for eating.,F
+7,34,"CHI: I think, that's it I know about carrots.",I
+7,34,CHI: no.,NA
+7,34,CHI: banana.,L
+7,34,CHI: my my sister actually eats some of the skin.,I+F
+7,34,"CHI: it's um, good.",I
+7,34,CHI: a duck.,L
+7,34,"CHI: um, um, a duck is likes to swim in the water.",L+F
+7,34,CHI: they like to xxx.,F
+7,34,CHI: when [?] they get up they xxx kinda.,F
+7,34,CHI: all kinda bird can fly.,T+F
+7,34,CHI: ducks can fly.,F
+7,34,CHI: a pig.,L
+7,34,CHI: I know lots about this.,I
+7,34,CHI: um pigs used to live in mud on a farm.,L+F
+7,34,CHI: and um they they they say oink.,P
+7,34,CHI: um um hm hm hm.,NA
+7,34,CHI: they have four legs.,P
+7,34,CHI: and I think that's all I have [?] to tell about them.,I
+7,34,CHI: a doctor.,L
+7,34,CHI: when I grow up I'm gonna be like that.,I
+7,34,CHI: when people get sick they take care of (th)em.,F
+7,34,CHI: um mm I think that's it to tell about them.,I
+7,34,CHI: &=shakes:head_no.,NA
+7,34,CHI: a painter.,L
+7,34,CHI: they paint a lot.,F
+7,34,"CHI: um, hm I think that's it tell about them.",I
+7,34,CHI: a cookie.,L
+7,34,CHI: a cookie is made for eating.,F+L
+7,34,CHI: and um I think that's it.,I
+7,34,CHI: it it has little crumbs.,P
+7,34,CHI: and I think that's it.,NA
+7,34,CHI: a baby.,L
+7,34,CHI: um babies could um.,L
+7,34,CHI: I think there's nothing about babies.,I+L
+7,34,CHI: hm.,NA
+7,34,CHI: babies um like to play with toys a lot.,F+L
+7,34,CHI: &=shakes:head_no.,NA
+7,34,CHI: a dog.,L
+7,34,CHI: dog likes to play with bones.,L+F
+7,34,CHI: they like to eat bone &=sighs.,F
+7,34,"CHI: I think that's it, all I can tell about them.",I
+7,34,CHI: mm I think that's it.,NA
+7,34,CHI: hm hm.,NA
+7,34,CHI: I think that's it I could tell.,NA
+7,34,CHI: pirate man having a um a parrot.,L+P
+7,34,CHI: and then he has golden treasure over here.,P
+7,34,CHI: and um I think that's it.,I
+7,34,CHI: mm he has a parrot on <his head> [?].,P
+7,34,CHI: kind of treasure.,P
+7,34,CHI: coins.,P
+7,34,CHI: treasure box.,P
+7,34,CHI: a necklace I think.,P
+7,34,CHI: <all the things> [?].,NA
+7,34,CHI: I think that's it.,NA
+7,34,CHI: a turtle.,L
+7,34,CHI: has four legs.,F
+7,34,CHI: you can't even see this one.,P
+7,34,CHI: and it's here.,P
+7,34,CHI: this is his shell [= indicating on page].,P
+7,34,CHI: and that's it.,I
+7,34,CHI: mm his tail has sharp xxx.,P
+7,34,CHI: and I think &=turns:page.,NA
+7,34,CHI: ladybug.,L
+7,34,CHI: they have big black spots.,P
+7,34,CHI: four legs.,P
+7,34,CHI: um um this red stuff.,P
+7,34,CHI: they could fly.,F
+7,34,CHI: and um this black white and black and all that stuff.,P
+7,34,CHI: and I think that's it &=turns:page.,I
+7,34,CHI: mm I think that's it I could tell.,NA
+7,34,CHI: I think that's it that's in my mind.,NA
+7,34,CHI: no.,NA
+8,30,CHI:        a cake.,L
+8,30,CHI:        what?,NA
+8,30,CHI:        you eat it.,F
+8,30,CHI:        and it's a chocolate cake.,T
+8,30,CHI:        it's a chocolate one.,T
+8,30,CHI:        it's a chocolate one.,NA
+8,30,CHI:        broccoli.,L
+8,30,CHI:        you eat it.,F
+8,30,"CHI:        I don't, know anything else about it.",I
+8,30,CHI:        a horse.,L
+8,30,CHI:        it has a tail.,P
+8,30,CHI:        you ride it.,F
+8,30,CHI:        it has legs.,P
+8,30,CHI:        that's all I know about it.,I
+8,30,CHI:        I don't know.,NA
+8,30,CHI:        a hockey player.,L
+8,30,CHI:        I don't know anything else about it.,I
+8,30,CHI:        it has legs.,P
+8,30,CHI:        it has arms.,P
+8,30,CHI:        a penguin.,L
+8,30,CHI:        it doesn't have any legs.,P
+8,30,CHI:        it has arms.,P
+8,30,CHI:        it has a nose.,P
+8,30,CHI:        it has eyes.,P
+8,30,CHI:        it has a head.,P
+8,30,CHI:        it has a belly.,P
+8,30,CHI:        a orange.,L
+8,30,CHI:        it's orange.,NA
+8,30,CHI:        it has a stem.,P
+8,30,CHI:        that's all it has.,P
+8,30,"CHI:        you can you, it's for you to eat.",F
+8,30,CHI:        that's all I know.,I
+8,30,CHI:        I don't know anything else about it.,I
+8,30,CHI:        a elephant.,L
+8,30,CHI:        it has legs.,P
+8,30,CHI:        I don't know anything else it has.,I
+8,30,CHI:        a crab.,L
+8,30,CHI:        it it will pinch your fingers.,F
+8,30,"CHI:        I have a book about, it.",I
+8,30,CHI:        but it has those in it.,I
+8,30,CHI:        <it's stand up> [?].,P
+8,30,"CHI:        I don't know anything else, of it.",I
+8,30,CHI:        a teacher.,L
+8,30,CHI:        it helps kids teach.,F
+8,30,CHI:        I don't know anything else.,I
+8,30,CHI:        we bringed food here.,I
+8,30,CHI:        I don't know all of it.,NA
+8,30,CHI:        egg salad.,L
+8,30,CHI:        I don't know anything else.,I
+8,30,CHI:        I don't know anything else about egg salad.,L
+8,30,CHI:        cereal.,L
+8,30,CHI:        it's Total.,I
+8,30,CHI:        my dad eats Total.,I+F
+8,30,CHI:        it needs milk.,F
+8,30,CHI:        I don't know anything else.,I
+8,30,CHI:        a alligator.,L
+8,30,CHI:        it eats you.,F
+8,30,CHI:        I don't know anything else.,I
+8,30,CHI:        a witch.,L
+8,30,CHI:        it's for Halloween.,F
+8,30,CHI:        that's all I know.,I
+8,30,CHI:        a clown.,L
+8,30,CHI:        it's dressed up of a people.,F
+8,30,CHI:        I don't know anything else.,I
+8,30,CHI:        it's pointing at his ears.,P
+9,36,CHI:        um a cookie.,L
+9,36,CHI:        he um I eat a cookie and it goes with my teeth.,F+L
+9,36,CHI:        I eat it with my teeth xxx.,F
+9,36,"CHI:        he ate it all, look.",F
+9,36,CHI:        he at it all up.,F
+9,36,CHI:        he likes to eat the cookie &=makes:Zorg_eat_cookie.,I+F+L
+9,36,CHI:        he ate it all up.,F
+9,36,CHI:        look.,NA
+9,36,CHI:        baseball man.,L
+9,36,CHI:        um he plays baseball and he hits the ball and it goes back to someone else.,P+F
+9,36,CHI:        you know what?,NA
+9,36,CHI:        you gotta learn to play baseball.,I
+9,36,"CHI:        well, you can need to learn to play baseball by yourself now because you're no nice.",I+F
+9,36,CHI:        um a turtle.,L
+9,36,CHI:        he can go underwater.,F
+9,36,CHI:        he can swim.,F
+9,36,CHI:        and he's got a shell.,P
+9,36,CHI:        and he can go inside it.,F
+9,36,CHI:        so he won't be afraid of anything.,I
+9,36,CHI:        well you know what?,NA
+9,36,CHI:        he gotta learn to swim underwater with the turtle and the fish and a crab.,I+L+T+F
+9,36,"CHI:        I can, I can go underwater at my grandma's beach.",I
+9,36,CHI:        but I can't go in the deep water.,I
+9,36,CHI:        (be)cause that scares me and my brother.,I
+9,36,CHI:        and I but turtles and crabs can.,L+T+F
+9,36,CHI:        I got goggles to see.,I
+9,36,CHI:        and they're pretty and they're green.,I+P
+9,36,CHI:        I like them all.,I
+9,36,CHI:        so that's what turtles are all about.,L
+9,36,CHI:        and she's at the doctors.,L
+9,36,CHI:        well she's at the doctor when she's sick she doesn't feel good.,L
+9,36,CHI:        when I'm sick I gotta go to the doctor.,I+L
+9,36,CHI:        once I got new [?] cavities.,I
+9,36,CHI:        they're pretty and they got good things in them to make teeth.,I+F
+9,36,CHI:        well you know what?,NA
+9,36,CHI:        you need to learn to go to the doctor and be patient.,I+F+L
+9,36,CHI:        bread.,L
+9,36,CHI:        well when you eat bread it tastes good with peanut butter sandwich.,F+L+I
+9,36,CHI:        that's so good.,I
+9,36,CHI:        I like that.,I
+9,36,CHI:        it's so good.,I
+9,36,CHI:        and I love it.,I
+9,36,"CHI:        well you need to learn to eat, you nut.",I+F
+9,36,CHI:        I know all these things.,I
+9,36,CHI:        pig.,L
+9,36,CHI:        pig.,L
+9,36,CHI:        he's a cow pig.,T
+9,36,CHI:        see the spots?,P
+9,36,CHI:        xxx cow pig.,T
+9,36,CHI:        cow pigs do like this &=snorts.,T+P
+9,36,CHI:        they make funny noises.,P+F
+9,36,CHI:        you gotta learn to snort like a pig &=snorts.,I+P+L
+9,36,CHI:        that's a duck.,L
+9,36,CHI:        I can sound like a duck.,I+L+F
+9,36,CHI:        quack quack.,P
+9,36,CHI:        well if this duck learns how to quack he can quack like this.,L+F+P
+9,36,CHI:        quack Quack.,P
+9,36,CHI:        so he's a good duck &=makes:Zorg_quack.,I+L
+9,36,CHI:        you already know how to quack like a duck now quack,I+F+L+P
+9,36,CHI:        well if [?] you have to quack like a duck.,I+P+L
+9,36,CHI:        quack.,P
+9,36,CHI:        painting.,P
+9,36,CHI:        well if she's painting really easy she can't get paint on her.,I+P
+9,36,"CHI:        so that's why, she needs to do it.",I+P
+9,36,CHI:        well do you know what?,NA
+9,36,CHI:        you you need to paint by yourself now.,I+F
+9,36,CHI:        baby.,L
+9,36,CHI:        well if the baby cries and wants some breakfast she say wah.,L+F+P
+9,36,CHI:        you gotta cry like a baby [= talking to Zorg].,I+F+L
+9,36,CHI:        this is a funny one.,I
+9,36,CHI:        banana.,L
+9,36,CHI:        I like to eat bananas.,I+F+L
+9,36,CHI:        they're good and they're.,I
+9,36,CHI:        and [?] do you know what [= talking to Zorg]?,NA
+9,36,CHI:        you need to learn to eat a banana.,I+F+L
+9,36,CHI:        well if you eat a banana you eat good fruit.,F+L+I+T
+9,36,CHI:                ?pup?.,L
+9,36,CHI:        puppy doggie.,L
+9,36,CHI:        he looks pretty.,P+I
+9,36,CHI:        well the doggie barks &=barks.,L+P
+9,36,CHI:        my doggie doesn't like to be picked up.,I+L
+9,36,CHI:        so he's a Cavelier_King_Charles_Spaniel <kind of dog> [?].,T
+9,36,CHI:        well you need to bark like a puppy &=barks.,I+P+L
+9,36,CHI:        and I see carrot.,L
+9,36,CHI:        carrot.,NA
+9,36,CHI:        I like to eat carrots.,I+F+L
+9,36,CHI:        they're ?good?.,I
+9,36,CHI:        well he I like to eat carrots and he does too.,I+F+L+T
+9,36,CHI:        bunny rabbits like to eat carrots.,F+L
+9,36,CHI:        and that's a ladybug.,L
+9,36,CHI:        that's a ladybug.,NA
+9,36,CHI:        well if the ladybug always comes in your house I have a bug catcher um to let him um crawl in.,L+I+F
+9,36,CHI:        I got a lot of things on it with it.,I+F
+9,36,CHI:        and my teacher gave it to me.,I
+9,36,CHI:        firstname got one too.,I
+9,36,CHI:        all my friends got it too.,I
+9,36,CHI:        they loved it.,I
+9,36,"CHI:        so this bug is a, red ones are &=makes:noise",T+P
+9,36,CHI:        does he like to eat bugs?,I+F+T
+9,36,CHI:        he got a big nose and he can eat (th)em.,F
+9,36,CHI:        well you know what?,NA
+9,36,CHI:        you need to learn to eat bugs.,I+F+T
+9,36,CHI:        cheese.,L
+9,36,"CHI:        well, cheese is so good.",L+I
+9,36,CHI:        I love mouse cheese.,I+T
+9,36,CHI:        and it's good.,I
+9,36,CHI:        and I like it.,I
+9,36,CHI:        well you know what?,NA
+9,36,CHI:        you need to learn to eat cheese on your eye.,I+F+L
+9,36,CHI:        a pirate.,L
+9,36,CHI:        and he likes to get treasure.,I+F
+9,36,CHI:        and the end.,NA
+9,36,"CHI:        well, you know what?",NA
+9,36,CHI:        you need xxx to be a pirate.,I+L
+9,36,CHI:        the end.,NA
+10,39,CHI:                                          ?uh?.,NA
+10,39,CHI:        this?,NA
+10,39,"CHI:        well, I don't know anything about kings.",I+L
+10,39,CHI:        because I xxx.,NA
+10,39,CHI:        don't know anything about kings.,L
+10,39,CHI:        well just a little +...,NA
+10,39,"CHI:	just one thing.",NA
+10,39,CHI:        it took a hard time to shape the crown out and like get all the well +...,I+P
+10,39,CHI:        it it took it took a hard time to find the clothes and this and the treasure [?] like.,I+P
+10,39,CHI:        and that's it.,NA
+10,39,"CHI:        and oh I don't know I don't, I don't know it.",I
+10,39,CHI:        well I know a little bit about corn.,L
+10,39,"CHI:        well you see these are so, these are so it stays fresh and clean during when <you put all xxx> [?].",F
+10,39,CHI:        during when you pull it off like.,F
+10,39,CHI:        that's all.,NA
+10,39,CHI:        well you see these grow inside the corn.,P+L
+10,39,CHI:        and like they come out the yellow parts.,P
+10,39,CHI:        sometimes xxx come out sometimes xxx parts come out.,P
+10,39,CHI:        and that's all.,NA
+10,39,CHI:        oh I know a lot about strawberries.,I+L
+10,39,CHI:        well you see this is where it hangs down.,P
+10,39,"CHI:        and and so, it grows these so so sometimes you can like kick them.",F
+10,39,CHI:        like you can like ?bite &=turns:page?.,NA
+10,39,CHI:        well you see seeds are grown through them and that's all.,P
+10,39,CHI:        &=whispers police officer.,L
+10,39,CHI:        um see these are so that you can hear the police officer.,P+F+L
+10,39,CHI:        so he can talk.,F
+10,39,CHI:        and like it can get bad guys.,F
+10,39,CHI:        and like I heard somebody being a bad guy and didn't want to be a bad guy anymore.,I
+10,39,CHI:        sent a card of apology.,I
+10,39,CHI:        and sent back his money.,I
+10,39,"CHI:        and like, um he wasn't, and he is &=turns:page +...",NA
+10,39,CHI:        uh well you see they rob pe-bad people.,F
+10,39,CHI:        they take xxx well on Scooby_Doo.,I
+10,39,CHI:        on one Scooby_Doo one time xxx house they were giving all the money to Scooby_Doo.,I
+10,39,"CHI:        and that one was like, was like “You spent a night in a haunted house that wasn't even haunted”.",I
+10,39,CHI:        ridiculous.,I
+10,39,CHI:        you spent a night in a haunted house that wasn't even ?haunted?.,I
+10,39,CHI:        now that's done [= referring to page].,NA
+10,39,CHI:        a lion.,L
+10,39,CHI:        well you see that.,NA
+10,39,CHI:        xxx a boy lion and a girl lion.,T+L
+10,39,CHI:        a boy lion has hair around it.,P+L
+10,39,"CHI:        and it's, you can see its ears sticking out of its hair.",P
+10,39,CHI:        and they lions kill you to eat you.,F
+10,39,CHI:        and like tigers [?] just kill you to defend their babies.,T+F
+10,39,CHI:        and like raccoons sometimes bite you to to defend their babies.,T+F
+10,39,CHI:        and like I had a raccoon in my garage before [?] in our garage before.,T+I
+10,39,"CHI:        that's um, it about lions.",L
+10,39,"CHI:        well you see, his, sometimes boy lions I think have um uh, have hair on their back of the tail.",I+P+L
+10,39,CHI:        and some of the girl lions and  I I-let's skip to the next page.,P+L
+10,39,CHI:        it looks like a king cobra.,P
+10,39,CHI:        well you see a cobra and a king cobra are the same but sometimes you ca- but you can tell apart sometimes a cobra and a king cobra is different.,T
+10,39,"CHI:        well, you see well, big snakes are about a half inch longer than than little snakes.",P+L+T
+10,39,CHI:        and well I'm +...,NA
+10,39,CHI:        oh oh oh I forgot.,NA
+10,39,CHI:        um snakes.,L
+10,39,CHI:        I forgot some things about snakes.,L
+10,39,"CHI:        well you see that some snakes need part of their, parts of xxx taken out.",I+P
+10,39,"CHI:        so like if they have it too long then, then something will happen to them.",I+P
+10,39,"CHI:        like, well big snakes will stay alive but like little snakes like sometimes I think will wow.",P+L+T
+10,39,CHI:        a pretzel it looks like a pu-look like a shadow.,L+T
+10,39,CHI:        I mean it looks like a ghost.,T
+10,39,CHI:        <looks like a monster> [?].,T
+10,39,CHI:        well frogs yeah.,L
+10,39,CHI:        see frogs bend their back legs up so when they jump they can jump far away.,L+F+P
+10,39,CHI:        and um frogs can hop over about half feet.,L+F
+10,39,CHI:        a half feet.,NA
+10,39,CHI:        a half feet.,NA
+10,39,CHI:        my friends were trying get it a frog and we and we didn't but I was trying to get a rock so so we could hop on him and they was trying to get ?him?.,I+F+L
+10,39,CHI:        and so they could like share it when xxx when they come over to their house.,I+F
+10,39,CHI:        and like.,NA
+10,39,CHI:        well an owl.,L
+10,39,CHI:        &=whispers  yes an owl.,NA
+10,39,CHI:        an owl.,NA
+10,39,CHI:        it uses its claws to hang on to branches so it won't fall.,F+P
+10,39,CHI:        like parrots hang on.,T
+10,39,CHI:        and birds.,T
+10,39,CHI:        and hawks.,T
+10,39,CHI:        and eagles.,T
+10,39,CHI:        and robins.,T
+10,39,CHI:        and birds.,T
+10,39,CHI:        and like I've had a parrot on me before but its claws were gentle.,T+I
+10,39,CHI:        it was trying to be gentle on me.,I
+10,39,CHI:        my neighbors got a picture of the a red parrot on my head.,I+T
+10,39,CHI:        and a red parrot on my shoulder.,T+I
+10,39,CHI:        and it was really fun.,I
+10,39,CHI:        it was really kooky on.,I
+10,39,CHI:        and it felt really funny on my head.,I
+10,39,CHI:        and it didn't even hurt my head.,I
+10,39,"CHI:        <and but this xxx they're just> [?], parrots just try to be gentle.",I
+10,39,CHI:        about birds?,T
+10,39,CHI:        a pie.,L
+10,39,CHI:        well pies have different flavors in them.,L+P
+10,39,CHI:        like apple pie.,T
+10,39,CHI:        strawberry pie.,T
+10,39,CHI:        and like other pies with fruit.,T+L+P
+10,39,CHI:        well.,NA
+10,39,CHI:        no.,NA
+10,39,CHI:        a strong man.,L
+10,39,"CHI:        well, this reminds me of the Incredibles.",I
+10,39,CHI:        I watched them at my friend's house two times.,I
+10,39,CHI:        like at the end Jack-Jack gets mad at the bad guy and like turns and xxx like a bad baby.,I
+10,39,CHI:        and like he takes one of his things off.,I
+10,39,"CHI:        and he was like, and the guy was like scared.",I
+10,39,CHI:        then xxx Mister Incredible married Elastigirl and like was one guy like Dash.,I
+10,39,CHI:        he's the fastest.,I
+10,39,CHI:        and he's like even faster than regular humans.,I
+10,39,CHI:        well no &=tries:turn_page.,NA
+10,39,CHI:        um no more.,NA
+10,39,CHI:        really.,NA
+10,39,CHI:        no.,NA
+10,39,CHI:        milk.,L
+10,39,CHI:        I love milk.,I+L
+10,39,CHI:        I always have it for breakfast in a sippy cup.,I+F
+10,39,CHI:        because I I like it fresh and I like and I don't like putting it in a big boy cup.,I+F
+10,39,"CHI:        well, well my mom always warms it up.",I+F
+10,39,CHI:        sometimes I drink it cold.,I+F+P
+10,39,CHI:        sometimes I drink it warm.,I+F+P
+10,39,CHI:        and that's all.,NA
+10,39,CHI:        a rabbit.,L
+10,39,CHI:        well rabbits can hop fast.,L+F
+10,39,CHI:        I've seen a rabbit hop really fast.,I+L+F
+10,39,CHI:        I scared it.,I
+10,39,CHI:        but I wasn't very close to it.,I
+10,39,CHI:        I just scared it.,I
+10,39,CHI:        the rabbit must have heared me.,L+I+F
+10,39,"CHI:        uh when rabbits um uh, they can hear people.",L+F
+10,39,CHI:        I was just trying to pet him.,I+F
+10,39,CHI:        and I was just trying to feel his ears.,I+F+P
+10,39,CHI:        but I wasn't trying to kill him.,I+F
+10,39,CHI:        (be)cause I want to be nice to rabbits.,I+L
+10,39,CHI:        like zoo people can only catch rabbits.,T+F+L
+10,39,CHI:        (be)cause they never give up on catching animals.,F+T
+10,39,CHI:        (be)cause they always try their best.,I
+10,39,"CHI:        I think that I like, and I like and I like snakes the best.",I+T
+10,39,CHI:        that's all.,NA
+10,39,CHI:        no.,NA
+10,39,CHI:        I know surfing [?].,I
+10,39,"CHI:        don't go on that because like, a shark will like come up and eat you.",I
+10,39,CHI:        and like xxx you with kickboards in the ocean.,I+P
+10,39,CHI:        because they will like get eaten by a shark.,I
+10,39,CHI:        so like don't do that.,I
+10,39,CHI:        well you see don't go swimming with that because Mom doesn't want ta- doesn't want people to get eaten by a shark.,I
+10,39,CHI:        so like just don't do it.,I
+10,39,CHI:        xxx that's it.,NA
+10,39,CHI:        no.,NA
+11,38,CHI:        farmer.,L
+11,38,CHI:        they plant vegetables.,F
+11,38,CHI:        king.,L
+11,38,CHI:        I don't know anything about him.,I
+11,38,CHI:        any of those.,NA
+11,38,CHI:        apple pie.,L
+11,38,"CHI:        uh, it has apples in it.",P
+11,38,"CHI:        I don't think I can, think of any more.",I
+11,38,CHI:        lion.,L
+11,38,CHI:        mane.,P
+11,38,CHI:        I think I just can't think of any more things.,I
+11,38,CHI:        sure.,NA
+11,38,CHI:        strawberry.,L
+11,38,CHI:        I just can't think of more.,I
+11,38,CHI:        mm-hm [= yes].,NA
+11,38,CHI:        sure.,NA
+11,38,CHI:        strawberry.,L
+11,38,CHI:        &=sighs well my sister doesn't like any red things.,I+P
+11,38,CHI:        the only thing she eats is red is apples.,I+T
+11,38,CHI:        pretzel.,L
+11,38,CHI:        I don't know hardly anything about pretzels.,I+L
+11,38,"CHI:        hm, it's twisty.",P
+11,38,CHI:        police.,L
+11,38,CHI:        I don't know really anything about police.,I+L
+11,38,"CHI:        mm, they lead the roads.",F
+11,38,CHI:        frog.,L
+11,38,CHI:        it bounces.,F
+11,38,CHI:        snake.,L
+11,38,"CHI:        my friend has a, skin from a snake.",I+L+F
+11,38,CHI:        no.,NA
+11,38,CHI:        corn.,L
+11,38,CHI:        it looks doesn't look like really corn.,P+L
+11,38,CHI:        owl.,L
+11,38,CHI:        comes out at nights.,F
+11,38,CHI:        rabbit.,L
+11,38,CHI:        it bounces too.,F
+11,38,CHI:        milk.,L
+11,38,CHI:        my sister loves it.,I
+11,38,"CHI:        uh, working out man.",L
+11,38,CHI:        I can't think of anything else about this.,I
+11,38,CHI:        I don't know.,NA
+11,38,CHI:        surfing.,L
+11,38,CHI:        they <love this> [?].,P
+11,38,CHI:        and you surf on the water.,F
+12,45,CHI:        cupcake.,L
+12,45,CHI:        I think it's chocolate-chip cupcake.,I+L
+12,45,"CHI:        now I and,  I can't have chocolate.",I
+12,45,CHI:        I ca- I'm allergic to peanuts.,I
+12,45,"CHI:        and I, and I have a dog and I'm allergic to dogs.",I
+12,45,"CHI:        but we we're keepin(g) him, forever.",I
+12,45,"CHI:        his name, my my dog's name is xxx [= pet].",I
+12,45,CHI:        and I even have a toy dog named Winston.,I
+12,45,"CHI:        and, and it used to be my mom's.",I
+12,45,CHI:        can't you?,NA
+12,45,CHI:        I have to [?] eat (th)em &=makes:Zorg_Eat_CHI_face.,F
+12,45,CHI:        he was trying to eat my nose.,NA
+12,45,CHI:        a lady.,L
+12,45,"CHI:        look's like she's old (be)cause he has, (be)cause she has that &=points:cane.",P
+12,45,CHI:        old.,P
+12,45,CHI:        um +...,NA
+12,45,CHI:        a bird.,L
+12,45,CHI:        it's on a pirate's shoulder.,P
+12,45,CHI:        probably.,NA
+12,45,CHI:        it flies and where pirates are.,F
+12,45,CHI:        somebody in his office.,P
+12,45,CHI:        that's why I know it's his office.,I
+12,45,CHI:        I'm no- I'm never gonna be that.,I
+12,45,"CHI:        besides, it's a ballerina.",L
+12,45,CHI:        looks like one.,P
+12,45,CHI:        dancing on her toes.,P
+12,45,CHI:        a butterfly.,L
+12,45,CHI:        we have a lot of butterflies in our backyard.,I+L
+12,45,"CHI:        and mister and missus firstname our neighbors, [they, in the back",I
+12,45,CHI:        and and they have a lot of mosquitoes.,I
+12,45,"CHI:        and over by the little playhouse at our house there's a, there's a little bit of shade comin(g) +...",I
+12,45,CHI:        and it's over the playhouse.,I
+12,45,CHI:        about my backyard?,I
+12,45,CHI:        about my backyard?,I
+12,45,CHI:        a butterfly.,L
+12,45,CHI:        about my backyard?,I
+12,45,CHI:        wel- okay m +...,NA
+12,45,CHI:        I don't know.,I
+12,45,"CHI:        well that, it has, looks like it has prickles on it.",P
+12,45,CHI:        I think this is the one that my +...,I
+12,45,"CHI:        &=turns:multiple_pages a dolphin under, under under this page.",L
+12,45,"CHI:        I don't, I don't know.",NA
+12,45,CHI:        I don't know.,NA
+12,45,CHI:        a cracker.,L
+12,45,CHI:        it has holes in it.,P
+12,45,CHI:        you eat it.,F
+12,45,CHI:        a dolphin.,L
+12,45,"CHI:        it jumps high in the, in the air and then and +...",P
+12,45,CHI:        and it lives in the ocean.,F
+12,45,CHI:        he eats fish.,F
+12,45,CHI:        fighterfighter.,L
+12,45,"CHI:        oh, a cat.",L
+12,45,CHI:        it meows.,F
+12,45,CHI:        and I'm allergic to cats.,I+L
+12,45,CHI:        so that's why I don't have a cat.,I+L
+12,45,CHI:        fuzzy &=lifts:page.,P
+12,45,CHI:        and we know what's under this picture.,I
+12,45,CHI:        a fighterfighter.,L
+12,45,CHI:        it sprays fires out.,P
+12,45,"CHI:        saves cats, up in a tree.",F
+12,45,"CHI:        and, that's ice cream.",L
+12,45,CHI:        and you eat it.,F
+12,45,"CHI:        I don't, I don't like the, the cone.",I
+12,45,CHI:        I like the ice cream [part].,I+L
+12,45,CHI:        my favorite is blue.,I
+12,45,"CHI:        [ew, a skunk].",L
+12,45,CHI:        it sprays.,F
+12,45,CHI:        from his butt.,F
+12,45,CHI:        and there's a skunk out in the woods in our backyard.,I+L
+12,45,CHI:        some- I +...,NA
+12,45,CHI:        and you know what?,NA
+12,45,"CHI:        there was, there was four skunks in the basement of my church.",I+L
+12,45,CHI:        one and- and somebody got the skunks.,I+L
+12,45,CHI:        and they weren't in separate cages.,I
+12,45,"CHI:        they were all in the, in the same cage.",I
+12,45,CHI:        three children and the baby live in a smaller cage.,I
+12,45,CHI:        a pumpkin.,L
+12,45,CHI:        it has a stem.,P
+12,45,CHI:        yeah.,NA
+12,45,"CHI:        we cut it, like a, [like a halloween].",F
+12,45,CHI:        we cut it out for halloween.,F
+12,45,CHI:        baseball.,L
+12,45,CHI:        and a baseball player.,L
+12,45,CHI:        so what's that?,NA
+12,45,"CHI:        it's way back, way back at the office.",P
+12,45,CHI:        way back at the office.,P
+12,45,CHI:        way back at the bike.,L
+12,45,"CHI:        I'm a turkey am I, aren't I?",I
+12,45,CHI:        back at the cupcake.,L
+12,45,CHI:        lady.,L
+12,45,CHI:        office.,P
+12,45,CHI:        I'm pretty tricky.,I
+12,45,CHI:        bike.,L
+12,45,CHI:        office.,P
+12,45,CHI:        bike.,L
+12,45,CHI:        office.,P
+12,45,CHI:        bike.,L
+12,45,CHI:        office.,P
+13,58,CHI:        ice cream.,L
+13,58,CHI:        you eat ice cream.,F+L
+13,58,"CHI:        and other people have ice cream from stores, too.",F+L
+13,58,CHI:        ice cream is for licking or for [?] eating with a spoon.,L+F
+13,58,CHI:        you can eat it off a cone with a spoon or you can eat it from a bowl with a spoon.,F+P
+13,58,"CHI:        and I can lick it from a cone, or from in a bowl.",F+P
+13,58,CHI:        I can do that.,F
+13,58,CHI:        unless it's cold [?] I can just put my tongue in.,F
+13,58,CHI:        a cat.,L
+13,58,CHI:        um cats have fur.,L+P
+13,58,CHI:        and they have <four> [?] legs.,P
+13,58,"CHI:        and they have, whiskers.",P
+13,58,CHI:        and their whiskers help them with things.,P+F
+13,58,CHI:        and al-and-and some-lo-a lot of cats are different colors.,L+P
+13,58,"CHI:        and some people, have cats.",F+L
+13,58,CHI:        and all cats are different and some people have the same kind of cats.,L+P+F
+13,58,CHI:        they have a tail but people don't.,P+T
+13,58,CHI:        because tails al +...,P
+13,58,CHI:        they have tails because so so so just because.,P
+13,58,CHI:        that's all I know.,I
+13,58,CHI:        a racecar.,P
+13,58,CHI:        and they go in a speed xxx with lots of people watching.,P
+13,58,INV:        what is this?,L
+13,58,CHI:        dolphins go <in the> [?] water.,L+P
+13,58,CHI:        and they live in the ocean.,P
+13,58,CHI:        and sharks could eat dolphins.,T+F+L
+13,58,CHI:        and dolphins can go up so sharks can't eat them.,L+P+T+F
+13,58,CHI:        and when they come back down sharks can eat them.,F+T
+13,58,CHI:        so when when they go up sharks can't eat them and so and and [?] they live in the wa and and they jump back into the water.,P+T+F
+13,58,"CHI:        they have fins and they, they have fins and they have a tail like any other sea animal.",P+T
+13,58,CHI:        um I don't know.,I
+13,58,CHI:        a person who sits and does paperwork.,P
+13,58,CHI:        he he likes papers and wears glasses.,I+P
+13,58,CHI:        and he has a book that tells him things.,P
+13,58,CHI:        I don't know.,NA
+13,58,CHI:        a parrot.,L
+13,58,CHI:        parrots have lots of colors on their tails.,L+P
+13,58,CHI:        and on the body.,P
+13,58,CHI:        they have feathers too.,P
+13,58,CHI:        they they have shar-a little bit of sharp claws.,P
+13,58,"CHI:        and they have a pointy beak like all other birds that so he can eat, his food out of birdfeeders.",P+F
+13,58,CHI:        a fireman.,L
+13,58,CHI:        he fights out fires.,P
+13,58,CHI:        he doesn't know much about this one.,I
+13,58,"CHI:        he he has a hose that can, get out the fire.",P
+13,58,"CHI:        and, and he has a big ladder so he can do from anywhere.",P
+13,58,CHI:        so so so all they can be saved from the fire.,F+P
+13,58,CHI:        a c-a muffin.,L
+13,58,CHI:        muffins have things on them.,L+P
+13,58,CHI:        and they have a wrapper on them.,P
+13,58,CHI:        they they some have blueberries.,P
+13,58,CHI:        and some are plain.,P
+13,58,"CHI:        and some, and some of them are are just plain and they don't have anything on them.",P
+13,58,CHI:        and no nuts <and some have> [?] nuts.,P
+13,58,CHI:        a monarch butterfly.,L
+13,58,"CHI:        monarch butterflies, have dots on on the outside of the xxx inside.",L+P
+13,58,CHI:        um they they turn out to caterpillars first and then come the monarch butterflies.,F+T+L
+13,58,"CHI:        and they have, these things just because some so [?] because um they they so they can smell and do things.",P+F
+13,58,CHI:        and they drink nectar from [?] different flowers just like bumble bees.,F+T
+13,58,CHI:        a [?] ballerina.,L
+13,58,CHI:        ballerinas have tutus.,L+P
+13,58,CHI:        um they spin on their ballerina shoe.,P
+13,58,CHI:        and they have special tutus.,P
+13,58,CHI:        and they have different kind of places.,F
+13,58,CHI:        and sometimes xxx places.,F
+13,58,CHI:        pineapple.,L
+13,58,CHI:        pineapples have a little bit pokey on on the on the skin.,L+P
+13,58,"CHI:        the end, the ends have pokey bits on the ends.",P
+13,58,CHI:        and the green on the xxx on the pokey bits.,P
+13,58,CHI:        and it's brown xxx on the pokey bits.,P
+13,58,CHI:        a skunk.,L
+13,58,"CHI:        skunks have special stinkiness coming from bu, um coming from their tail.",L+F+P
+13,58,CHI:        coming from inside under the tail.,F+P
+13,58,CHI:        and they and they xxx white and black.,P
+13,58,CHI:        and they and they have whiskers and sharp claws.,P
+13,58,CHI:        his tail closes up when he's when it when <he's> [?] pushing the ba the bad smell out.,P+F
+13,58,CHI:        and they have fur.,P
+13,58,CHI:        a old lady.,L
+13,58,CHI:        old ladies have necklaces and they have canes so they can walk well outside.,L+P
+13,58,CHI:        and they and they and they have special and they have grey hair.,P
+13,58,CHI:        and they wear glasses around.,P
+13,58,CHI:        and some don't.,P
+13,58,"CHI:        old people, have, I don't know.",T+I
+13,58,CHI:        a cracker.,L
+13,58,CHI:        they're crunchy.,P
+13,58,CHI:        uh they have holes in them.,P
+13,58,CHI:        so the you eat them.,F
+13,58,CHI:        you can eat them (be)cause they have holes in them that you can eat.,F+P
+13,58,CHI:        and they have crumbs or xxx.,P
+13,58,CHI:        a pumpkin.,L
+13,58,CHI:        um pumpkins are orange.,L+P
+13,58,CHI:        um from the top you carry it from where the stem is.,F+P
+13,58,CHI:        and they grow in the dirt.,F
+13,58,CHI:        and when they're when they're big and you can pull (th)em out of the dirt.,P+F
+13,58,CHI:        and they can come.,F
+13,58,CHI:        and you can make things with them.,F
+13,58,CHI:        and  make a scary face.,F
+13,58,"CHI:        and and you can do anything, with them.",F
+14,55,CHI:        owl.,L
+14,55,"CHI:        uh, it, it has claws.",P
+14,55,CHI:        and fur.,P
+14,55,CHI:        and a tail.,P
+14,55,CHI:        and pointy nose.,P
+14,55,CHI:        and eyes.,P
+14,55,CHI:        and cheeks.,P
+14,55,CHI:        and hashairs.,P
+14,55,CHI:        king.,L
+14,55,"CHI:        I can do the very, I don't think I know anything about that one.",I
+14,55,CHI:        no [= quietly].,NA
+14,55,CHI:        milk.,L
+14,55,CHI:        you can drink it.,F
+14,55,CHI:        it's white.,P
+14,55,CHI:        it goes in the glass.,P
+14,55,CHI:        you pour it.,F
+14,55,CHI:        and use liquid to make it.,F
+14,55,"CHI:        mm I think, oh okay.",I
+14,55,CHI:        pretzel.,L
+14,55,CHI:        you you eat it.,F
+14,55,CHI:        and it has sugary stuff in.,P
+14,55,CHI:        and it's colored.,P
+14,55,CHI:        it has holes.,P
+14,55,CHI:        frog.,L
+14,55,CHI:        it jumps.,F
+14,55,CHI:        it climbs on trees.,F
+14,55,"CHI:        it, has soft claws.",P
+14,55,CHI:        snake.,L
+14,55,"CHI:        it, it crawls.",F
+14,55,CHI:        it has a long body.,P
+14,55,CHI:        strawberry.,L
+14,55,CHI:        it it has leafs.,P
+14,55,CHI:        it has a root.,P
+14,55,CHI:        it's red.,P
+14,55,CHI:        it has leafs.,P
+14,55,CHI:        and it grows.,F
+14,55,CHI:        and sometimes it's brown.,F
+14,55,CHI:        gardener.,L
+14,55,CHI:        I don't really think I have anything to tell about it.,I
+14,55,"CHI:        not, really.",NA
+14,55,CHI:        corn.,L
+14,55,"CHI:        um it, it has different colors on the cob part.",P
+14,55,CHI:        you you eat the color part off.,F
+14,55,CHI:        and it grows in the field.,F
+14,55,CHI:        and it's in a farm.,F
+14,55,CHI:        police officer.,L
+14,55,CHI:        um they +...,NA
+14,55,CHI:        I can't.,I
+14,55,CHI:        I don't [?] have anything.,NA
+14,55,CHI:        hive.,L
+14,55,CHI:        bees live in it.,F
+14,55,CHI:        and and it's strong.,F
+14,55,CHI:        and it's where the bees make their honey.,F
+14,55,CHI:        diver.,L
+14,55,"CHI:        it, swims.",F
+14,55,CHI:        I don't think there's anything else.,I
+14,55,CHI:        lion.,L
+14,55,CHI:        it's wild.,P
+14,55,"CHI:        it it, it it has um a flat feet.",P
+14,55,CHI:        rabbit.,L
+14,55,CHI:        it it jumps.,F
+14,55,CHI:        it digs a hole for its home.,F
+14,55,"CHI:        um, I don't know.",I
+14,55,CHI:        I'm not sure if I have anything.,NA
+14,55,CHI:        so +...,NA
+14,55,CHI:        giant maybe.,L
+14,55,CHI:        I don't think I have anything.,NA
+15,61,CHI:        lion.,L
+15,61,CHI:        uh it's a daddy lion (be)cause +...,L
+15,61,CHI:        you know it's a daddy lion (be)cause see how this +...,P+L
+15,61,CHI:        I know it's a daddy lion (be)cause of the mane.,P+L
+15,61,CHI:        and the tail and the sharp claws.,P
+15,61,CHI:        and how it roars.,F
+15,61,CHI:        xxx and how it roars.,F
+15,61,"CHI:        I used, I like strawberries but I'm sick of them right now.",I+L
+15,61,"CHI:        uh watch out for some of these, spines that are black.",P
+15,61,CHI:        (be)cause then you can't eat the ones with the black.,F
+15,61,CHI:        yeah.,NA
+15,61,CHI:        uh they grow on bushes.,F
+15,61,CHI:        I haven't been strawberry picking but I have been blueberry pickin(g).,I+L
+15,61,CHI:        and apple picking with my school once.,NA
+15,61,CHI:        for their first field trip.,NA
+15,61,CHI:        and guess what for Hallowe-for Halloween they they had did a pajama day.,NA
+15,61,CHI:        and we got to wear pick out our pajamas [for today for the day].,NA
+15,61,CHI:        well we had to keep on our pa-well we had to take off those pajamas we were wearing for bed.,NA
+15,61,CHI:        and look who I have on my shoes.,NA
+15,61,CHI:        Batman.,NA
+15,61,CHI:        he's one of the Justice League Heroes.,NA
+15,61,CHI:        and strawberries are something you eat.,F
+15,61,CHI:        and they're sweet.,F
+15,61,CHI:        mm a glass.,L
+15,61,CHI:        a glass is when you drop it it kinda goes,F
+15,61,CHI:        then little pieces gets lost.,F
+15,61,"CHI:        yeah my mom, that happened to my mom once.",I
+15,61,CHI:        (be)cause when she had a glass full of water I just saw her [?] hand it with one hand and then she dropped it.,I+L
+15,61,CHI:        and water came came spilling all over the place.,I
+15,61,CHI:        and it broke.,I
+15,61,CHI:        and you drink out of it.,F
+15,61,CHI:        and it's fragile because it's all made out of glass.,F
+15,61,CHI:        surfing.,L
+15,61,CHI:        there's a man surfing.,P
+15,61,CHI:        but be careful not to go &=motions:hands_falling_over.,F+I
+15,61,CHI:        but don't surf upside down.,F+I
+15,61,CHI:        (be)cause that'll be too dangerous.,F+I
+15,61,CHI:        you'll fall off your surfer.,F
+15,61,CHI:        go ah.,NA
+15,61,CHI:        you'll have to try and swim up.,F
+15,61,"CHI:        but if you don't know how to swim and you're trying to surf and you fall in deep water, that won't be good.",F
+15,61,CHI:        then the teacher who's teaching you will have to go whoosh,F
+15,61,CHI:        and come in and get you out.,F
+15,61,CHI:        and I have Tonka Joe and Tonka Town.,NA
+15,61,CHI:        Tonka Town is just Tonka Tonka trucks and Tonka buildings.,NA
+15,61,CHI:        but Tonka Joe is different (be)cause it's all just the real thing.,NA
+15,61,CHI:        it's Tonka Joe who can talk.,NA
+15,61,CHI:        and it's plain buildings that don't talk.,NA
+15,61,CHI:        and <vehicles> [?] that don't talk.,NA
+15,61,"CHI:        hm, well, you better watch out for too big of a wave or a shark.",F+I
+15,61,CHI:        because sharks can come right up and getcha.,F+I
+15,61,CHI:        like xxx.,NA
+15,61,CHI:        (be)cause they (be)cause when there's a shark comin(g) for ya you,F
+15,61,CHI:        and sw- and surf right away and jump onto the shore (be)cause shar + ...,F
+15,61,CHI:        (be)cause then xxx.,NA
+15,61,CHI:        and some divers bring blasters along and then blast the shark down.,F
+15,61,CHI:        that's attacking them.,F
+15,61,CHI:        firstname who's in my school still once brought us a book about that.,NA
+15,61,CHI:        and and he said that that divers trying to shoot the shark.,NA
+15,61,CHI:        and then I came over and I heard that and looked at the shooter.,NA
+15,61,CHI:        and looked +...,NA
+15,61,CHI:        and and Darth Vader's army who's really Anakin have blasters like,NA
+15,61,this with a line handle and a line [ for the blasting part].,NA
+15,61,CHI:        then they pull this back and &=makes:shooting_noises.,NA
+15,61,CHI:        and guess what.,NA
+15,61,"CHI:        so Han Solo and and Luke who was who was the one who was going to,",NA
+15,61,who in the last one of Luke Skywalker was bat- was battling Darth,NA
+15,61,Vader.,NA
+15,61,CHI:        and he blew up the bu- the Darth Sidious in the in the Death Star.,NA
+15,61,CHI:        and +...,NA
+15,61,CHI:        a picture.,P
+15,61,CHI:        uh it's of a farmer who's a girl.,L+P
+15,61,"CHI:        who's carrying a basket of all of tomatoes, carrots and, pumpkin.",P
+15,61,CHI:        indian Corn.,L
+15,61,CHI:        I saw that in the xxx with toys on the side.,I
+15,61,CHI:        yeah but guess what.,NA
+15,61,CHI:        we were lookin(g) for kids' shoes.,I
+15,61,CHI:        and Mom said the kids' shoes were way in the back.,I
+15,61,CHI:        that's where the men's shoes were.,I
+15,61,CHI:        indian corn is for Indians.,F+L
+15,61,CHI:        and just to mention Indians use bow and arrow and blasters.,NA
+15,61,CHI:        blasters and sometimes guns.,NA
+15,61,CHI:        that um have this big rubber thing at the back and and have the line,NA
+15,61,CHI:        uh Indian Corn uh once we were makin(g) foods for the birds and,I+L
+15,61,CHI:        and we had Indian corn and plain corn.,I+L
+15,61,CHI:        but plain corn was easier (be)cause then you could just kinda pull,I+T
+15,61,"CHI:        and then some, and it if wasn't you could just pick it off with a",I
+15,61,CHI:        yeah but the Indian corn was the hardest because of these lines.,I+L
+15,61,CHI:        (be)cause they were some getting in the way some.,I
+15,61,"CHI:        hm, and Indian corn is much the same color as our corn but it has",L+T+P
+15,61,CHI:        look at this one.,NA
+15,61,CHI:        see it's all different colors?,P
+15,61,"CHI:        that's pretty neat about, that's what's neat about Indian corn.",I+L
+15,61,CHI:        and Indian corn is about this long because of these up here.,P+L
+15,61,CHI:        kind of like this big.,P
+15,61,"CHI:        and like, I'm trying to think of what else I know.",I
+15,61,"CHI:        indians corn they do not, Indian corn you can never cut this off the top.",F+L
+15,61,CHI:        that will kill the Indian corn.,F+L
+15,61,CHI:        and then it won't taste so well.,I
+15,61,CHI:        but if you chop down an Indian corn tree it will never grow again.,F+L
+15,61,CHI:        ever.,NA
+15,61,CHI:        because trees onl-only can spend their life once.,F
+15,61,CHI:        I know that because we never replanted our trees that died.,I
+15,61,CHI:        (be)cause firstname had to cut (th)em down.,I
+15,61,CHI:        since they were dying.,I
+15,61,"CHI:        but that was okay (be)cause then we didn't, (be)ause (be)cause they",I
+15,61,CHI:        king.,L
+15,61,CHI:        uh he wears a nice neat crown.,P
+15,61,CHI:        and guess what.,NA
+15,61,CHI:        I have a new Dora called Dora Dance to the [Rescue].,NA
+15,61,CHI:        to rescue Swiper from in the bottles so when he so when Swiper the fox got dancing elves out of the magic bottle Swiper went in.,NA
+15,61,CHI:        uh a king has a c- lives in a castle.,F+L
+15,61,CHI:        and he has knights that battle dragons.,F
+15,61,CHI:        so dragons do not battle kings.,F+L
+15,61,CHI:        because kings do not battle.,F+L
+15,61,"CHI:        but, strong magic kings do.",F+L
+15,61,"CHI:        because they have, magic kings can battle dragons because magic kings have magical power.",F+L
+15,61,CHI:        and then Harry Potter +...,NA
+15,61,CHI:        harry Potter's a wizard but guess what.,NA
+15,61,CHI:        harry Potter has to live with the Dursy- [Dursley's].,NA
+15,61,CHI:        because guess what.,NA
+15,61,CHI:        voldemort killed Harry Potter's parents.,NA
+15,61,CHI:        and now we didn't find the <wand> [?] when they killed his [parents].,NA
+15,61,CHI:        we have to look at watch all of them to see how he killed his parents.,NA
+15,61,CHI:        that's how we can find it.,NA
+15,61,CHI:        frog.,L
+15,61,"CHI:        uh, some frogs, some of them are invisible.",F+L
+15,61,CHI:        they can't see when they're on something that's the same color.,F
+15,61,CHI:        that's a different color.,F
+15,61,CHI:        then they turn that color.,F
+15,61,"CHI:        then that's how the, we can't see them.",F
+15,61,CHI:        there's two words to say invisible.,NA
+15,61,CHI:        invisible and camouflage.,NA
+15,61,CHI:        camouflage is another wo-way how to say invisible.,NA
+15,61,CHI:        because it turns invisible kind of like camouflage.,NA
+15,61,CHI:        uh about how it kind of hops on to lilly pads and swims and swims for a longer time.,F
+15,61,CHI:        instead of just jumpin(g) and jumpin(g) like fish do.,F+T
+15,61,CHI:        fish just jump and then swim then jump then swim then jump then swim.,NA
+15,61,CHI:        kind of like that.,NA
+15,61,CHI:        yeah but sharks just only swim.,NA
+15,61,CHI:        and they tell you when sha- and people know when sharks are coming,NA
+15,61,CHI:        that and and teeth crunching noises.,NA
+15,61,"CHI:        chasing, it sounds like something's chasing after fish.",NA
+15,61,CHI:        and it sounds like a shark.,NA
+15,61,CHI:        you wouldn't want to play with a shark or a crab or jellyfish.,NA
+15,61,CHI:        those are creminars [?] of people.,NA
+15,61,CHI:        and fish.,NA
+15,61,CHI:        because they can really hurt you.,NA
+15,61,CHI:        they really hurt you.,NA
+15,61,CHI:        but crabs and jelly fish and sharks are all all attack people.,NA
+15,61,"CHI:        if it's a jellyfish attack you'll have to go, swim over it and then swim over big rocks.",NA
+15,61,CHI:        because they can sting you.,NA
+15,61,CHI:        sting ow.,NA
+15,61,CHI:        kind of like girl mosquitoes.,NA
+15,61,CHI:        but boy mosquitoes are nice.,NA
+15,61,CHI:        s +...,NA
+15,61,CHI:        snake.,L
+15,61,CHI:        uh well that's neat.,I
+15,61,CHI:        how it's fat there.,P
+15,61,"CHI:        about about how it's white and orange with the black little stripes,",P
+15,61,CHI:        but over here it's really little.,P
+15,61,CHI:        and and the noise it makes is &=makes:hissing_noise.,F
+15,61,CHI:        rhymes with see because it has part of the some name.,F
+15,61,CHI:                [pre] +...,NA
+15,61,CHI:        a big pretzel.,P+L
+15,61,CHI:        kind of tied up.,P
+15,61,CHI:        it has these of little points.,P
+15,61,CHI:        and you can eat            [it].,F
+15,61,CHI:        that's a police woman.,L
+15,61,CHI:        a police woman drives a police car or a police van.,P+L
+15,61,"CHI:        or a police SUV, okay?",F
+15,61,CHI:        they use                   [guns].,F
+15,61,CHI:        and bats to wack things.,F
+15,61,CHI:        and they wear-xxx radio and their flashlights.,P
+15,61,CHI:        and cameras [sometimes].,F
+15,61,CHI:        a pie.,L
+15,61,"CHI:        these are neat pies (be)cause they have these, lines across.",I+P+L
+15,61,CHI:        um you eat a pie.,F+L
+15,61,CHI:        I wonder what kind of pie that is.,T+L
+15,61,CHI:        me neither.,NA
+15,61,CHI:        I think I know if that that stuff.,I
+15,61,CHI:        I wasn't looking for tha +...,NA
+15,61,CHI:        I think it's a jelly pie.,I+T+L
+15,61,CHI:        that would taste good.,I
+15,61,CHI:        uh you can eat it.,F
+15,61,"CHI:        uh it's called, it's a owl.",L
+15,61,CHI:        and owls are nocturnal.,F+L
+15,61,CHI:        they come out at night.,F
+15,61,CHI:        they go hoo-hoo [= owl sounds].,F
+15,61,"CHI:        the next one is a big, [guy after the bunny].",P
+15,61,CHI:        and it makes a an owl nest.,F
+15,61,CHI:        kind of like squirrels and birds.,T
+15,61,CHI:        a bird nest.,NA
+15,61,"CHI:        and squirrel nestes kind of, have the same name nest.",T
+15,61,CHI:        because they're both the same (be)cause they have nest.,T
+15,61,"CHI:        uh it has sharp claws, [see]?",P
+15,61,CHI:        a bunny.,L
+15,61,CHI:        uh abou- a bunny hops and he has long hands.,F+L
+15,61,CHI:        and it eat carrots.,F
+15,61,CHI:        and it has a little tail.,P
+15,61,CHI:        and big ears.,P
+15,61,CHI:        and whiskers.,P
+15,61,CHI:        and xxx.,NA
+15,61,CHI:        and I think the +...,NA
+15,61,CHI:        a man.,L
+15,61,CHI:        uh he has weights behind him.,P
+15,61,CHI:        and right now he doesn't have weights in his hand.,P
+15,61,"CHI:        he's do, this over his head like [like that].",P
+15,61,CHI:        (o)kay like that.,NA
+15,61,CHI:        uh it's a strong man.,L
+15,61,CHI:        look at his muscles going just like that.,P
+15,61,CHI:        and he just has half on to make people think he's tough.,F
+16,56,CHI:        a snake.,L
+16,56,CHI:        um snakes slither around along the ground.,F+L
+16,56,"CHI:        um, um and they're really um, like and they're really like slimy and um very gooey and yucky from the mud.",F+I
+16,56,CHI:        and stuff like that.,NA
+16,56,CHI:        that's all I know about fro-about um snakes.,I+L
+16,56,CHI:        a person surfing.,L+P
+16,56,CHI:        um surf you surf in the um on the bea- at the beach.,F+L
+16,56,CHI:        and um when it's really hot in the summer.,F
+16,56,"CHI:        and you, and you hold your arms out and then on your surfboard.",P
+16,56,CHI:        nothing.,NA
+16,56,CHI:        corn.,L
+16,56,CHI:        um you eat corn on Thanksgiving.,F+L
+16,56,"CHI:        and corn muffins, that's what we had today at preschool.",I+L+T
+16,56,"CHI:        no that's all I know, about corn.",I+L
+16,56,CHI:        a pretzel.,L
+16,56,CHI:        I don't know +...,I
+16,56,CHI:        the only thing I know about pretzels is that you eat them.,F+L
+16,56,"CHI:        no I just, that's the only thing I know about [pretzels].",I+L
+16,56,CHI:        an owl.,L
+16,56,CHI:        I don't want to tell you anything about owls.,I+L
+16,56,CHI:        nothing.,NA
+16,56,CHI:        a frog.,L
+16,56,CHI:        um frogs hop.,F+L
+16,56,CHI:        and I can jump like a frog &=hops:like_frog.,I+F+L
+16,56,CHI:        and I can say [ribbit]t the same time.,I+P+L
+16,56,CHI:        &=hops ribbit &=hops ribbit.,NA
+16,56,CHI:        I have um a book where that you open up that it can unclip.,NA
+16,56,CHI:        it's a white one like this one.,NA
+16,56,CHI:        I don't want to tell you.,I
+16,56,CHI:        a king or a queen.,L+T
+16,56,CHI:        nothing.,NA
+16,56,CHI:        nothing.,NA
+16,56,CHI:        milk.,L
+16,56,CHI:        you drink milk at a table for breakfast.,F+L
+16,56,CHI:        and lunch and dinner.,F
+16,56,CHI:        nothing left.,NA
+16,56,CHI:        that's the only thing I know about milk.,I+L
+16,56,CHI:        a strawberry.,L
+16,56,CHI:        you eat strawberries.,F+L
+16,56,CHI:        nothing.,NA
+16,56,CHI:        nothing.,NA
+16,56,CHI:        I don't wa-that's the only thing I know about strawberries.,I+L
+16,56,CHI:        a police officer.,L
+16,56,CHI:        police officers make sure cars don't run into any other cars.,F+L
+16,56,CHI:        pie.,L
+16,56,CHI:        I don't want to tell you any more.,I
+16,56,CHI:        um you eat pie for dessert.,F+L
+16,56,CHI:        I had chocolate pie today after um I had after um for dessert after um the feast.,I+L
+16,56,CHI:        nothing.,NA
+16,56,CHI:        uh a circus [?] strong man.,L
+16,56,CHI:        nothing.,NA
+16,56,"CHI:        um and, um circus [?] strongmans hold up this bell-bar.",L+P
+16,56,CHI:        for in order for them to be strong.,F
+16,56,CHI:        I'm opening a pizza box.,NA
+16,56,"CHI:        an old, an old pizza box.",NA
+16,56,CHI:        but some treasure's in.,NA
+16,56,CHI:        I'm spying in it right now.,NA
+16,56,CHI:        it's it's a maid.,L
+16,56,CHI:        it's a farmer-a f-maid farmer.,L
+16,56,CHI:        I'm I'm spying her in my her in my telescope.,I
+16,56,CHI:        can you see me?,NA
+16,56,CHI:        you look really small.,NA
+16,56,CHI:        uh farmers plant stuff.,F+L
+16,56,CHI:        and so do maids.,T
+16,56,CHI:        and maids go out and pick their own food.,T
+16,56,CHI:        and farmers grow their own food and then pick them.,F+L
+16,56,"CHI:        that's all I know, about everything.",I
+16,56,CHI:        that's all I +...,NA
+16,56,CHI:        a lion.,L
+16,56,CHI:        it's a lion.,L
+16,56,CHI:        it's a lion.,L
+16,56,CHI:        um lions roar at the zoo.,F+L
+16,56,CHI:        na [?] +...,NA
+16,56,CHI:        no.,NA
+16,56,CHI:        excuse me.,NA
+16,56,CHI:        no.,NA
+16,56,CHI:        nothing more.,NA
+16,56,CHI:        a rabbit.,L
+16,56,CHI:        and rabbits hop.,F+L
+16,56,CHI:        um nothing.,NA
+16,56,CHI:        no.,NA
+17,70,CHI:        a clown.,L
+17,70,CHI:        uh he wears clothes.,P
+17,70,CHI:        and he's funny.,F
+17,70,"CHI:        um, he likes to give people presents.",F
+17,70,CHI:        a witch.,L
+17,70,"CHI:        um, she has a cat.",F
+17,70,CHI:        and she has a broom to fly on.,P
+17,70,"CHI:        and, she she's a spooky girl.",F
+17,70,CHI:        no.,NA
+17,70,CHI:        a lobster.,L
+17,70,"CHI:        um it has, pinchers, to grab people.",P+F
+17,70,"CHI:        and, this is his whole tummy.",P
+17,70,"CHI:        and these, is his nose.",P
+17,70,CHI:        that's it.,NA
+17,70,CHI:        a penguin.,L
+17,70,CHI:        it has a beak.,P
+17,70,CHI:        and eyes.,P
+17,70,"CHI:        it has, wings.",P
+17,70,CHI:        and feet.,P
+17,70,"CHI:        mm, I don't know what this is.",I
+17,70,"CHI:        uh, he's uh getting on.",F
+17,70,"CHI:        and he, he, and he's the engine.",L
+17,70,"CHI:        and, he drives the train.",F
+17,70,CHI:        a cake.,L
+17,70,CHI:        a cake.,L
+17,70,"CHI:        um, it has chocolate and vanilla.",P
+17,70,CHI:        a horse.,L
+17,70,"CHI:        and it has legs, and a tail.",P
+17,70,CHI:        and a face.,P
+17,70,CHI:        this is cereal.,L
+17,70,CHI:        it has almond in it.,P
+17,70,CHI:        this is popcorn.,L
+17,70,CHI:        and this is the popcorn and that's the bowl.,L
+17,70,CHI:        the next one is a alligator.,L
+17,70,CHI:        he has smashing teeth.,P
+17,70,CHI:        um this is broccoli.,L
+17,70,CHI:        a football player.,L
+17,70,CHI:        he has a football.,P
+17,70,"CHI:        and he, and maybe he will win.",F
+17,70,CHI:        a teacher.,L
+17,70,CHI:        she teaches kids.,F
+17,70,CHI:        um this is a orange.,L
+17,70,CHI:        this is the stem.,P
+17,70,CHI:        um this is a orange.,L
+17,70,CHI:        and this is the stem I told you.,P+I
+17,70,CHI:        a elephant.,L
+17,70,CHI:        and this is his big trunk.,P
+17,70,CHI:        his nose.,P
+17,70,CHI:        and he eats with this.,F
+17,70,CHI:        and these are his legs.,P
+17,70,CHI:        that's his [ear].,P
+17,70,CHI:        that's it.,NA
+18,63,CHI:        a police.,L
+18,63,"CHI:        I don't, hm.",NA
+18,63,"CHI:        I don't know what that, what he is.",I
+18,63,"CHI:        even, if it's a police.",L
+18,63,CHI:        maybe it's a police officer.,L
+18,63,CHI:        maybe he's flying in an airplane.,P
+18,63,CHI:        hm mm-mm [= no].,NA
+18,63,CHI:        a football player.,L
+18,63,CHI:        uh she's playing football.,P
+18,63,CHI:        um she's she she has she she has the football in her hands.,P
+18,63,CHI:        an elephant.,L
+18,63,CHI:        he has a long trunk and some tusks.,P
+18,63,CHI:        it has a she she has he has big they have long ears.,P
+18,63,CHI:        mm-hm.,NA
+18,63,CHI:        a scorpion.,T
+18,63,CHI:        a lobster.,L
+18,63,CHI:        I have a insect and it's called a scorpion.,T+I
+18,63,CHI:        and it's not alive.,P
+18,63,CHI:        I got it from a birthday party.,I
+18,63,CHI:        and his name was Firstname and he's turning five.,NA
+18,63,CHI:        he lives next door too.,NA
+18,63,"CHI:        they live one mile, they live uh zero miles from my house.",NA
+18,63,CHI:        and he and xxx.,NA
+18,63,CHI:        and he and and he was having a jungle party party.,NA
+18,63,CHI:        and you know what kind of birthday cake he had?,NA
+18,63,CHI:        a crocodile one.,I+T
+18,63,CHI:        everybody got one piece and and it had eyes.,NA
+18,63,CHI:        and it had gumdrops.,NA
+18,63,CHI:        and I got some with the gumdrops.,NA
+18,63,CHI:        gumdrops.,NA
+18,63,"CHI:        and one time me Firstname and Firstname made a, that's that my bigger sister.",NA
+18,63,CHI:        and and she's eight.,NA
+18,63,CHI:        and once one time we when I was three and now I'm four ?um huh we made a ginger bread house?.,NA
+18,63,CHI:        and and for a minute we ate it.,NA
+18,63,CHI:        and we put some dru-some gumdrops on it to make it taste good.,NA
+18,63,CHI:        and we also ate the gingerbread.,NA
+18,63,CHI:        uh it has pinchers.,P
+18,63,CHI:        it has antennas.,P
+18,63,CHI:        I don't know.,I
+18,63,CHI:        mm noodles.,T
+18,63,CHI:        I have a very big cough today.,NA
+18,63,CHI:        I had it for a couple of weeks.,NA
+18,63,CHI:        and in the night my dad my dad tried to give me some medicine ? to help me not cough?.,NA
+18,63,CHI:        it has a lot of stuff inside it.,P
+18,63,CHI:        it's in a bowl.,P
+18,63,CHI:        a funny person.,I+T
+18,63,"CHI:        and I have batman shoes and I have, but they don't light up.",NA
+18,63,CHI:        and I have some Buzz Lightyear ones.,NA
+18,63,CHI:        and they have Buzz Lightyear on them.,NA
+18,63,CHI:        and a rocket.,NA
+18,63,CHI:        and um those ones light up.,NA
+18,63,CHI:        hm he he kind he kind of looks like a clown.,L
+18,63,CHI:        that juggles.,F
+18,63,CHI:        my dad can juggle with two apples.,I+F
+18,63,CHI:        hm he- jugglers look kind of funny.,F+I
+18,63,CHI:        and they juggle a lot.,F
+18,63,CHI:        an alligator.,L
+18,63,CHI:        well he has sharp teeth and he's kind of scary.,P+I
+18,63,CHI:        uh um he I know that they have long tails.,I+P
+18,63,CHI:        and his tail is almost like this long.,P
+18,63,CHI:        a baby horse.,L
+18,63,CHI:        he has a little tail.,P
+18,63,CHI:        he always says that.,NA
+18,63,CHI:        uh it has eyes.,P
+18,63,CHI:        clip clop-clip clops.,P
+18,63,CHI:        that's what I call those xxx things clip clops [= horse's feet].,P
+18,63,CHI:        clip clops &=uses:feet_demonstrate [= like horse].,P
+18,63,CHI:        uh cereal.,L
+18,63,"CHI:        um, has um, it doesn't have milk in it.",F+P
+18,63,"CHI:        or maybe it's just maybe there's too much cereal and it's blocking it, ? from showing?.",I+P+L
+18,63,CHI:        it's in a bowl.,P
+18,63,CHI:        a piece of cake.,P+L
+18,63,CHI:        it has frosting on it.,P
+18,63,CHI:        that's my best part.,I
+18,63,CHI:        frosting.,P
+18,63,CHI:        and for my four birthday I-I had an Incredibles birthday.,I
+18,63,CHI:        and I have a Incredibles movie and it's kind of long.,NA
+18,63,CHI:        and it's not just for kids like me.,NA
+18,63,CHI:        and and one time and we and I were watching Batman like for to for thirty million times.,NA
+18,63,CHI:        hm it has a lot of cake.,P+L
+18,63,CHI:        a lot of frosting I mean.,P
+18,63,CHI:        mm mm.,NA
+18,63,CHI:        a teacher.,L
+18,63,CHI:        um she's writing with some chalk.,P
+18,63,"CHI:        hm, he always says that.",NA
+18,63,"CHI:        uh she's wear-she's looking, she's holding a book.",P
+18,63,CHI:        mm-hm [= filler].,NA
+18,63,CHI:        a witch.,L
+18,63,CHI:        uh there's a bat.,P
+18,63,CHI:        and he's wearing a witch hat.,P+L
+18,63,CHI:        mm-hm [= filler].,NA
+18,63,CHI:        and she and he's on a broom.,P
+18,63,CHI:        mm-hm [= filler].,NA
+18,63,CHI:        uh there's a bat across from this.,P
+18,63,CHI:        and you know who I'm gonna be for Halloween?,I+F
+18,63,CHI:        it's something scary.,I
+18,63,CHI:        you'll never believe.,NA
+18,63,CHI:        see and you're never gonna believe this.,NA
+18,63,CHI:        it's gonna be really scary.,I
+18,63,CHI:        Batman.,T
+18,63,CHI:        broccoli.,L
+18,63,CHI:        uh it's a vegetable.,T
+18,63,CHI:        and it's almost I call it with with when when it's big and it has these little boingies on it I call it a tree.,P+T+I
+18,63,CHI:        you can eat (th)em and xxx.,F
+18,63,CHI:        you can eat it.,F
+18,63,CHI:        and even though it it is good for you.,P
+18,63,CHI:        penguin.,L
+18,63,CHI:        um has claws look.,P
+18,63,CHI:        and eyes.,P
+18,63,CHI:        two eyes.,P
+18,63,CHI:        but it only shows one eye.,P
+18,63,"CHI:        um, it has a beak.",P
+18,63,CHI:        it's very sharp.,P
+18,63,CHI:        an orange.,L
+18,63,CHI:        it's it's a fruit.,T
+18,63,CHI:        and it and it is good for you.,P
+18,63,CHI:        and I don't like oranges anymore.,I+L
+18,63,CHI:        I used to eat (th)em a lot but now I don't like (th)em anymore.,I+F
+18,63,CHI:        mm-hm [= filler].,NA
+18,63,CHI:        um and it has a stem.,P
+18,63,CHI:        and it's not very long.,P
+18,63,CHI:        not as long as a as an apple stem.,P+T
+18,63,CHI:        that's all I know of this.,I
+18,63,CHI:        all done.,NA
+19,20,CHI:        oh okay.,NA
+19,20,CHI:        I don't know what's that.,I
+19,20,CHI:        no.,NA
+19,20,CHI:        no.,NA
+19,20,CHI:        I don't know.,NA
+19,20,CHI:        yeah.,NA
+19,20,CHI:        um it's good to for you to eat and it's healthy.,F
+19,20,CHI:        yes.,NA
+19,20,CHI:        you could eat (th)em.,F
+19,20,CHI:        I don't know what's that.,I
+19,20,CHI:        I don't know.,NA
+19,20,CHI:        no.,NA
+19,20,CHI:        no.,NA
+19,20,CHI:        no.,NA
+19,20,CHI:        but his feathers are so green.,P
+19,20,CHI:        and he's so blue right there.,P
+19,20,CHI:        and he's black right here.,P
+19,20,CHI:        green right there.,P
+19,20,"CHI:        and, and, yellow right there and yellow on the to green on the top.",P
+19,20,CHI:        don't know.,NA
+19,20,CHI:        no.,NA
+19,20,CHI:        I can't help him out by this one.,NA
+19,20,CHI:        but I could help him out with this one.,NA
+19,20,CHI:        a whale.,T
+19,20,CHI:        um it jumps in the sea like this &=hops.,P
+19,20,CHI:        wow ah I xxx.,NA
+19,20,CHI:        yes.,NA
+19,20,CHI:        don't bite me [= to Zorg].,NA
+19,20,CHI:        is he gonna?,NA
+19,20,CHI:        this one?,NA
+19,20,"CHI:        um too don't get to close, because they might squirt you water.",F
+19,20,CHI:        hey they don't have no squirt.,P
+19,20,CHI:        a dolphin?,L
+19,20,CHI:        it's a dolphin [= to Zorg].,L
+19,20,CHI:        ee a kitty cat &=skips:page!,L
+19,20,CHI:        want me to help him out with this one?,NA
+19,20,CHI:        a kitty cat.,L
+19,20,CHI:        um her likes to smell your hand.,I+F
+19,20,"CHI:        and her likes, you if you be nice to her and her might like you if, if you be nice to her.",F+I
+19,20,CHI:                                                     ?ah?.,NA
+19,20,CHI:        yes.,NA
+19,20,"CHI:        they, could smell your hand and they could and they could hm maybe when I I wanna play with some more games.",F
+19,20,CHI:        and they eat kitty feed.,F+L
+19,20,CHI:        a pumpkin.,L
+19,20,CHI:        um you could put that out for Halloween.,F
+19,20,CHI:        me and my mommy carve pumpkins.,I+F+L
+19,20,CHI:        yes.,NA
+19,20,CHI:        can I say somethin in his ear?,NA
+19,20,CHI:        you could eat (th)em up [= talking to Zorg].,F
+19,20,CHI:        you could just carve (th)em out.,F
+19,20,CHI:        this is a cupcake.,L
+19,20,"CHI:        um it has, hm what is that?",NA
+19,20,CHI:        I can't know where it is.,I
+19,20,CHI:        um it's a judger.,L
+19,20,CHI:        um judgers have things and they go like this &=mimes:hammering_table.,L+F
+19,20,CHI:        mm mm-hm [= yes].,NA
+19,20,CHI:        and he has glasses.,P
+19,20,"CHI:        and he is the judger and, xxx &=yawns.",L
+19,20,CHI:        um I can't see him like this.,I
+19,20,CHI:        because his body looks his clothes look purple.,P
+19,20,CHI:        yes.,NA
+19,20,CHI:        um they race in a race car.,F
+19,20,CHI:        yes.,NA
+19,20,CHI:        I want to tell you about this butterfly.,L
+19,20,CHI:        um he flies.,F
+19,20,CHI:        and I saw a butterfly before.,I+L
+19,20,CHI:        oh look at these long ones [= not clear what she's pointing to].,P
+19,20,CHI:        yes.,NA
+19,20,CHI:        I'm going to help him like he flies.,F
+19,20,CHI:        that's all I could tell him.,NA
+19,20,CHI:        I can tell him nothing else.,NA
+19,20,"CHI:        oh, a ?skunk?!",L
+19,20,CHI:        a stinky skunk!,P+L
+19,20,CHI:        I don't know.,I
+19,20,CHI:        I can't tell you all I know.,NA
+19,20,CHI:        all I can tell you is it's a skunk.,L
+19,20,CHI:        no.,NA
+19,20,CHI:        um they stink.,P
+19,20,CHI:        they stink.,NA
+19,20,CHI:        oh pee ew they stink!,P
+19,20,CHI:        this is a grandma.,L
+19,20,"CHI:        um, her has a bracelet in her hair and her pants look this looks brown and.",P
+19,20,CHI:        no.,NA
+19,20,CHI:        a firefighter.,L
+19,20,CHI:        um he saves people from the fire.,F+P
+19,20,"CHI:        and oh, and he and, he squirts out the water.",P
+19,20,CHI:        mm mm-hm [= yes].,NA
+19,20,CHI:        they climb on ladders &=yawns.,F+P
+19,20,CHI:        and they free people.,F
+19,20,CHI:        I don't know.,I
+19,20,CHI:        this is an ice cream cone.,L+P
+19,20,CHI:        no.,NA
+19,20,CHI:        no.,NA
+19,20,CHI:        this is a ballerina.,L
+19,20,CHI:        this is a ballerina.,L
+19,20,CHI:        I'm a start to be a ballerina.,I+L
+19,20,"CHI:        um her, &=shrugs I don't know.",I
+19,20,CHI:        no.,NA
+19,20,CHI:        but I can help you out on this one.,NA
+19,20,CHI:        a cracker.,L
+19,20,CHI:        um it's a soup cracker.,T
+19,20,CHI:        and you could eat it and it's very crunchy.,F+P
+19,20,CHI:        what's his name?,NA
+19,20,CHI:        oh &=laughs I thought you call him Little Piggy.,NA
+19,20,CHI:        yes.,NA
+19,20,CHI:        um you could chew on it.,F
+19,20,CHI:        and you could make a big mess.,F
+19,20,CHI:        and that's all I know.,I
+20,3,CHI:        ?whoa?!,NA
+20,3,CHI:        ?that? scared me.,I
+20,3,CHI:        <that's a ?crocodile> [?]?.,L
+20,3,CHI:        yeah that scared me.,I
+20,3,CHI:        it's a crocodile.,L
+20,3,"CHI:        um it, um that is, um that crocodile green, it's green.",P+L
+20,3,"CHI:        uh-huh [= yes], what do crocodiles do [= Zorg talking to CHI]?",F+L
+20,3,CHI:        they're dangerous [= CHI talking to Zorg].,P
+20,3,CHI:        when you see one don't touch it [= CHI talking to Zorg].,F
+20,3,CHI:        okay [= Zorg talking to CHI].,NA
+20,3,"CHI:        but, can I touch this one [= Zorg talking to CHI]?",I+F
+20,3,CHI:        yeah cause it's just in a book [= CHI talking to Zorg].,P
+20,3,CHI:        it stayed like that &=laughs [= Zorg talking to CHI]!,P
+20,3,CHI:        hm [= CHI is talking to Zorg] what else do crocodiles do?,F+L
+20,3,"CHI:        they but, I know about them.",I
+20,3,"CHI:        look they have bones, everyone has bones inside them.",P
+20,3,"CHI:        in fact you, animals have bones too.",T+P
+20,3,"CHI:        it's just that the bones, the bones are stick together.",P+F
+20,3,CHI:        sometimes they break.,P+F
+20,3,CHI:        but they're stick together and stick together in your kind of shape.,F+P+I
+20,3,CHI:        and my bones are sticked up in my kind of shape.,F+P+I
+20,3,CHI:        <crocodiles are sticked up> [//] crocodiles' bones are sticked up in their kind of shape [= Zorg is talking to CHI]?,F+P+L
+20,3,CHI:        yeah [= CHI is talking to Zorg]!,NA
+20,3,CHI:        you got it!,NA
+20,3,CHI:        hm let's see about this one.,NA
+20,3,CHI:        what's this &=turns:page?,NA
+20,3,CHI:        that's an orange.,L
+20,3,"CHI:        you, you eat oranges.",F+L
+20,3,CHI:        and oranges are orange.,P+L
+20,3,CHI:        but you know why oranges are call- are called oranges?,F+L
+20,3,CHI:        cause they're orange.,P
+20,3,CHI:        mm-hm [= yes].,NA
+20,3,"CHI:        mm, but those don't have bones.",P
+20,3,CHI:        does fruit have bones [= Zorg talking to CHI]?,P+T
+20,3,CHI:        no [= CHI talking to Zorg]!,P
+20,3,"CHI:        you, you were wrong about that.",P
+20,3,CHI:        oh [= Zorg talking to CHI].,NA
+20,3,CHI:        hm why xxx you eat them?,F
+20,3,CHI:        is that a wiggle bone [= Zorg talking to CHI]?,P
+20,3,CHI:        nope [= to Zorg].,P
+20,3,"CHI:        it's just part of a line that is that is just one bone it is not sticked up to another bone going in xxx and and- and stop right there, there.",P
+20,3,CHI:        &=gasps.,NA
+20,3,CHI:        whoa!,NA
+20,3,CHI:        that's a lobster.,L
+20,3,CHI:        lobsters don't touch them or they'll xxx to you and they'll and then they'll and then you gotta run.,F+L
+20,3,CHI:        get inside your car so they and they won't reach you cause they got claws.,F+P+I
+20,3,CHI:        see?,NA
+20,3,CHI:        claws.,P
+20,3,CHI:        hey look my mouth is claws [= Zorg talking] &=moves:Zorg's_mouth!,I+P+T
+20,3,CHI:        hey look I'm a crab [= Zorg talking].,I+T
+20,3,CHI:        &=moves:Zorg's_mouth boom boom boom boom boom boom.,NA
+20,3,"CHI:        crabs can, but crabs are very dangerous.",I+T
+20,3,CHI:        it's like the crocodile picture.,T
+20,3,CHI:        maybe that was an alligator.,T
+20,3,CHI:        maybe that was an alligator.,NA
+20,3,CHI:        hm.,NA
+20,3,CHI:        well that's all I know about lobsters.,I+L
+20,3,CHI:        hm.,NA
+20,3,CHI:        oh I can read this one is not.,NA
+20,3,CHI:        whoa popcorn!,L
+20,3,CHI:        let's see.,NA
+20,3,"CHI:        popcorn it's, do you know why it's called popcorn?",I+L+F
+20,3,CHI:        (be)cause (be)cause when you put it in the microwave you eat it when it's done.,F
+20,3,CHI:        and it pops.,F
+20,3,CHI:        and then it turns into popcorn.,F+L
+20,3,CHI:        ?but but do you know what the brown things are??,P+I
+20,3,CHI:        they're seeds that were inside the popcorn that haven't turned into popcorn.,P+F+L
+20,3,CHI:        but you can't eat the seeds.,F
+20,3,CHI:        you cannot eat the seeds.,NA
+20,3,CHI:        okay.,NA
+20,3,"CHI:        um, let's see hm, popcorn sometimes popcorn your mom when you tell your mom and when you, my dad my mom doesn't know how to make popcorn very well but my dad does.",I+F+L
+20,3,CHI:        and sometimes when I tell him to put butter he always puts butter when I tell him to.,I+F
+20,3,CHI:        cause it taste good with butter.,I+P
+20,3,"CHI:        sometimes I, but sometimes when I tell him he doesn't.",I
+20,3,CHI:        (be)cause he (be)cause (be)cause butter is too sweet for you.,I+P
+20,3,"CHI:        um, that's all about popcorn I know.",I+L
+20,3,CHI:        a witch.,L
+20,3,"CHI:        witches have cats, and sin, cats, since cats can't be alone sometimes witches take their cats with them when they go outside and fly on their broomsticks.",F+P+L
+20,3,CHI:        and they have a hat.,P
+20,3,CHI:        but witches have green skin and they're monsters.,P+L+F
+20,3,CHI:        that's all I know about it.,I
+20,3,CHI:        that's a pilot.,L
+20,3,CHI:        um pilots sometimes you don't know what the buttons are for but I know that airp- I know about this pilot.,F+I+L
+20,3,CHI:        pilots can know what the buttons are for because they drive the airplane.,F+P+L
+20,3,CHI:        that's all I know.,I
+20,3,CHI:        an elephant.,L
+20,3,CHI:        elephants have big horns but since they're for very big they're very dangerous just like the lobster and the crocodile.,P+I+T+L
+20,3,CHI:        yeah.,NA
+20,3,"CHI:        um, I, and do you know why I said that?",I+F
+20,3,CHI:        (be)cause elephants sometimes they shoot water to your eyes and you can't see anymore.,F+L+I
+20,3,CHI:        and sometimes they step on you.,F
+20,3,that's all I know.,I
+20,3,"CHI:        but sometimes they're not, they don't always hurt you sometimes they give you rides on their tail when you swing on them.",F+P+I
+20,3,CHI:        sometimes they let you swing on their tail.,NA
+20,3,CHI:        that's all I know.,NA
+20,3,CHI:                     ?cereal?.,L
+20,3,"CHI:        um cereal we eat it but, but um, um, uh cereal- cereal, you always have to put it in a bowl.",F+P+L
+20,3,"CHI:        and, and you don't always have to eat it with milk.",F
+20,3,CHI:        not always.,NA
+20,3,"CHI:        and you gotta, and when you eat it with milk eat it with a spoon.",F
+20,3,CHI:        when it's dry you can do it with your hands or a spoon.,F
+20,3,CHI:        that's all I know.,I
+20,3,CHI:        broccoli.,L
+20,3,"CHI:        um, hm.",NA
+20,3,"CHI:        let's see, hm.",NA
+20,3,"CHI:        I know about hm, broccoli you eat it but I don't like broccoli.",F+I+L
+20,3,CHI:        and &=fidgets +...,NA
+20,3,CHI:        broccoli.,L
+20,3,CHI:        um you eat it and I don't like broccoli.,F+I+L
+20,3,CHI:        but other people like it.,I
+20,3,CHI:        some people.,NA
+20,3,CHI:        daddy doesn't like broccoli either.,I+L
+20,3,CHI:        but but daddy he's big enough to touch the ceiling.,NA
+20,3,CHI:        really is.,NA
+20,3,"CHI:        but, there's something on the garage and it's a shelf and and it's a shelf.",NA
+20,3,"CHI:        there's lots of shel- but this shelf has shel- shelves lots of shelves all the way up to the ceiling and daddy can reach and you can put things, in top of the shelf and daddy can reach the things that are on top of that shelf.",NA
+20,3,CHI:        and ?it's? all the way up to the ceiling.,NA
+20,3,"CHI:        um, um, bu- yeah, but maybe xxx when I was telling it to you he could hear it.",NA
+20,3,CHI:        ?maybe? +...,NA
+20,3,"CHI:        um, hm, that's all I know about broccoli actually.",I+L
+20,3,CHI:        that's all I know about it.,NA
+20,3,CHI:        but dad but dad is but dad actually is all about broccoli.,I+L
+20,3,"CHI:        um, a girl that plays football.",L
+20,3,"CHI:        girls that play football it's hard to throw it very far it's <just that> [?] every day you play football you get you yes get more muscles and muscles until you until you can throw it &=pretends:throw very far ? to your?, all the way to the person that is your team.",I+F+L
+20,3,CHI:        or that is not your team.,F
+20,3,CHI:        but that's all I know about it.,I
+20,3,CHI:        okay let's try oh that's a teacher.,L
+20,3,CHI:        teachers teach you things.,P+L+F
+20,3,"CHI:        and teachers, teachers, teachers, teach you things at schools.",F+L
+20,3,"CHI:        kindergarten- some teachers, some teacher- teachers live in kindergarten.",F+T+L
+20,3,"CHI:        and, some of them, some of them um some teachers live in preschool.",F+T+L
+20,3,CHI:        third grade.,F
+20,3,CHI:        that's all I know.,I
+20,3,"CHI:        okay, that's a horse.",L
+20,3,CHI:        you ride on them.,F
+20,3,CHI:        some horses you don't ride on them.,F+T+L
+20,3,CHI:        (be)cause the horses that you ride on have seats on them.,F+P+T+L
+20,3,"CHI:        and, but they have tails also.",P
+20,3,"CHI:        you, I said that you can swing on the elephant's tail but not a horse (be)cause a horse is small.",I+F+T+L
+20,3,CHI:        an elephant can step on a horse too.,T+F+L
+20,3,"CHI:        um-hm [= yes], I know actually that's all I know.",I
+20,3,CHI:                        ?penguin?!,L
+20,3,CHI:        that's a penguin.,L
+20,3,CHI:        but I know a guy in it's a guy that's it's a b- it's an evil person and and he's in a movie of Scooby_Doo_Meets_Batman_and_Robin.,I
+20,3,"CHI:        and, and, and his name is Penguin.",I+L
+20,3,CHI:        &=clears:throat and there's also an evil person that his that his name is Joker.,I
+20,3,"CHI:        he, he makes the joke, but he's the one that's supposed to make the jokes.",I
+20,3,CHI:        but I know this joke that he made in Scooby_Doo_Meets_Batman.,I
+20,3,CHI:        um he said I know who Firstname is.,I
+20,3,CHI:        that's Firstname's mother.,I
+20,3,CHI:        &=laughs it was that was a that was a joke that was so silly.,I
+20,3,CHI:        that's all I know about penguins.,I+L
+20,3,CHI:        well no about penguins they're birds but they can't fly.,T+F+L
+20,3,CHI:        they has do this &=flaps:arms so they stay floating under the water.,F
+20,3,"CHI:        but, but floating under the water that's all about penguins.",F+L
+20,3,CHI:        and that's all I know about penguins.,NA
+20,3,CHI:        xxx.,NA
+20,3,CHI:        that's a piece of cake.,P+L
+20,3,CHI:        chocolate cake actually.,T+L
+20,3,CHI:        chocolate cake you eat it.,T+F+L
+20,3,CHI:        and I've got chocolate cake in my home.,T+I+L
+20,3,CHI:        it's and it's in the freezer.,I+F
+20,3,CHI:        but I also got vanilla cake.,I+T+L
+20,3,CHI:        it's xxx it's xxx cold.,I+P
+20,3,CHI:        but they but when we both them they were cold.,I+P
+20,3,CHI:        um that's all I know.,I
+20,3,CHI:        but that's it's not all about cake but that it's all I know.,I+L
+20,3,CHI:        oh that's a clown oh &=waves:arms!,L
+20,3,"CHI:        but mom, I mean, do you know this?",I
+20,3,"CHI:        um my dad he told my mo- I hear him say to my mom that when I was afraid of monsters, he heard me say that so he told my mom this.",I
+20,3,CHI:        when he was a boy he just woke up when he was sleeping and he saw a picture in his room and it was a picture of a clown.,I+L
+20,3,"CHI:        it, it, it scared him.",I
+20,3,CHI:        ?but? +...,NA
+20,3,CHI:        that's all I know.,I
+20,3,CHI:        oh ah no that's not all I know actually!,NA
+20,3,CHI:        this is what I know.,NA
+20,3,CHI:        and this is a cool trick that a clown can do.,I+F+L
+20,3,CHI:        juggle &=pretends:juggle.,F
+20,3,CHI:        but I don't know how to juggle.,I+F
+20,3,CHI:        daddy can just do it with one ball.,I+F
+20,3,CHI:        it's easy to do it with one ball.,I+F
+20,3,CHI:        it's hard for me to do it with one ball.,I+F
+20,3,CHI:        it's hard for me to do it with six balls too.,I+F
+20,3,"CHI:        Arthur but, I know a cartoon and it's called Arthur and Arthur he can juggle just like a clown but he's not a clown.",I+T+F+L
+20,3,CHI:        he can juggle six balls.,I+F
+20,3,CHI:        but that's all I know about clowns.,NA
+21,4,CHI:        a ca- A slice of cake.,P+L
+21,4,CHI:        um.,NA
+21,4,CHI:        &=shrugs I don't know.,I
+21,4,CHI:        &=nods.,NA
+21,4,"CHI:        um, &=exhales um like there's, um I think there's ice cream with the cake.",P+L
+21,4,CHI:        and there and there's kind of icing on um.,P
+21,4,CHI:        there's a kind of crust that is yummy.,P+I
+21,4,CHI:        that's it for all I know.,I
+21,4,CHI:        I don't know about this one.,I
+21,4,CHI:        no about this one.,I
+21,4,CHI:        a horsey.,L
+21,4,CHI:        um they run fast.,F+P
+21,4,CHI:        and some persons have to be careful.,F
+21,4,CHI:        and um they have fur on their back and on their tail.,P
+21,4,CHI:        and some babies ones are like this.,T
+21,4,CHI:        and they have ears.,P
+21,4,CHI:        they don't have xxx.,NA
+21,4,CHI:        they have xxx.,NA
+21,4,CHI:        and these things on them.,F
+21,4,CHI:        when people are gonna ride them.,F
+21,4,CHI:        &=exhales that's it I know.,I
+21,4,CHI:        a lobster.,L
+21,4,"CHI:        um lobsters like, lobsters do this.",F+L
+21,4,CHI:        mm mm.,NA
+21,4,CHI:        they do that.,F
+21,4,CHI:        they're very small.,P+I
+21,4,CHI:        and um like their whiskers tickle us.,P+F+I
+21,4,CHI:        and their body is kind of like this is &=points:picture.,P
+21,4,CHI:        like that.,NA
+21,4,CHI:        and that's it I know.,I
+21,4,CHI:        mm-hm [= yes].,NA
+21,4,CHI:        orange.,L
+21,4,CHI:        um well an orange is kind of like a thing you know I've had.,I+L
+21,4,CHI:        that I have smelled before.,I+F
+21,4,CHI:        yeah.,NA
+21,4,CHI:        um do you know what um it's called again?,I
+21,4,CHI:        and it's kind of like an orange.,T+L
+21,4,CHI:        I don't know.,I
+21,4,CHI:        mm-mm well an orange is is a kind of food.,T+L
+21,4,CHI:        that you eat.,F
+21,4,CHI:        and we had it at school.,I+F
+21,4,CHI:        and some some people don't have it.,I+F
+21,4,CHI:        and I think you haven't taste- tasted what I have.,F+I
+21,4,CHI:        like it's kind of like an orange.,T+L
+21,4,CHI:        I don't know what it's called.,T+I
+21,4,CHI:        what's a ?torpedo??,NA
+21,4,CHI:        a teacher.,L
+21,4,CHI:        can ?you? +...,NA
+21,4,CHI:        can you please tell me about the teacher?,L
+21,4,CHI:        why can't you tell me some?,NA
+21,4,CHI:        and I want to hear what you too.,NA
+21,4,CHI:        I think you first.,NA
+21,4,CHI:        a teacher.,L
+21,4,CHI:        I don't know.,I
+21,4,CHI:        I don't know either.,NA
+21,4,CHI:        a clown.,L
+21,4,CHI:        &=shrugs I don't know.,I
+21,4,CHI:        but you tell me now.,NA
+21,4,"CHI:        I don't know what the, I don't know what to tell you.",NA
+21,4,CHI:        um.,NA
+21,4,CHI:        &=shrugs I don't.,NA
+21,4,CHI:        I know about these.,I
+21,4,"CHI:        um well it's an elephant and it squirts water at you when they're, when they're near you.",F+L
+21,4,CHI:        well that's it what I know.,I
+21,4,CHI:        I did.,NA
+21,4,"CHI:        well um that's an, This is an elephant and it s +...",L
+21,4,"CHI:        and when they're, When you're by them then, it squirts water at you.",F
+21,4,CHI:        a pumpkin pie.,L
+21,4,CHI:        &=shrugs I dunno.,I
+21,4,CHI:        um I don't know.,NA
+21,4,CHI:        I don't know.,NA
+21,4,CHI:        a pie.,L
+21,4,CHI:        policeman.,L
+21,4,CHI:        a policeman.,L
+21,4,CHI:        &=shrugs you guess.,I
+21,4,CHI:        I think it's your turn now.,NA
+21,4,CHI:        &=nods ?mm-hm [= yes]?.,NA
+21,4,CHI:        well it's after my ?turn?.,NA
+21,4,CHI:        well it's after my turn.,NA
+21,4,CHI:        that's popcorn.,L
+21,4,CHI:        I think you know about popcorn.,I+L
+21,4,CHI:        &=nods mm-hm [= yes].,NA
+21,4,"CHI:        well um, popcorn is what you eat.",F+L
+21,4,CHI:        and sometimes you can have popcorn at my house you know.,F+I+L
+21,4,CHI:        and um that's a glass bowl that the popcorn is supposed to be in &=points:picture.,P+L
+21,4,CHI:        a toad.,T
+21,4,CHI:        no.,T
+21,4,CHI:        actually it's an alligator.,L
+21,4,CHI:        um &=turns:page.,NA
+21,4,"CHI:        um that, um well the alligators try and bite you.",F+L
+21,4,CHI:        like dog kind of do.,T+F
+21,4,CHI:        and +...,NA
+21,4,CHI:        broccoli what you eat on your plate.,F+L
+21,4,"CHI:        &=exhales and um, I think you take water and milk with it on your plate.",F+T
+21,4,"CHI:        &=laughs what if you, What if um um you ated um um only broccoli for dinner.",I+F+L
+21,4,CHI:        I don't know.,I
+21,4,CHI:        baseball player.,L
+21,4,"CHI:        um it, it, it ha- it thr- it plays baseball.",P
+21,4,"CHI:        um and, like, um it throws, it throws a football.",P
+21,4,CHI:        and it ha- it's supposed to have these on [= football gear].,P
+21,4,CHI:        and this.,NA
+21,4,CHI:        and this on.,P
+21,4,CHI:        and it ha- supposed to be here.,NA
+21,4,CHI:        and this supposed to be +...,NA
+21,4,CHI:        and um tell me if it's a boy or a girl.,T
+21,4,CHI:        no you tell me.,NA
+21,4,CHI:        I want you to tell me.,NA
+21,4,CHI:        can you please tell me?,NA
+21,4,CHI:        um it's a girl and I want to turn the page.,T
+21,4,CHI:        &=laughs penguin.,L
+21,4,CHI:        um well it it lives +...,F
+21,4,CHI:        where does it live?,F
+21,4,CHI:        I don't know.,I
+21,4,"CHI:        in a ?chilly?, In a chilly world.",P+F
+21,4,CHI:        I haven't seen a penguin before.,I+L
+21,4,CHI:        that's it I don't know more.,NA
+21,4,CHI:        that's about it.,NA
+21,4,CHI:        I don't know about penguins [= to Zorg].,L
+22,5,CHI:        race.,L
+22,5,CHI:        um that's a race.,L
+22,5,CHI:        um people xxx trying to race fast.,F+P+L
+22,5,CHI:        swhoo.,P
+22,5,CHI:        I don't know anything about this one.,I
+22,5,CHI:        xxx.,NA
+22,5,CHI:        <what that thing at right there> [?].,NA
+22,5,CHI:        <what that thing at right there> [?].,NA
+22,5,CHI:        ladybug.,T
+22,5,CHI:        and they fly.,F
+22,5,CHI:        fly fast.,F+I
+22,5,CHI:        maybe that's not a ladybug.,T
+22,5,CHI:        ?butterfly?.,L
+22,5,CHI:        they fly.,F
+22,5,CHI:        and what are those things for &=points:page?,F
+22,5,CHI:        a dolphin.,L
+22,5,CHI:        they swim in the [?] oceans.,P
+22,5,CHI:        old lady <who's this old> [?] !,P+L
+22,5,"CHI:        you know, I don't know about old ladies, like that.",I+L
+22,5,"CHI:        well I don't know much about that, either.",NA
+22,5,CHI:        a fireman!,L
+22,5,CHI:        um they take out fire.,P
+22,5,CHI:        and firemans <take out hot lava> [?].,F+L
+22,5,CHI:        xxx.,NA
+22,5,CHI:        ?pineapple?!,L
+22,5,CHI:        Spongebob liveses in a pineapple.,I+F+L
+22,5,CHI:        I don't like to eat pineapples.,I+F+L
+22,5,"CHI:        they, hurt me.",I+F
+22,5,CHI:        what is that?,NA
+22,5,CHI:        I don't know.,I
+22,5,CHI:        no.,NA
+22,5,"CHI:        well people like those things but I like um, eggs with frosting.",I+T
+22,5,CHI:        I I think that's a news guy.,L
+22,5,CHI:        um I think he's from the news.,F
+22,5,CHI:        you know I don't know much more about this guy.,I
+22,5,CHI:        ice cream.,L
+22,5,CHI:        I love ice cream!,I+L
+22,5,CHI:        well ice cream is sweet and it has sugar.,P+L
+22,5,CHI:        so that's why I like ice cream.,I+L
+22,5,CHI:        and ice cream isn't healthy.,P+L
+22,5,CHI:        yuck!,I
+22,5,"CHI:        that's a, those, those things stink &=pinches:nose.",P
+22,5,CHI:        yeah (be)cause they're skunks.,L
+22,5,CHI:        well they really stink bad.,P
+22,5,CHI:        well they stink bad.,P
+22,5,CHI:        ew.,I
+22,5,CHI:        yuck.,I
+22,5,CHI:        xxx <fuzzy tails> [?].,P
+22,5,CHI:        do these ones hunt for food?,F
+22,5,CHI:        what food?,F
+22,5,CHI:        um no.,I
+22,5,CHI:        xxx.,NA
+22,5,CHI:        pumpkin.,L
+22,5,CHI:        I like pumpkins!,I+L
+22,5,CHI:        hey do people eat pumpkins?,F+L
+22,5,CHI:        I think no.,F
+22,5,CHI:        (be)cause pumpkins are a way lot sugary.,P+L
+22,5,CHI:        um you can't eat that that part &=points:picture.,F+P
+22,5,"CHI:        that part's um um uh, it makes you hurt.",F+P
+22,5,CHI:        it makes you hurt.,NA
+22,5,CHI:        kitty.,L
+22,5,CHI:        I love kitties you know.,I+L
+22,5,CHI:        kitties.,L
+22,5,CHI:        I love kitties you know.,I+L
+22,5,CHI:        kitties are soft and furry.,P+L
+22,5,CHI:        they like cat food.,F
+22,5,CHI:        a parrot.,L
+22,5,CHI:        I love parrot parrots the most.,I+L
+22,5,CHI:                               ?yeah?.,NA
+22,5,CHI:        parrots need to be on sticks.,P+L
+22,5,CHI:        when they're hungry they come off of the sticks and eat.,F
+22,5,CHI:        and they got beaks.,P
+22,5,CHI:        you see &=points:picture?,NA
+22,5,CHI:        and what's that on top it's head?,P
+22,5,CHI:        I think hair.,P
+22,5,CHI:        a ?cracker?.,L
+22,5,CHI:        nothin(g).,NA
+22,5,CHI:        well crackers are crunchy and they're squares.,P+L
+22,5,CHI:        and they got little holes.,P
+22,5,CHI:        and people love them the most.,I
+22,5,CHI:        and crackers are just ah just just sugary.,P+L
+23,6,CHI: what's this about?,NA
+23,6,CHI: a person and a cane.,L
+23,6,"CHI: ?does?, does does is um what's his name again?",NA
+23,6,CHI: what's his name again?,NA
+23,6,CHI: zorg does Zorg know anything about this?,NA
+23,6,"CHI: this is a person, Zorg.",L
+23,6,"CHI: and, persons, are humans.",T+L
+23,6,CHI: I said persons are humans.,L
+23,6,CHI: does Zorg know anything about this?,NA
+23,6,CHI: a butterfly.,L
+23,6,CHI: does Zorg know anything about this?,NA
+23,6,CHI: what?,NA
+23,6,CHI: what did you say?,NA
+23,6,CHI: it's a butterfly.,L
+23,6,CHI: and butter and and but and caterpillers turn into butterflies.,T+F+L
+23,6,CHI: does Zorg know anything about this?,NA
+23,6,CHI: zorg this is a butterfly.,L
+23,6,CHI: caterpillers want to caterpillers turn into butterflies.,T+F+L
+23,6,CHI: ?that's? +...,NA
+23,6,CHI: is it a toucan?,L
+23,6,CHI: zorg this is a toucan.,L
+23,6,CHI: sometimes people can teach toucans to open up cans.,F+L
+23,6,CHI: they're birds.,T
+23,6,CHI: zorg this is a toucan and sometimes see people can teach them to open up cans.,F+L
+23,6,CHI: I think xxx Zorg xxx.,NA
+23,6,CHI: zorg this is a ballet girl.,L
+23,6,CHI: she did ballet.,P
+23,6,CHI: she wears tutus and and she picks and she and she has pretty she has pretty things when she does ballet.,P+I
+23,6,CHI: zorg this is a ballet girl.,L
+23,6,CHI: she does her tutus and she look pretty <when her> [?] hair done and when she does ballet.,P+I
+23,6,CHI: &=gasps zorg might like this treat.,I+T
+23,6,CHI: that's a cone [?].,P
+23,6,CHI: (be)cause of that part &=points:picture.,P
+23,6,CHI: zorg this is ice cream.,L
+23,6,CHI: it's sweet and it's cold.,P
+23,6,CHI: you get them from ice cream stores.,F+L
+23,6,CHI: or you could get them from stores.,F
+23,6,CHI: and their they have cones but sometimes you can get them out of bowls.,P+T
+23,6,CHI: zorg this is a treat.,T
+23,6,CHI: and and you could you could go to ice cream stores and you could buy them.,F+L
+23,6,CHI: or you could go ice cream stores you could get them out of cups or you could or you could get cones.,P+F+T+L
+23,6,CHI: what is that called?,NA
+23,6,CHI: I don't know what's that called.,I
+23,6,CHI: &=shakes:head_no.,NA
+23,6,CHI: well this is a fruit.,T
+23,6,"CHI: and, it's a pineapple?",L
+23,6,CHI: and this is a pineapple.,L
+23,6,CHI: and can you eat it?,F
+23,6,CHI: hm &=shrugs.,I
+23,6,"CHI: maybe in-maybe you could then make out a pineapple, pie.",F+T+L
+23,6,"CHI: zorg this is a fruit, and +...",T
+23,6,CHI: and maybe you could make pineapple pie.,F+T+L
+23,6,CHI: this is a cat.,L
+23,6,CHI: it goes meow meow.,P
+23,6,CHI: and it has a tail.,P
+23,6,CHI: and I saw a cat in my neighborhood where it didn't have a tail.,I+F+P+T+L
+23,6,CHI: what?,NA
+23,6,CHI: it has it has it has ears but not like us it's not down like this but up like this like Zorg.,P+T
+23,6,CHI: zorg this is a cat.,L
+23,6,CHI: it goes meow meow.,P
+23,6,CHI: it has ears not like us but like you.,P+T
+23,6,CHI: what's that?,NA
+23,6,CHI: a ?police??,T
+23,6,CHI: or is it a judge.,L
+23,6,CHI: I think it's a judge.,L
+23,6,CHI: judges tell the police what's supposed to happen to people who've been bad.,F+L
+23,6,"CHI: well, if if they say if they say yes then they have to go to jail.",F
+23,6,CHI: if they say no then they have-then they don't need to go to jail.,F
+23,6,"CHI: the police have to tell them, what-the judge has to tell them what he's supposed to do with the people.",F+T+L
+23,6,"CHI: zorg this is, a judge.",L
+23,6,CHI: he tells polices with bad guys have to go in jail or they don't need to.,F
+23,6,CHI: what is that?,NA
+23,6,CHI: a cupcake?,L
+23,6,CHI: a butter cupcake.,T+L
+23,6,CHI: it looks like a cupcake so I think it's a cupcake.,P+L
+23,6,"CHI: cupcakes, are, things that are like treats.",T+L
+23,6,CHI: what you could have like what you bring one to school for your birthday.,F
+23,6,CHI: zorg this is a treat.,T
+23,6,CHI: when when it's your birthday you bring it to school.,F
+23,6,CHI: xxx.,NA
+23,6,CHI: a dolphin.,L
+23,6,CHI: a dolphins go up and down up and down up and down.,F+L
+23,6,CHI: and they squeaks [?] &=makes:squeeking_noise.,F+P
+23,6,"CHI: they have, fins and a body like tail like like sharks and fishes.",P+T
+23,6,CHI: this have this like sharks.,T
+23,6,CHI: zorg this is a dolphin.,L
+23,6,"CHI: it has, fins flappers and it goes squeek squeek and a tail like a like a shark and and a fish and it has this thing like a shark.",P+T
+23,6,CHI: pumpkin.,L
+23,6,CHI: pumpkins are like in pumpkin pie.,P+F+L
+23,6,CHI: had it at my grandma's house my grandma Firstname.,I+F
+23,6,CHI: I know I liked it.,I
+23,6,"CHI: and, it's orange and has a stem.",P
+23,6,CHI: like a ?apple?.,T
+23,6,CHI: and it's and its xxx and it's sweet but you could have a pumpkin pie.,P+F+L
+23,6,CHI: zorg this is a pumpkin.,L
+23,6,CHI: you can make pumpkin pie out of this.,F+L
+23,6,CHI: a fireman.,L
+23,6,CHI: a fireman fights fires.,P+L
+23,6,"CHI: and, they, when the when the house is on fire they they they they fight it.",F
+23,6,CHI: zorg this is a fireman.,L
+23,6,CHI: he fights fires in houses and +...,F
+23,6,CHI: and that's a good thing to do.,P
+23,6,CHI: a cracker.,L
+23,6,CHI: crackers what you eat.,F+L
+23,6,CHI: and and my brother Firstname he likes crackers.,I+L
+23,6,CHI: and and and everytime when we say crackers he says cracker cracker.,I+L
+23,6,CHI: and this one has holes.,P
+23,6,CHI: and it's a shaped square.,P
+23,6,CHI: zorg this is food.,T
+23,6,CHI: you eat it and it's and it's xxx square and it has holes in it.,F+P
+23,6,CHI: it's called a cracker and you're allowed to eat it.,F+L
+23,6,CHI: gross [?] skunk.,I+L
+23,6,CHI: this is a skunk and it sprays when they think somebody's coming to catch them.,F+L
+23,6,CHI: and they're black and white.,P
+23,6,CHI: and they have paw.,P
+23,6,CHI: zorg this is a stinky animal.,P+T
+23,6,CHI: and it sprays when it think somebody's going to get him.,F
+23,6,CHI: <this is cool> [?].,I
+23,6,CHI: this is a race car thing.,L
+23,6,CHI: and that's a race car and somebody going on a race and some more people going on a race &=points:picture.,P
+23,6,CHI: they they they well the race car between car that you try to win.,F
+23,6,CHI: and and he's sixteen.,P
+23,6,CHI: yeah.,NA
+23,6,"CHI: zorg this is when you car and you play a sport and while it's not a sport like you, like hit balls while you go in cars called a race car.",F+T
+23,6,"CHI: and, you and the car you go you go on roads try to win.",P+F
+24,12,CHI:        play baseball.,L
+24,12,CHI:        I don't know about that.,I
+24,12,CHI:        bread.,L
+24,12,CHI:        to eat.,F
+24,12,CHI:        bread to eat.,L+F
+24,12,CHI:        put it in toasters.,F
+24,12,CHI:        cut it.,F
+24,12,CHI:        make macaroni and cheese with it.,F+T
+24,12,CHI:        and make sandwiches.,F+T
+24,12,CHI:        oh.,NA
+24,12,"CHI:        you paint uh trees, uh waterslides birds hey that's what I have.",P+F+I
+24,12,CHI:        robins.,F
+24,12,CHI:        and numbers.,F
+24,12,CHI:        xxx.,NA
+24,12,CHI:        &=shrugs.,NA
+24,12,CHI:        I don't know about that [?].,I
+24,12,CHI:                ?ladybug?.,L
+24,12,CHI:        crawl &=making:crawling_motions_with_arms.,F
+24,12,"CHI:        ?and?, crawl on you.",F
+24,12,"CHI:        and, bite.",F
+24,12,CHI:        and actually they be nice nice.,I
+24,12,CHI:        if you be nice they'll lick you.,F
+24,12,CHI:        <oh I remember> [?] tiger.,I+T
+24,12,CHI:        so cute.,T+I+P
+24,12,CHI:        he's in our neighborhood he lives next door with Firstname and Firstname.,T+I+F
+24,12,CHI:        he's cute.,T+I+P
+24,12,CHI:        oh I would name him Tiger too but &=laughs he's he's not tiger.,I+T
+24,12,CHI:        they're small.,P
+24,12,CHI:        they tickle you.,F
+24,12,CHI:        &=laughs.,NA
+24,12,CHI:        a baby.,L
+24,12,CHI:        she plays.,F
+24,12,CHI:        and make bubbles.,F
+24,12,"CHI:        and, wait I can make bubbles.",I+F
+24,12,CHI:        I know &=laughs.,I
+24,12,CHI:        this guy &=pointing:to_Zorg?,NA
+24,12,CHI:        okay.,NA
+24,12,"CHI:        uh, she drinks bottles of milk.",F
+24,12,CHI:        I love milk &=makes:slurping_noises.,I+F
+24,12,CHI:        cheese.,L
+24,12,CHI:        mouse eat cheese and make holes.,F+P+L
+24,12,CHI:        uh.,NA
+24,12,CHI:        get groceries from cheese.,F+T+L
+24,12,"CHI:        and, you eat cheese.",F+L
+24,12,CHI:        birds eat cheese.,F+L
+24,12,CHI:        &=makes:eating_noises &=puts:bird_to_cheese_picture.,F
+24,12,"CHI:        um, mouse eat cheese.",F+L
+24,12,CHI:        that's it.,NA
+24,12,CHI:                ?cookie?.,L
+24,12,CHI:        a cookie &=makes:eating_noises.,F+L
+24,12,CHI:        you crunch loud.,F+P
+24,12,CHI:        birds eat it &=makes:eating_noises_for_toy.,F
+24,12,CHI:             ?a? +...,NA
+24,12,CHI:        &=makes:toy_eat &=makes:eating_noises.,F
+24,12,CHI:        &=laughs.,NA
+24,12,CHI:        uh.,NA
+24,12,CHI:        I don't know.,I
+24,12,CHI:        a duck.,L
+24,12,CHI:        I have a duck &=gets:toy_back_out.,I+L
+24,12,CHI:        Roo [= duck noise].,P
+24,12,CHI:        it's not a duck.,I+T+L
+24,12,CHI:        &=laughs.,NA
+24,12,CHI:        it's a bird.,T
+24,12,CHI:        um they swim &=makes:noises &=swimming:gestures.,F
+24,12,CHI:        they make splash.,F
+24,12,"CHI:        um, they eat.",F
+24,12,"CHI:        they, they poop.",F
+24,12,"CHI:        um, they it's they fly &=flapping.",F
+24,12,"CHI:        they it's your, they um, stand.",P+F
+24,12,CHI:        they um I already said that.,NA
+24,12,CHI:        Kay [?].,NA
+24,12,CHI:        &=gasps aw!,I
+24,12,CHI:        I like that puppy.,I+L
+24,12,CHI:        he's cute.,I+P
+24,12,CHI:        dogs eat and drink.,F+T
+24,12,CHI:        and play.,F
+24,12,CHI:        and go outside in the summer.,F
+24,12,CHI:        and play tag with me.,F+I
+24,12,CHI:        &=laughs.,NA
+24,12,CHI:        I know my dog xxx [= pet name] died.,I+T+F
+24,12,CHI:        maybe [?] I'll get a new puppy.,I+L
+24,12,CHI:        and will be <I will be> [?] on the bed.,I+F
+24,12,CHI:        firstname really really misses xxx [= pet name].,I+F
+24,12,"CHI:        wait, what is our girl dog gonna be?",I+T
+24,12,CHI:        a boy or a girl?,I+T
+24,12,CHI:        oh I remember a girl.,I+T
+24,12,"CHI:        oh, they bite and they lick.",F
+24,12,CHI:        they have nails.,P
+24,12,CHI:        they sniff &=makes:sniffing_noises.,F
+24,12,CHI:        they wag their tail.,F+P
+24,12,CHI:        they they pet them.,F
+24,12,CHI:        um they itch their nose &=scratches:nose.,F+P
+24,12,CHI:        they they itch their ears &=scratches:ears.,F+P
+24,12,CHI:        um.,NA
+24,12,CHI:        wait I already said that.,NA
+24,12,CHI:        carrot.,L
+24,12,"CHI:                      ?rabbits?, eat carrots.",F+L
+24,12,CHI:        and you make snowmans with carrots.,F+L
+24,12,CHI:        bunnies eat carrots wait I already said that.,L
+24,12,CHI:        &=laughs.,NA
+24,12,"CHI:        uh, I don't know anything else.",I
+24,12,"CHI:        oh wait, crocodiles eat carrots.",F+L
+24,12,CHI:        uh xxx eat carrots.,F+L
+24,12,CHI:        &=shrugs  I don't know.,I
+24,12,CHI:        &=shrugs I can't think what it is.,I
+24,12,CHI:        let me think.,NA
+24,12,CHI:        no I don't know.,I
+24,12,CHI:        I don't know my xxx.,NA
+24,12,CHI:        probably you think.,NA
+24,12,CHI:        &=shrugs I don't know what it's about.,I
+24,12,CHI:        probably xxx.,NA
+24,12,CHI:                    ?oh? I ate a banana l today but we have bananas in the car.,I+F+L
+24,12,CHI:        I'm hungry.,I
+24,12,CHI:        &=sighs.,NA
+24,12,CHI:        you eat it.,F
+24,12,CHI:        oh pigs roll in mud.,F+L
+24,12,"CHI:        they eat hay, ?just like horses?.",F+T
+24,12,CHI:        uh they go in barns.,F
+24,12,CHI:        they pee.,F
+24,12,CHI:        they ?poop?.,F
+24,12,"CHI:        um, they stretch.",F
+24,12,CHI:        just like my dad.,I+T
+24,12,CHI:        they sit in chairs.,F
+24,12,"CHI:        they, make oink sounds.",F+P
+24,12,CHI:        oink oink oink.,P
+24,12,"CHI:        um, they itch their ears &=scratches:ears.",F+P
+24,12,CHI:        they have cheeks.,P
+24,12,CHI:        and that's all.,NA
+24,12,CHI:        (o)kay.,NA
+24,12,CHI:        turtles walk.,F+L
+24,12,"CHI:        they sneak up in um those &=points:picture, whatever they're called.",F+P
+24,12,"CHI:        and they um, also crawl, in the sand and they crawl up in the shell.",F+P
+24,12,CHI:        that's what I think.,I
+24,12,"CHI:        mm, they don't have any ears.",P
+24,12,CHI:        I know turtles don't have any ?ears?.,P+L
+24,12,CHI:        and that's all.,NA
+25,16,CHI:        a pretzel.,L
+25,16,CHI:        I don't know what what about pretzels [?].,I+L
+25,16,CHI:        I don't know about this one either.,NA
+25,16,CHI:        okay.,NA
+25,16,CHI:        they're good to eat and they're so and they're healthy for you.,F+I+P
+25,16,"CHI:        and, I'm trying my best.",NA
+25,16,CHI:        and and they're also and they also taste good.,I+P
+25,16,CHI:        they taste very crispy.,P
+25,16,CHI:        have you ever had a pretzel Zorg?,F+L
+25,16,CHI:        it's cute.,I
+25,16,CHI:        zorg likes pretzels.,I+L
+25,16,CHI:        it looks good to eat.,I+P+F
+25,16,CHI:        and look at all those sesame seeds.,P
+25,16,CHI:        look at those sesame seeds.,NA
+25,16,CHI:        zorg sesame seeds are are are crispier than ants.,P+T
+25,16,CHI:        you know that don't you?,I
+25,16,CHI:        are Zorg ants good?,I+T
+25,16,CHI:        well pretzels are good.,I+L
+25,16,CHI:        xxx [= pet name] likes them my dog.,I
+25,16,CHI:        xxx [= pet name] is a very is a very big dog Zorg.,NA
+25,16,CHI:        you could get you could get stepped on.,NA
+25,16,CHI:        it's a big dog you know and you know it.,NA
+25,16,CHI:        I think that's all about pretzels.,I+L
+25,16,CHI:        a king.,L
+25,16,CHI:        I don't know about kings.,I+L
+25,16,CHI:        but they're royal.,P
+25,16,CHI:        hm well I don't know about kings either.,L+I
+25,16,CHI:        I don't really [?] know about kings.,L+I
+25,16,CHI:        queens are royal too.,T+P
+25,16,CHI:        I don't know any about queens and kings.,I+T+L
+25,16,"CHI:        they're royal, but I think I know.",NA
+25,16,CHI:        oh on the next page there's a lion.,L
+25,16,CHI:        see?,NA
+25,16,CHI:        I don't know what to say about the king.,L+I
+25,16,CHI:        zorg this is a lion.,L
+25,16,CHI:        lions roar and they have claws and and and and watch out for those claws.,F+P+L
+25,16,CHI:        they can xxx you.,F
+25,16,CHI:        and and they also have a tail see Zorg.,P
+25,16,CHI:        they have a tail.,NA
+25,16,CHI:        and that's all and that's all about lions.,L
+25,16,CHI:        I think that's all about lions.,I+L
+25,16,CHI:        it's a police officer.,L
+25,16,CHI:                  ?police?.,L
+25,16,CHI:        police officers oh sorry.,L
+25,16,CHI:        police officers are are are very important.,I+L
+25,16,CHI:        when you when you when you get lost um just just just ask a a police officer for help.,F+L
+25,16,CHI:        hm I think that's all about police officers.,I+L
+25,16,CHI:        it's a pie.,L
+25,16,"CHI:        hm, pies are healthy for you and they're really yummy and and and I don't know what else.",I+P+L
+25,16,CHI:        I don't know what else.,NA
+25,16,CHI:        hm well it's a pie.,L
+25,16,CHI:        hey it's just a pie.,L
+25,16,CHI:        a man.,L
+25,16,CHI:        naked but his legs are not naked.,P
+25,16,CHI:        looks like he's gonna do some exercisin(g).,I+F
+25,16,"CHI:        he's exercising and and, I don't know.",F+I
+25,16,CHI:        yeah I'm trying my best.,NA
+25,16,CHI:        I think that's all about the man.,I+L
+25,16,CHI:        I think that's all about the man.,NA
+25,16,CHI:        oh sorry Zorg.,NA
+25,16,CHI:        I just flipped him in the nose.,NA
+25,16,CHI:        it's milk.,L
+25,16,CHI:        um this milk drink is making me thirsty.,I+T+L
+25,16,CHI:        I I should've packed my water.,I+T
+25,16,CHI:        okay Zorg.,NA
+25,16,CHI:        oh at the restaurant there was a toad.,NA
+25,16,CHI:        I don't know about toads.,NA
+25,16,CHI:        I don't know very much.,I
+25,16,CHI:        I just know this.,NA
+25,16,CHI:        oh Zorg.,NA
+25,16,CHI:        he's keeping xxx Zorg.,NA
+25,16,CHI:        he looks like a he looks like a pig to me [= referring to Zorg].,NA
+25,16,CHI:        zorg's a pig.,NA
+25,16,CHI:        okay.,NA
+25,16,"CHI:        it's just, oh you know what on the other you know what's on on the on the other page of this page is a owl.",L
+25,16,CHI:        and you know what?,I
+25,16,CHI:        I have the movie Harry_Potter.,I
+25,16,"CHI:        I have Harry_Potter_and_the_Soccer_Stone, Harry_Potter and and and the Harry_Potter_and_the_Sorcerer's_Stone and Harry_Potter_and_the_Prisoner_of_Azkaban.",I
+25,16,CHI:        that's Harry_Potter three and so that means I but I don't have Harry_Potter five and Harry_Potter six and Harry and and Harry and Harry_Potter four yet.,I
+25,16,CHI:        I don't know.,I
+25,16,CHI:        oh yeah.,NA
+25,16,CHI:        it's a boy sea surfing.,P+L
+25,16,CHI:        I think that's all about th and I think that's all about the boy.,I+L
+25,16,CHI:        it's a painting.,NA
+25,16,CHI:        the painting has vegetables in it and and a farmer.,L
+25,16,CHI:        that's just all [?].,NA
+25,16,CHI:        now this is an owl.,L
+25,16,CHI:        owls are cool.,I+L
+25,16,CHI:        and and they have big eyes.,P
+25,16,CHI:        and they can hear in the night for little sounds and little insects.,F
+25,16,CHI:        and and and they fly at night.,F
+25,16,CHI:        and they hoo at night.,F
+25,16,CHI:        hoo hoo.,P
+25,16,CHI:        sometimes I hear owls at night.,I+F+L
+25,16,CHI:        do you hears owls at night sometimes in Michigan?,I+F+L
+25,16,CHI:        does Zorg hear any any animals in the night?,I+F+T
+25,16,CHI:        owls do you hear ants in the night or owls [= talking to Zorg]?,I+F+L
+25,16,CHI:        &=laughs.,NA
+25,16,CHI:        corn.,L
+25,16,CHI:        I don't know about corn.,I+L
+25,16,CHI:        oh after this page is going to be a little bunny.,P+L
+25,16,CHI:        and then the toad.,L
+25,16,CHI:        and then a strawberry.,L
+25,16,CHI:        and then a rattle snake.,T+L
+25,16,CHI:        alright.,NA
+25,16,CHI:        corn is very a delicious treat.,I+T+P+L
+25,16,CHI:        it's yummy and its and and and it it can make you full.,I+P+F
+25,16,CHI:        I think that's all about corn.,I+L
+25,16,CHI:        a bunny.,L
+25,16,CHI:        bunny rabbits are shy animals.,I+T+L
+25,16,CHI:        some live in in holes and some live in cage.,F
+25,16,CHI:        and some and some are funny some are scared.,I
+25,16,CHI:        I that's all about bunnies.,L
+25,16,CHI:        this is a toad he's he's I don't know about toads.,I+L
+25,16,CHI:        toads um this toad this toad is this toad this toad is a green frog.,P+T+L
+25,16,CHI:        and this and and and this and it hops.,F
+25,16,CHI:        that's all about the toad.,L
+25,16,CHI:        this is a strawberry.,L
+25,16,CHI:        it's sweet and yummy and.,I+P
+25,16,CHI:        um the strawberry is yummy and sweet and and and those little dots in the strawberry is seeds.,P+L
+25,16,CHI:        I used to eat them xxx the seeds.,I+F+P
+25,16,CHI:        I eat the seeds you know.,I
+25,16,CHI:        I'm like a little birdie eat the seeds.,I+F+P+T
+25,16,CHI:        yeah I'm kinda like a birdie I eat the seeds.,NA
+25,16,"CHI:                ?this?, this is a snake.",L
+25,16,CHI:        it slithers.,F
+25,16,CHI:        this is a rattle snake and it wiggles it's tail.,T+F+P+L
+25,16,CHI:        that's all.,NA
+25,16,CHI:        snakes go ss [= snake noise].,P+L
+25,16,CHI:        they don't um usually bite people they just smell you with their mouth.,F+P
+25,16,CHI:        mm-hm [= yes].,NA
+25,16,CHI:        I'm trying to help him out.,NA
+25,16,CHI:        he looks he's got a little ant on his tongue.,NA
+25,16,CHI:        I hope he's full from all these those ants he's eating.,NA
+25,16,CHI:        zorg you gotta watch out for for snakes.,F+L
+25,16,CHI:        if you see a snake you know that you know you know what you gotta do when a snake comes?,I+F+L
+25,16,CHI:        stomp on them.,F
+25,16,CHI:        &=laughs you just need a horse for that.,T+F
+25,16,CHI:        you just need a horsy.,NA
+25,16,CHI:        so that's all about snakes.,L
+26,27,CHI:        frog.,L
+26,27,CHI:        well I have a frog poster.,I+L
+26,27,CHI:        and and one picture of one is like this &=poses:like_frog.,I+P
+26,27,"CHI:        and frogs do this boing, boing, boing &=hops.",F+L+P
+26,27,"CHI:        um, hm, well, he's Zorg right?",NA
+26,27,CHI:        um well what is he?,NA
+26,27,"CHI:        um well, that's what holds their his mouth um &=points:to_page.",P
+26,27,"CHI:        um, that's what holds his mouth um neck that's how the mouth stays on it.",P
+26,27,CHI:        and um those are the legs and they're like um what is it called?,P
+26,27,"CHI:        um, xxx what they're called.",NA
+26,27,CHI:        webbed!,P
+26,27,CHI:        webbed feet.,P
+26,27,CHI:        webbed feet.,NA
+26,27,CHI:        that's how they can they can they can do this.,F
+26,27,CHI:        their hands stick to the dirt ?and then they just and then they just jump?.,P+F
+26,27,CHI:        like ?this &=jumps?.,F
+26,27,CHI:        I can do an even better one &=jumps.,I+F
+26,27,CHI:        okay.,NA
+26,27,"CHI:        that's what all the um stuff that I knew, ?about them?.",I
+26,27,"CHI:        um, a farmer.",L
+26,27,"CHI:        well, farmers they plant everything except their animals.",F+L
+26,27,CHI:        they plant did you know sometimes the um if they live in the forest the wolves may the wolves might eat their sheep.,F
+26,27,CHI:        so someone always have to watch out.,F
+26,27,CHI:        watch watch the sheep.,F
+26,27,CHI:        but the dog sometimes watches the sheep.,F
+26,27,CHI:        because they can do alarms.,F
+26,27,CHI:        so that's all I know about farmers.,I+L
+26,27,CHI:        a rabbit.,L
+26,27,CHI:        I know a lot of stuff about rabbits.,I+L
+26,27,CHI:        um well they have big they have small big round back legs.,P
+26,27,CHI:        and and they have short short little legs thin legs.,P
+26,27,CHI:        and and they start out like that.,F
+26,27,CHI:        and then they have pointy ears.,P
+26,27,CHI:        and they have eyes.,P
+26,27,CHI:        and this is what their face looks like.,P
+26,27,CHI:        and sometime my dad is going to make me a bat mask.,I+T
+26,27,CHI:        and I already got a Batman one.,I
+26,27,CHI:        and they boing real high.,F
+26,27,CHI:        higher than frogs &=jumps.,F+T
+26,27,CHI:        okay.,NA
+26,27,CHI:        that's all I know.,I
+26,27,CHI:        a weight guy.,L
+26,27,"CHI:        mm well, they they're really strong.",P
+26,27,CHI:        I mean they're not too strong but when they lift this weight thing they become stronger.,I+F
+26,27,CHI:        that's all I know.,I
+26,27,CHI:        that's a strawberry.,L
+26,27,"CHI:        well that, you you, only eat it.",F
+26,27,"CHI:        and you um, and it's red.",P
+26,27,CHI:        and it's a type of um fruit right?,T
+26,27,CHI:        and it comes from trees right?,F
+26,27,CHI:        actually they plant it right?,F
+26,27,CHI:        right?,NA
+26,27,CHI:        I think they plant it um um on a strawberry tree.,F+L
+26,27,CHI:        but I think farmers um um plant it in in their in their gardens and then they give it to the farmer's market.,F
+26,27,CHI:        and then they buy it.,F
+26,27,CHI:        and sometimes they even do it at a farm.,F
+26,27,CHI:        that's all I know.,I
+26,27,"CHI:        surfboard, guy.",L
+26,27,CHI:        I don't know about these.,I
+26,27,CHI:        no.,NA
+26,27,CHI:        oh.,NA
+26,27,CHI:        milk is a kind of drink.,T+L
+26,27,CHI:        and everyday I drink it.,I+F
+26,27,"CHI:        well, if you leave it in the car you're your collar your car will stink right?",F
+26,27,CHI:        right?,NA
+26,27,CHI:        but can I hold him ?for a second??,NA
+26,27,"CHI:        um, milk makes you healthy.",F+L
+26,27,CHI:        that's all I know.,I
+26,27,CHI:        um that's a king I think.,L+I
+26,27,CHI:        but they're not alive right?,F
+26,27,CHI:        I don't think they're alive but knights are.,I+T+F
+26,27,"CHI:        but, and knights there's a castle, ?the knights rule?.",T+F
+26,27,CHI:        yeah.,NA
+26,27,"CHI:        yeah, and if there if kings were alive they would have dark blond skin.",I+P+L+F
+26,27,CHI:        and they would have a crown like that.,P
+26,27,CHI:        and they would have a blue cape and but that part would be like it.,P
+26,27,CHI:        and they would have a necklace like that.,P
+26,27,CHI:        and they would have um a suit like that except they wouldn't have that.,P
+26,27,"CHI:        but, and they would have that stripe but they wouldn't have that button.",P
+26,27,CHI:        and they would have that belt but they wouldn't have the pants.,P
+26,27,CHI:        they would have green striped with yellow and black stripes.,P
+26,27,CHI:        of their pants.,P
+26,27,CHI:        so that's all I know.,I
+26,27,CHI:        um.,NA
+26,27,CHI:        this is corn that Indians use right?,F+L
+26,27,CHI:        that used to use.,F
+26,27,"CHI:        but now, they use regular kind of corn.",F+T+L
+26,27,CHI:        like Ann Arbor corn right?,T+L
+26,27,"CHI:        and, but they still have those red and black, um things.",P+T
+26,27,CHI:        and they have peel things except they're not real long.,P
+26,27,CHI:        that's all I know.,I
+26,27,CHI:        an owl.,L
+26,27,"CHI:        I never see them, but I know they look like that.",I+P
+26,27,CHI:        they have a little beak.,P
+26,27,CHI:        and they're supposed to have like nostrils right between their um their beak.,P
+26,27,CHI:        and they're supposed to have pointy little ears.,P
+26,27,CHI:        and they're and they're supposed to have little tiny claws.,P
+26,27,CHI:        and they're supposed to stick out when he's flying.,P+F
+26,27,CHI:        to a tree.,F
+26,27,CHI:        and you know what?,NA
+26,27,CHI:        if he wants to get away from guess what?,F
+26,27,CHI:        they can eat skunks.,F
+26,27,CHI:        because they they can't smell but they can find.,F
+26,27,CHI:        that's why they can eat skunks.,F
+26,27,CHI:        that's really cool but.,I
+26,27,"CHI:        they can be colored um, any color.",P
+26,27,"CHI:        striped polkadotted, spotted, striped and spotted, spotted and and, spotted and and red stripes ?and like like squares or anything like that?.",P
+26,27,CHI:        oh I didn't see this.,NA
+26,27,CHI:        a cherry pie.,L
+26,27,"CHI:        um, they have cherries and and you bake (th)em.",P+F
+26,27,CHI:        and these are like um cookie dough but um they're hard when you bake (th)em.,P+T+F
+26,27,"CHI:        um, guess what.",NA
+26,27,CHI:        that's crust.,P
+26,27,CHI:        but it's like cookie dough except it's not sweet.,P+T+I
+26,27,CHI:        oh this is the police.,L
+26,27,"CHI:        they have guns but, they only use them for shooting.",P+F
+26,27,CHI:        um real bad guys.,F
+26,27,CHI:        and if someone does a bad thing to mother earth they lock him in jail.,F
+26,27,CHI:        right?,NA
+26,27,CHI:        right?,NA
+26,27,CHI:        and um they have like these trucks and that's what they have on (th)em.,F
+26,27,CHI:        except they have one on each side and they're all black.,F+P
+26,27,CHI:        except they don't have those on (th)em.,F
+26,27,CHI:        that's all I know.,I
+26,27,CHI:        oh and this is a lion.,L
+26,27,CHI:        well they're really big.,P
+26,27,"CHI:        and and daddy ones have manes, and they're always golden.",T+P
+26,27,CHI:        and they have claws.,P
+26,27,CHI:        and they pop out [= the claws].,F+P
+26,27,CHI:        see?,NA
+26,27,CHI:        like pop.,NA
+26,27,CHI:        all on fours.,P
+26,27,"CHI:        well, they walk on all four legs.",F+P
+26,27,CHI:        and and they have four and they have four paws.,P
+26,27,CHI:        and they have a um um they have sometimes they they have they have any um colored eyes but they have they all.,P
+26,27,CHI:        all cats have this kind of face.,T+P
+26,27,CHI:        and this is what the outside of the the head looks like.,P
+26,27,CHI:        and that's and those are ears.,P
+26,27,CHI:        you can't quite see (th)em.,P
+26,27,CHI:        and when they hunting they blend into the golden grass.,F+P
+26,27,CHI:        and then when they and when the gazelles um run.,T+F
+26,27,CHI:        they just pounce out and grab one.,F
+26,27,CHI:        and then they bite (th)em on their neck.,F
+26,27,"CHI:        I have a cat book and, the they flush their neck.",I+T+F
+26,27,CHI:        mm.,NA
+26,27,CHI:        and that's that's how they do it.,F
+26,27,CHI:        and they have big big muscles.,P
+26,27,"CHI:        and if they eat too much, they can die.",F
+26,27,CHI:        they can.,NA
+26,27,CHI:        or get a stomach ache.,F
+26,27,CHI:        oh but look it right there.,NA
+26,27,CHI:        he didn't die though.,P
+26,27,CHI:        he just got hurt.,F
+26,27,"CHI:        um, a bread um, a bread dough doughnut.",T
+26,27,CHI:        I mean a bread pretzel.,L
+26,27,CHI:        well I only know they're shaped like pretzels and um and they're breaded.,P+T
+26,27,CHI:        and they're made out of bread.,F+T
+26,27,CHI:        and they're this big.,P
+26,27,CHI:        and that's all I know.,I
+26,27,CHI:        oh this is a cobra.,L
+26,27,CHI:        do you know the motor the Mighty_Morphin_Power_Rangers?,I
+26,27,CHI:        well one time I got it but that was a long time ago and guess what.,I
+26,27,CHI:        I got and the bad guy finally got a power that would destroy a Power_Ranger.,I
+26,27,CHI:        and it was this.,I+T
+26,27,CHI:        it was a kind of cobra.,I+T+L
+26,27,CHI:        and it and it was like a shadow.,I+F
+26,27,CHI:        and um it would get on his back but it was a cobra and and it could destroy him with lighting power.,I+F+L
+26,27,CHI:        if it would bite him like.,I+F
+26,27,CHI:        and then it there would be orange lighting all over him.,I+F+P
+26,27,CHI:        and then he would fall.,I+F
+26,27,CHI:        but not to death.,I+F
+26,27,"CHI:        well, there's king cobras but ?I know about them but?.",T+I+L
+26,27,CHI:        they have that but it's bigger.,T+P
+26,27,CHI:        and they can smell better.,T+F
+26,27,"CHI:        and, and they're wider.",T+P
+26,27,CHI:        and they're bigger.,T+P
+26,27,CHI:        and they're longer.,T+P
+26,27,CHI:        and they have rattle a huge rattle.,T+P
+26,27,CHI:        this long.,T+P
+26,27,CHI:        this long.,NA
+26,27,CHI:        actually this long.,NA
+26,27,CHI:        as long as this.,NA
+26,27,CHI:        see?,NA
+26,27,CHI:        as long as there.,NA
+26,27,CHI:        that's how long.,NA
+26,27,CHI:        and they're huge.,T+P
+26,27,CHI:        that's all I know.,I
+27,31,CHI:        teacher.,L
+27,31,CHI:        she teaches.,P
+27,31,"CHI:        hm, um, uh, I'm not sure of what else I should tell him.",NA
+27,31,CHI:        I don't actually know much about it either.,I
+27,31,CHI:        hm.,NA
+27,31,CHI:        I don't actually know.,NA
+27,31,CHI:        well I well I'm not gonna see my old teachers until I until the Mini Mash.,I+F+L
+27,31,"CHI:        I won't see my my um old teachers until the Mini Mash, in the fall.",L
+27,31,"CHI:        spring, spring is gonna take a long time before it's done.",F
+27,31,CHI:        but I'm glad (be)cause I'm I was getting a on my on my last day of school I was getting a little bored of school.,I+F
+27,31,CHI:        but I am going to a new school.,I+F
+27,31,CHI:        xxx [= name of school].,I+F
+27,31,CHI:        uh my sister is always pulling my chair out.,I
+27,31,CHI:        when I'm eating breakfast.,I
+27,31,CHI:        it she's always pulling my chair out.,NA
+27,31,CHI:        I don't actually know anything about that one.,NA
+27,31,CHI:        elephant.,L
+27,31,"CHI:        um, they're loud.",P
+27,31,"CHI:        um, they have sharp tusks.",P
+27,31,CHI:        broccoli.,L
+27,31,"CHI:        um it's, healthy.",P
+27,31,CHI:        it is yummy.,I+P
+27,31,"CHI:        and I know one more, which I don't remember.",I
+27,31,CHI:        it has Vitamin_C.,P
+27,31,CHI:        my mom oh my mom told me that anything that's green has Vitamin_C in it.,I+P
+27,31,CHI:        and you know what?,NA
+27,31,CHI:        I from school I planted a bean plant and it's already huge and one of the beans are skinny still but they're but they're already like this big.,I+F+T+P
+27,31,CHI:        they're a little bit bigger than this.,I+P
+27,31,CHI:        they're like this big.,NA
+27,31,CHI:        I watered it a lot.,I+F
+27,31,CHI:        I've watered it so much since I got it.,I+F
+27,31,CHI:        well I've  watered it so much since I planted it too.,I+F
+27,31,CHI:        I planted I I started planting it at school.,I+F
+27,31,CHI:        well that was actually when this year started.,I+F
+27,31,CHI:        I did it.,I+F
+27,31,CHI:        actually probably in the middle of this year it actually happened.,I+F
+27,31,CHI:        in the middle of this year it happened.,NA
+27,31,CHI:        cake.,L
+27,31,CHI:        yummy.,I+P
+27,31,CHI:        you bake it.,F
+27,31,CHI:        witch.,L
+27,31,CHI:        I don't know.,I
+27,31,CHI:        it scares it's scary.,P
+27,31,"CHI:        um, it shows up on Halloween.",F
+27,31,CHI:        horse.,L
+27,31,"CHI:        um, um, it is big.",P
+27,31,"CHI:        and, it is fast.",P
+27,31,CHI:        no.,NA
+27,31,CHI:        I don't know.,I
+27,31,CHI:        I don't know what it is.,NA
+27,31,CHI:        uh cereal.,L
+27,31,"CHI:        um, it is um healthy.",I
+27,31,CHI:        it is yummy.,I+P
+27,31,CHI:        hm.,NA
+27,31,CHI:        football player.,L
+27,31,"CHI:        um, I don't know.",I
+27,31,CHI:        I don't know.,NA
+27,31,CHI:        one time well today my while we were eating breakfast my sister fell out of her chair.,I
+27,31,CHI:        and she fell head first.,I
+27,31,CHI:        I don't actually know anything.,NA
+27,31,CHI:        I don't actually know much about it either.,NA
+27,31,CHI:        I don't actually I actually I don't know anything about it.,NA
+27,31,CHI:        I don't actually know what I I don't actually know anything about about this one either.,NA
+27,31,CHI:        I don't know anything.,NA
+27,31,CHI:        I don't actually really know.,NA
+27,31,CHI:        hm.,NA
+27,31,CHI:        crab.,L
+27,31,"CHI:        mm it hurts when, when it chomps chomps you with these.",F+P
+27,31,CHI:        it hurts.,NA
+27,31,"CHI:        hm, I'm not sure what else.",I
+27,31,CHI:        I remembered.,I
+27,31,"CHI:        um, you find (th)em at the beach.",F
+27,31,CHI:        hey get get xxx.,NA
+27,31,CHI:        alligator.,L
+27,31,"CHI:        um, I don't know.",I
+27,31,CHI:        I remembered.,I
+27,31,CHI:        it lives in the river.,F
+27,31,"CHI:        um, it eats other fish I think.",F+T
+27,31,CHI:        clown.,L
+27,31,CHI:        it's funny.,P
+27,31,CHI:        it wears big shoes.,P
+27,31,CHI:        cereal.,L
+27,31,"CHI:        um, could you put milk in it.",F+T
+27,31,CHI:        and it's yummy.,I+P
+27,31,CHI:        penguin.,L
+27,31,"CHI:        um, it lives in Antarctica.",F
+27,31,"CHI:        um, uh I don't know anything else.",I
+27,31,CHI:        uh it's a good swimmer.,P
+27,31,CHI:        pilot.,L
+27,31,CHI:        drives the plane.,P
+27,31,"CHI:        and um, uh I don't know what anything else.",P
+27,31,CHI:        I don't know.,NA
+27,31,"CHI:        um, uh he's a good flier.",P
+27,31,CHI:        orange.,L
+27,31,CHI:        it's fruit and it's yummy.,T+I+P
+27,31,"CHI:        um, you could you find it at the store.",F
+28,37,CHI:        snake.,L
+28,37,CHI:        they can like crawl.,F
+28,37,CHI:        and they can do they can stick their tongue out.,F+P
+28,37,CHI:        that's all that I know.,I
+28,37,CHI:        I think.,I
+28,37,CHI:        yeah.,NA
+28,37,CHI:        I'm gonna think.,NA
+28,37,CHI:        he doesn't know anything.,NA
+28,37,CHI:        he doesn't talk?,NA
+28,37,CHI:                              ?no??,NA
+28,37,CHI:        yeah?,NA
+28,37,CHI:        he likes he likes to listen to everything?,NA
+28,37,CHI:        since [?] he doesn't know about anything?,NA
+28,37,CHI:        okay.,NA
+28,37,"CHI:        I think that, um, what was the first page?",NA
+28,37,"CHI:        I think it can, it can smell.",F
+28,37,CHI:        like smell people.,F
+28,37,CHI:        like they can smell everything.,F
+28,37,CHI:        I watched a movie with my dad.,I
+28,37,CHI:        and it was about a snake.,I+L
+28,37,CHI:        and he bit his belly.,I+F+P
+28,37,CHI:        and blood came out.,I+F+P
+28,37,CHI:        like right about here &=points:stomach.,I+P
+28,37,CHI:        like where that was.,NA
+28,37,CHI:        they can do that too.,F
+28,37,CHI:        that's all that I know.,NA
+28,37,CHI:        uh oh.,NA
+28,37,CHI:        person on a boat.,T
+28,37,CHI:        ?<like a> [?]? +...,NA
+28,37,"CHI:        they can, put people in jail.",F
+28,37,"CHI:        and they can, call the phone if there's trouble.",P+F
+28,37,CHI:        like if someone stealed a bank.,F
+28,37,CHI:        the money at the bank.,F
+28,37,CHI:        or stealed the stuff at the store.,F
+28,37,"CHI:        then, or at restaurants.",F
+28,37,CHI:        they can do that.,F
+28,37,CHI:        then the police can come.,F+L
+28,37,CHI:        that's all that I know.,I
+28,37,CHI:        yeah.,NA
+28,37,CHI:        let me think what else.,I
+28,37,CHI:        huh.,NA
+28,37,CHI:        if they steal the stuff at your house.,F
+28,37,CHI:        and then the police men will come and take it to jail.,F+L
+28,37,CHI:        then there will be no +...,NA
+28,37,CHI:        you know what my dad has a job of?,I+T
+28,37,CHI:        policeman.,I+L
+28,37,CHI:        he he works at night.,I+F
+28,37,CHI:        he has two more nights that he needs to work.,I+F
+28,37,CHI:        then he well then uh a new +...,I
+28,37,CHI:        you know we had a yucky green day out day and and it was raining.,NA
+28,37,CHI:        and hail hail come down <like that> [?].,NA
+28,37,CHI:        we're gonna go on a vacation.,NA
+28,37,CHI:        like at the beach.,NA
+28,37,CHI:        and we go to the store and buy stuff for it.,NA
+28,37,CHI:        we have six more days.,NA
+28,37,CHI:        what else is about this?,NA
+28,37,CHI:        oh I know.,I
+28,37,CHI:        I think I know about if there's trouble at the beach then the police man will come to the beach.,I+F+L
+28,37,CHI:        and get the bad guys and pull it out of the sand and take it to its truck.,F
+28,37,CHI:        and then drive away to jail.,F
+28,37,CHI:        yeah.,NA
+28,37,"CHI:        that's, what I know.",NA
+28,37,CHI:        owl.,L
+28,37,CHI:        owls can fly.,F+L
+28,37,CHI:        they can stand on wood.,P
+28,37,CHI:        they can they can go home.,F
+28,37,CHI:        I think they can smell.,F
+28,37,CHI:        they can eat.,F
+28,37,CHI:        hm.,NA
+28,37,CHI:        they can go to bed.,F
+28,37,CHI:        yeah.,NA
+28,37,CHI:        let me think.,I
+28,37,"CHI:        they can, go any everywhere they want.",F
+28,37,CHI:        I think that's all that I know.,I
+28,37,CHI:        it's gonna take like one minute.,NA
+28,37,CHI:        when it's point when the when a clock points to one that means it's done <I think> [?].,NA
+28,37,CHI:        okay.,NA
+28,37,"CHI:        can stand it can, go make stuff.",P+F
+28,37,"CHI:        and they can, fly to the like house.",F
+28,37,CHI:        or to the new house.,F
+28,37,CHI:        you know what owls live in?,I+F+L
+28,37,CHI:        trees.,F
+28,37,CHI:        they can get in.,F
+28,37,CHI:        squirrels can climb in trees.,T+F
+28,37,CHI:        but owls live in them.,T+F+L
+28,37,"CHI:        you know, it it has a tail.",I+P
+28,37,"CHI:        and, owls are kind of soft.",P+L
+28,37,CHI:        some has blue beaks.,P
+28,37,CHI:        some has these kind of eyes.,P
+28,37,CHI:        some has stripes like an +...,P
+28,37,CHI:        and what are these sharp sharpy things?,P
+28,37,CHI:        I think they pinch a hole in here and then to make it stay.,P
+28,37,CHI:        and they pull it out to fly away.,F+P
+28,37,CHI:        chickens have that.,T+P
+28,37,CHI:        because one day we went to a little kid zoo and we pet sheeps.,I+T
+28,37,CHI:        and they had chickens there that we pet.,I+T+F
+28,37,CHI:        and they were soft.,I+T+P
+28,37,CHI:        do you think chickens are soft like owls?,I+T+P+L
+28,37,CHI:        owls are kind of big birds.,P+T+L
+28,37,CHI:        hm.,NA
+28,37,CHI:        that's all that I know.,NA
+28,37,CHI:        muscle man.,L
+28,37,CHI:        he can lift up this.,F
+28,37,CHI:        he can lift up heavy stuff.,F
+28,37,CHI:        like this table.,F
+28,37,"CHI:        he can, lift up, um, something in here.",F
+28,37,CHI:        a couch.,F
+28,37,CHI:        he can lift up a big box.,F
+28,37,"CHI:        and, big chairs.",F
+28,37,CHI:        that's all that I know.,I
+28,37,CHI:        yeah.,NA
+28,37,CHI:        okay.,NA
+28,37,CHI:        why was he in the box?,NA
+28,37,CHI:        that's his home?,NA
+28,37,CHI:        he lives in a box?,NA
+28,37,CHI:        I know a pig that lives in a box.,NA
+28,37,CHI:        some pigs do that can talk.,NA
+28,37,CHI:        yeah.,NA
+28,37,CHI:        I saw one on a on tv at our house.,NA
+28,37,CHI:        we live at xxx [= city].,NA
+28,37,CHI:        right next to that xxx.,NA
+28,37,"CHI:        and we have a next neighbors name is, there's Firstname, Firstname and Firstname.",NA
+28,37,CHI:        um but that's all that I know.,NA
+28,37,CHI:        he can lift up a house I think.,I+F
+28,37,CHI:        someone's carrying vegetables.,P
+28,37,CHI:        I think for for her animals.,I+F
+28,37,CHI:        a farmer.,L
+28,37,"CHI:        she can, buy stuff at the store.",F
+28,37,"CHI:        you know, they farmers own cornfields.",F+L
+28,37,"CHI:        yeah, they do.",NA
+28,37,"CHI:        he can lift a, um, big big uh doors.",F
+28,37,CHI:        that's all that I +...,NA
+28,37,CHI:        but farmers do something else.,F+L
+28,37,CHI:        they live in barns.,P
+28,37,"CHI:        don't they have a rooster on top of their, place?",F
+28,37,CHI:        I think they do.,NA
+28,37,"CHI:        okay she can, put she can go to bed.",F
+28,37,CHI:        she can smell.,F
+28,37,CHI:        she can eat.,F
+28,37,CHI:        she can see.,P
+28,37,"CHI:        she can do, everything.",F
+28,37,CHI:        everything.,NA
+28,37,CHI:        okay.,NA
+28,37,CHI:        a strawberry.,L
+28,37,"CHI:        well I don't know why these have, leafs on them.",I+P
+28,37,CHI:        do you think because I think because it was on a tree.,I+F
+28,37,CHI:        do strawberries grow on trees?,F+L
+28,37,CHI:        maybe.,NA
+28,37,CHI:        or strawberry bushes.,F+L
+28,37,CHI:        bushes have leafs on them?,F+P
+28,37,"CHI:        hm strawberries, can be on paper.",P+L
+28,37,CHI:        you can make strawberries on paper.,P+L
+28,37,CHI:        hm.,NA
+28,37,"CHI:        they, can, do, let me think.",I
+28,37,"CHI:        they can, they grow.",F
+28,37,CHI:        I don't know what they grow on.,I+F
+28,37,CHI:        okay what else can it do?,F
+28,37,CHI:        xxx.,NA
+28,37,"CHI:        I think it can do, um, I think it can, do, something, like, they can go.",F
+28,37,"CHI:        they can, go into water.",F
+28,37,CHI:        like if someone drops it in.,F
+28,37,CHI:        yeah.,NA
+28,37,CHI:        that's all that I know.,I
+28,37,CHI:        this one now.,NA
+28,37,CHI:        pie.,L
+28,37,"CHI:        is this kind of pie, basket?",T+L
+28,37,CHI:        basket of peanuts?,T+P
+28,37,CHI:        is it pie?,L
+28,37,CHI:        I think pie.,L
+28,37,CHI:        peanuts in a pie.,P+L
+28,37,CHI:        like a peanut pie.,T+L
+28,37,CHI:        you know at school we had a pumpkin pie.,I+T+L
+28,37,CHI:        but it was not in these kind of things.,I+T+P
+28,37,CHI:        it was on a napkin.,I+F
+28,37,CHI:        and I really liked it.,I
+28,37,CHI:        it had whipped cream on it.,I+F+T
+28,37,CHI:        well I know there is a cherry.,I+T
+28,37,CHI:        cherry pies.,T+L
+28,37,CHI:        and there's strawberry pies.,T+L
+28,37,CHI:        blueberry pies.,T+L
+28,37,"CHI:        and that there is, um, um I've think I think there is banana pies.",T+L
+28,37,CHI:        there banana pies?,L
+28,37,CHI:        I think there is.,NA
+28,37,"CHI:        like if, people give monkeys um um a dessert then he would give a banana one.",F+T
+28,37,CHI:        banana pie like that.,T+L
+28,37,CHI:        mm-hm [= yes].,NA
+28,37,CHI:        you just make a pie and put bananas on it.,F+P+L
+28,37,CHI:        that's how you make a banana ?pie?.,F+T+L
+28,37,CHI:        yep.,NA
+28,37,"CHI:        and, it just, let me think.",I
+28,37,CHI:        you can eat pies.,F+L
+28,37,CHI:        you can smell pies.,F+L
+28,37,CHI:        yep that's all that I know.,I
+28,37,CHI:        a bunny.,L
+28,37,CHI:        bunny can hear.,F+L
+28,37,CHI:        and see.,P
+28,37,CHI:        and smell.,F
+28,37,CHI:        and they can jump.,F
+28,37,CHI:        they have tails.,P
+28,37,"CHI:        hm, and they can we saw the bunny in our nana's yard.",I+F+L
+28,37,CHI:        backyard.,NA
+28,37,CHI:        but she doesn't not like have she does not have a play set.,NA
+28,37,CHI:        same as our grandma.,NA
+28,37,CHI:        she just has toys.,NA
+28,37,CHI:        but not bunnies.,I+L
+28,37,CHI:        bunnies live everywhere?,F+L
+28,37,CHI:        bunnies do?,L
+28,37,CHI:        I think they do.,NA
+28,37,CHI:        is he a puppet?,NA
+28,37,CHI:        yeah.,NA
+28,37,CHI:        he is?,NA
+28,37,CHI:        a puppet.,NA
+28,37,CHI:        that's why he doesn't talk?,NA
+28,37,CHI:        because he's a puppet?,NA
+28,37,"CHI:        um, like if they stop the things they will go home and do get something.",F
+28,37,CHI:        pretzel.,L
+28,37,CHI:        you can I really like these white things on it.,I+P
+28,37,CHI:        so I try to pull (th)em off and eat them.,I+P+F
+28,37,CHI:        but I do.,NA
+28,37,CHI:        I like these kind.,I
+28,37,CHI:        does it mean [?] like that right here?,NA
+28,37,CHI:        then it goes like a heart.,P
+28,37,CHI:        and then this xxx right here.,NA
+28,37,"CHI:        um, you can eat them.",F
+28,37,"CHI:        hm, um.",NA
+28,37,CHI:        they can make shadows.,P
+28,37,CHI:        I that's all that I know.,I
+28,37,"CHI:        okay, let me think.",I
+28,37,"CHI:        they, have big bumps on them like this.",P
+28,37,CHI:        he can see.,NA
+28,37,CHI:        that's all that I know.,NA
+28,37,CHI:        lion.,L
+28,37,CHI:        they [?] can he has a tail.,P
+28,37,CHI:        he can hear.,F
+28,37,CHI:        and he can smell.,F
+28,37,CHI:        and he can roar.,F
+28,37,CHI:        he can poop and pee.,F
+28,37,CHI:        he has hair all over him.,P
+28,37,CHI:        hm.,NA
+28,37,CHI:        it can do walk.,F
+28,37,CHI:        you know how lions walk?,I+F+L
+28,37,CHI:        they crawl.,F
+28,37,"CHI:        yeah, a cup.",L
+28,37,CHI:        you can drink out of cups.,F+L
+28,37,CHI:        you can make cups.,F+L
+28,37,"CHI:        that's, that's how you make cups.",F+L
+28,37,CHI:        and you can drink out of it.,F
+28,37,CHI:        like drink lemonade.,F+T
+28,37,"CHI:        mm you can, let me think.",I
+28,37,CHI:        you can eat when you drink.,F
+28,37,CHI:        like when I always do it.,I+F
+28,37,CHI:        like drink and then eat and then drink after I eat lunches.,I+F
+28,37,CHI:        and then start over again.,F
+28,37,CHI:        hm.,NA
+28,37,CHI:        that's what I do.,I
+28,37,CHI:        what is this?,NA
+28,37,CHI:        corn.,L
+28,37,CHI:        this a corn?,L
+28,37,CHI:        it looks is it a dead corn?,P+L
+28,37,CHI:        corn sometimes look like this?,P+L
+28,37,CHI:        they can grow this is when they have babies.,F
+28,37,"CHI:        and, they have these things.",P
+28,37,CHI:        must be a dead baby.,I+P
+28,37,CHI:        that's all that I know.,I
+28,37,"CHI:        um, let me think.",I
+28,37,CHI:        you can serve it in the meal.,F
+28,37,CHI:        like that.,NA
+28,37,CHI:        that's all that I know.,NA
+28,37,CHI:        froggie.,L
+28,37,CHI:        he can jump.,F
+28,37,CHI:        these are what catfishes have?,T+P
+28,37,CHI:        these what kind of feet that catfishes have?,T+P
+28,37,CHI:        one two three four.,P
+28,37,CHI:        why do they only have four?,P
+28,37,CHI:        one two three four.,NA
+28,37,CHI:        they have three legs and four fingers.,P
+28,37,"CHI:        can, only do a little bit.",F
+28,37,CHI:        that helps it jump.,P+F
+28,37,CHI:        xxx.,NA
+28,37,CHI:        that's all that I know.,I
+28,37,CHI:        he he can eat.,F
+28,37,CHI:        they can jump jump on lively pads lilly pads.,F
+28,37,CHI:        that's all that I know.,NA
+28,37,"CHI:        I do, um, I don't know.",I
+28,37,"CHI:        man riding on, what is this kind of board?",L+P
+28,37,"CHI:        you can like, like you can get wet.",P
+28,37,CHI:        and you need your bathing suits.,P
+28,37,CHI:        that's all that I know.,I
+28,37,CHI:        he has five fingers.,P
+28,37,CHI:        and he's in the water.,P
+28,37,CHI:        that's all that I know.,NA
+28,37,CHI:        now a prince.,T
+28,37,CHI:        um kid princes are called princes.,T
+28,37,CHI:        and dad princes is called kings.,T+L
+28,37,CHI:        so is this a king?,L
+28,37,CHI:        might be a king.,L
+28,37,CHI:        so he can eat smell talk.,F
+28,37,CHI:        even go to bed.,F
+28,37,CHI:        that's all that I know.,I
+28,37,CHI:        he can sit ?down?.,P
+28,37,"CHI:        he can, like sit down and eat.",P+F
+28,37,CHI:        let me think about something else.,I
+28,37,CHI:        he can walk.,F
+28,37,CHI:        that's all that I know.,NA
+29,48,CHI:        and the man is getting out.,P+L
+29,48,CHI:        a ballerina.,L
+29,48,CHI:        she's wearing dance [?] shoes.,P
+29,48,CHI:        they dance.,F
+29,48,"CHI:        I used to be, in a dance class.",I+F
+29,48,CHI:        it swims in the sea.,P
+29,48,CHI:        they can swim.,P
+29,48,CHI:        a parrot.,L
+29,48,"CHI:        they can, fly.",F
+29,48,CHI:        I never seen one.,I
+29,48,CHI:        they can stand on tree trunks.,F
+29,48,CHI:        they can stand on tree branches.,P+F
+29,48,CHI:        I don't know.,I
+29,48,CHI:        orange.,T
+29,48,CHI:        is it pears?,T
+29,48,CHI:        I like pears.,I+T
+29,48,CHI:        you can eat it but you gotta <peel> [?] off the skin first.,F+P
+29,48,CHI:        but we don't buy the big ones.,I+F
+29,48,CHI:        we buy the little ones in cans.,I+F
+29,48,CHI:        ice cream cone.,L+P
+29,48,CHI:        this is a cone.,P
+29,48,CHI:        and this is ice cream.,L
+29,48,CHI:        this is ice cream.,L
+29,48,CHI:        that's a cone.,P
+29,48,CHI:        and you eat the ice cream.,F+L
+29,48,CHI:        if you like cones you can eat the cone.,F
+29,48,"CHI:        I eat the cones (be)cause, I don't eat very much cones (be)cause some of them are yucky.",I+F
+29,48,CHI:        but a whole bunch of them are yummy.,F+I
+29,48,CHI:        I like a whole bunch of those cones.,I+F
+29,48,CHI:        I like the ones that have flat on the bottom.,I+T
+29,48,CHI:        but I like some that have point.,I+T
+29,48,CHI:        not very much though.,I
+29,48,CHI:        a butterfly.,L
+29,48,CHI:        it can flap its wings in the sky.,F+P
+29,48,CHI:        it used to be a caterpillar.,F+T
+29,48,CHI:        but it makes a crystal and then it goes inside it.,F
+29,48,CHI:        and then it turns into a butterfly.,F+L
+29,48,CHI:        a cracker.,L
+29,48,CHI:        you can eat it.,F
+29,48,CHI:        mm it has little holes in it [?].,P
+29,48,CHI:        a pumpkin.,L
+29,48,CHI:        it's orange.,P
+29,48,CHI:        this is the stem.,P
+29,48,CHI:        and down here's the xxx this stem.,P
+29,48,"CHI:        and, you can make pumpkins into a mean pumpkin or a nice pumpkin.",F+L
+29,48,CHI:        or you can make it into yourself.,F
+29,48,"CHI:        or, you could keep it plain and paint it.",F
+29,48,CHI:        or you can cut it.,F
+29,48,CHI:        but me and mom when we have big ones we jus- open up.,I+F
+29,48,CHI:        we don't uh decorate it.,I+F
+29,48,CHI:        we don't make a silly face.,I+F
+29,48,CHI:        (be)cause we like to play with the stuff inside of it.,I+F+P
+29,48,CHI:        and &=sneezes.,NA
+29,48,"CHI:        and sometimes, my mom likes to eat the inside.",I+F+P
+29,48,CHI:        a old lady.,L
+29,48,"CHI:        she, can't walk very good so she gots a pointy stick.",F
+29,48,"CHI:        it gots, silver hair.",P
+29,48,CHI:        and it gots green necklaces.,P
+29,48,"CHI:        and one, black one.",P
+29,48,CHI:        and it's wearing blue pants.,P
+29,48,CHI:        and blue shoes.,P
+29,48,CHI:        and a pink coat.,P
+29,48,CHI:        and its shirt is green with blue xxx.,P
+29,48,CHI:        a fireman.,L
+29,48,CHI:        it gots a hat.,P
+29,48,CHI:        puts out the fire.,P
+29,48,CHI:        a kitty.,L
+29,48,CHI:        it gots green eyes.,P
+29,48,CHI:        its brown and it gots black stripes.,P
+29,48,CHI:        and its nose is pink.,P
+29,48,CHI:        a author.,L
+29,48,CHI:        I don't remember.,I
+29,48,CHI:        a fox.,T
+29,48,CHI:        a ?skunk?.,L
+29,48,CHI:        it's black and it gots a white stripe.,P
+29,48,CHI:        I mean a yellow stripe.,P
+29,48,"CHI:        and it's it gots a black, white forehead.",P
+29,48,CHI:        it gots pointy toes.,P
+29,48,CHI:        it got brown eyes.,P
+29,48,"CHI:        it got, and it can put out stinky smells.",F+P
+29,48,CHI: a cupcake.,L
+29,48,CHI:        it gots nuts on it.,P
+29,48,CHI:        it gots a wrapper.,P
+30,59,CHI:        ladybug &=whispers:to_Zorg.,L
+30,59,CHI:        ladybug [= as Zorg].,L
+30,59,CHI:        xxx crawl xxx &=whispers:to_Zorg.,F
+30,59,CHI:        um they're ladybugs [= as Zorg] .,L
+30,59,CHI:        and they crawl on something [= as Zorg] .,F
+30,59,"CHI:        and they um, they um, they don't bite [= as Zorg] .",F
+30,59,CHI:        and they crawl on you [= as Zorg] .,F
+30,59,CHI:        it flies &=whispers:to_Zorg.,F
+30,59,CHI:        it flies [= as Zorg].,NA
+30,59,"CHI:        um a pig, yeah [= as Zorg].",L
+30,59,CHI:        xxx runs in mud &=whispers:to_Zorg.,F
+30,59,CHI:        he runs in mud [= as Zorg].,NA
+30,59,CHI:        eh eh [= pig noise] &=whispers:to_Zorg.,P
+30,59,CHI:        uh eh eh [= pig noise] [= as Zorg].,NA
+30,59,CHI:        and xxx babies &=whispers:Zorg.,F
+30,59,CHI:        it has babies [= as Zorg].,NA
+30,59,CHI:        carrot [= as Zorg].,L
+30,59,CHI:        um &=whispers:to_Zorg it's a vegetable.,T
+30,59,CHI:        &=whispers:to_Zorg xxx.,NA
+30,59,CHI:        it's a vegetable [= as Zorg].,NA
+30,59,"CHI:        and it um, and and strong for you and makes muscles [= as Zorg].",F
+30,59,CHI:        it's a carrot &=whispers:to_Zorg.,L
+30,59,CHI:        it's a carrot [= as Zorg].,L
+30,59,CHI:        pirate &=whispers:to_Zorg.,L
+30,59,CHI:        pirate [= as Zorg].,L
+30,59,CHI:        &=whispers:to_Zorg xxx and xxx.,NA
+30,59,CHI:        these are pirates [= as Zorg].,L
+30,59,CHI:        and they have parrots [= as Zorg] .,NA
+30,59,CHI:        and they're mean [= as Zorg] .,I
+30,59,CHI:        and they try to steal treasures.,F
+30,59,CHI:        treasure-and treasure [= as Zorg] .,NA
+30,59,CHI:        &=whispers:to_Zorg doctor.,L
+30,59,CHI:        doctor [= as Zorg].,L
+30,59,CHI:        &=whispers:to_Zorg it's a doctor and it helps people.,F+L
+30,59,"CHI:        it's a doctor and it help, helps people [= as Zorg].",NA
+30,59,"CHI:        um um, yeah um, ah &=whispers:to_Zorg He's good xxx.",I
+30,59,CHI:        he's good and not evil [= as Zorg].,I
+30,59,CHI:        &=whispers:to_Zorg they help you and they take care of you.,F
+30,59,CHI:        they help you and they take care of you [= as Zorg].,NA
+30,59,CHI:        &=whispers:to_Zorg bread.,L
+30,59,CHI:        bread [= as Zorg].,L
+30,59,CHI:        &=whispers:to_Zorg xxx.,NA
+30,59,"CHI:        you have um um, butter or something, yep eh doe [= as Zorg] &=makes:noises [= for Zorg].",T
+30,59,CHI:        &=whispers:to_Zorg uh xxx eat it.,F
+30,59,CHI:        you eat it [= as Zorg].,NA
+30,59,CHI:        &=whispers:to_Zorg it's a artists.,L
+30,59,CHI:        it's a artist [= as Zorg].,L
+30,59,"CHI:        um, it draws things [= as Zorg].",P
+30,59,CHI:        &=whispers:to_Zorg cheese that mice like.,F+L
+30,59,CHI:        cheese that mice like [= as Zorg].,NA
+30,59,CHI:        they bite [= as Zorg].,NA
+30,59,CHI:        &=whispers:to_Zorg you eat it.,F
+30,59,CHI:        you eat it [= as Zorg].,NA
+30,59,CHI:        &=whispers:to_Zorg puppy.,L
+30,59,CHI:        puppy [= as Zorg].,L
+30,59,CHI:        &=whispers:to_Zorg chews up things.,F
+30,59,CHI:        chews up things [= as Zorg].,NA
+30,59,CHI:        &=whispers:to_Zorg jumps on things wrestles you.,F
+30,59,CHI:        jumps on things and wrestles you [= as Zorg].,NA
+30,59,CHI:        &=whispers:to_Zorg baby xxx.,L
+30,59,CHI:        it's a baby [= as Zorg].,L
+30,59,"CHI:        and he and, and lays down and [= as Zorg] +...",P
+30,59,CHI:        a baby.,L
+30,59,CHI:        uh I ?mean? &=puts:Zorg_on_hand +...,NA
+30,59,CHI:        &=whispers:to_Zorg it's a baby.,L
+30,59,CHI:        it's a baby [= as Zorg].,L
+30,59,CHI:        &=whispers:to_Zorg xxx.,NA
+30,59,CHI:        cries and likes to sleep [= as Zorg].,F
+30,59,CHI:        &=whispers:to_Zorg change diapers.,F+P
+30,59,CHI:        change diapers [= as Zorg].,NA
+30,59,CHI:        &=whispers:to_Zorg a [?] cookie.,L
+30,59,CHI:        cookie [= as Zorg].,L
+30,59,CHI:        uh you can [= as Zorg] +...,NA
+30,59,CHI:        &=whispers:to_Zorg you can eat it.,F
+30,59,CHI:        you can eat it [= as Zorg].,NA
+30,59,CHI:        &=whispers:to_Zorg xxx chocolate.,P
+30,59,CHI:        chocolate [= as Zorg].,NA
+30,59,CHI:        &=whispers:to_Zorg duck that [?] swims.,F+L
+30,59,"CHI:        duck that swims, swims [= as Zorg].",L
+30,59,CHI:        &=whispers:to_Zorg quack Quack.,P
+30,59,CHI:        quack quack [= as Zorg].,NA
+30,59,CHI:        xxx female [= to Zorg].,T
+30,59,CHI:        what's a boy duck [= to INV]?,T+L
+30,59,CHI:        hm.,NA
+30,59,"CHI:        male, I mean male.",T
+30,59,CHI:        &=whispers:to_Zorg male.,NA
+30,59,CHI:        male [= as Zorg].,NA
+30,59,CHI:        &=whispers:to_Zorg banana that monkeys eat.,F+L
+30,59,CHI:        it's a banana [= as Zorg].,L
+30,59,CHI:        but mon-uh [= as Zorg] monkeys eat monkeys eat [= to Zorg].,NA
+30,59,CHI:        &=whispers:to_Zorg people eat it too.,F
+30,59,CHI:        people eat it too [= as Zorg].,NA
+30,59,CHI:        &=whispers:to_Zorg xxx.,NA
+30,59,CHI:        it's called a hand bananzs [= as Zorg].,T
+30,59,CHI:        &=whispers:to_Zorg turtle that swims in water.,F+L
+30,59,CHI:        turtle that swims in wate- water [= as Zorg].,L
+30,59,CHI:        &=whispers:to_Zorg curls up xxx shell xxx eat it.,F+P
+30,59,CHI:        curls up in his shell if its gon-if something's gonna eat it [= as Zorg].,NA
+30,59,CHI:        &=whispers:to_Zorg snap one.,T
+30,59,CHI:        it's a snap one [= as Zorg].,NA
+30,59,CHI:        &=whispers:to_Zorg baseball player.,L
+30,59,"CHI:        baseball player, player.",L
+30,59,CHI:        &=whispers:to_Zorg xxx.,NA
+30,59,"CHI:        um, it hits the ball then er drops the pin and then it runs into a shh that, like that [= as Zorg].",F
+30,59,CHI:        um [= as Zorg].,NA
+30,59,CHI:        &=whispers:to_Zorg xxx.,NA
+30,59,CHI:        the football pl- I mean uh [= as Zorg].,T
+30,59,CHI:        &=whispers:to_Zorg baseball player.,L
+30,59,CHI:        it's a baseball player and it runs [= as Zorg].,F+L
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
