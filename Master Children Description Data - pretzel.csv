@@ -1,0 +1,37 @@
+Order,ID,Speech,Feature
+10,39,CHI:        a pretzel it looks like a shadow.,L+T
+11,38,CHI:        I don't know hardly anything about pretzels.,I+L
+11,38,CHI:        it's twisty.,P
+14,55,CHI:        pretzel.,L
+14,55,CHI:        you you eat it.,F
+14,55,CHI:        and it has sugary stuff in.,P
+14,55,CHI:        and it's colored.,P
+14,55,CHI:        it has holes.,P
+15,61,CHI:        a big pretzel.,P+L
+15,61,CHI:        kind of tied up.,P
+15,61,CHI:        it has these of little points.,P
+15,61,CHI:        and you can eat.,F
+16,56,CHI:        a pretzel.,L
+16,56,CHI:        the only thing I know about pretzels is that you eat them.,F+L
+16,56,"CHI:        no I just, that's the only thing I know about pretzels.",I+L
+25,16,CHI:        a pretzel.,L
+25,16,CHI:        I don't know what what about pretzels.,I+L
+25,16,CHI:        they're good to eat and they're so and they're healthy for you.,F+I+P
+25,16,"CHI:        and, I'm trying my best.",NA
+25,16,CHI:        and and they're also and they also taste good.,I+P
+25,16,CHI:        they taste very crispy.,P
+25,16,CHI:        have you ever had a pretzel ?,F+L
+25,16,CHI:        it's cute.,I
+25,16,CHI:         likes pretzels.,I+L
+25,16,CHI:        it looks good to eat.,I+P+F
+25,16,CHI:        and look at all those sesame seeds.,P
+25,16,CHI:        look at those sesame seeds.,NA
+25,16,CHI:         sesame seeds are are are crispier than ants.,P+T
+25,16,CHI:        you know that don't you?,I
+25,16,CHI:        are ants good?,I+T
+25,16,CHI:        well pretzels are good.,I+L
+25,16,CHI:        likes them my dog.,I
+25,16,CHI:        is a very is a very big dog .,NA
+25,16,CHI:        you could get you could get stepped on.,NA
+25,16,CHI:        it's a big dog you know and you know it.,NA
+25,16,CHI:        I think that's all about pretzels.,I+L
